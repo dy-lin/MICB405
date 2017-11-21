@@ -63,7 +63,7 @@ silva.nr_v128.tax
 Please **do not** copy the fastqs or databases to your own directory as we have limited space. Simply call them using their full path within mothur commands.
 
 ## Pipeline
-The general [mothur workflow]() is available through GitHub.
+The general [mothur workflow](https://github.com/EDUCE-UBC/MICB405_project3/blob/master/Project3_workflow.Rmd) is available through GitHub.
 
 ### Long steps
 When you are running commands that take significant time to complete (like alignment and clustering), you should run mothur in [command line mode](https://www.mothur.org/wiki/Command_line_mode) in a BASH script and allow it to run in the background. Be sure to start all scripts with `set.dir(output=)` to save all your output files in your folder and not the shared data folder.
