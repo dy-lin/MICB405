@@ -1,0 +1,96 @@
+##Project 3 workflow
+Set your output directory to your group's project 3 directory *every time you run mothur or a mothur script*  
+`set.dir(output=/home/micb405/Group*)`
+
+###Sequence clean-up
+Create a `.files` to run all `.fastqs` at once. Feel free to name your 'prefix' specific to your depth.  
+`make.file(inputdir=/home/micb405/data/project_3, prefix=Saanich)`
+
+Modify `.files` with emacs to correct sample names and include **only your sample depth**
+
+Combine paired-end reads into contigs  
+`make.contigs(file=Saanich.files)`
+
+Summarize the output  
+`summary.seqs(fasta=)`
+
+Quality control. What cutoffs do you use given the 2x300 bp quality? How long do we expect the 16S V4-V5 region to be?  
+`screen.seqs(fasta=, group=, maxambig=, maxhomop=, minlength=, maxlength=)`
+
+De-replicate to reduce processing needs  
+`unique.seqs(fasta=)`
+
+Combine `.names` and`.groups` files into a `count_table` to shorten later steps that require both files  
+`count.seqs(name=, group=)`
+
+Summarize again. This summary will inform how well your quality control in `screen.seqs` went. Were you too strict? Do you have enough data left for coverage of your sample? Could you be more strict and get better quality data?  
+`summary.seqs(fasta=, count=)`
+
+Align sequences to a database. Please only use Silva in this step as this is a LONG process and alignments to GreenGenes are of poorer quality. We recommend using `flip=T`. What does this parameter mean and why might we want to include it?  
+`align.seqs(fasta=, reference=/home/micb405/data/project_3/databases/silva.nr_v128.align, flip=T)`
+
+Summarize  
+`summary.seqs(fasta=, count=)`
+
+Cut the sequences to the same start and end. Use the previous summary to inform the cutoffs (stare and end) you want to use.  
+`screen.seqs(fasta=, count=, summary=, start=, end=)`
+
+This summary will help you to see the result of the second `screen.seqs` step. If you've lost most of your sequences, then you need to alter the start/end parameters in the previous step.  
+`summary.seqs(fasta=, count=)`
+
+The alignment step adds . and - throughout the fasta file (hence why it is now a `.align` file instead of a `.fasta`). Columns of only . or - for all sequences provide no useful data and slow down later processes. So, we remove them here.  
+`filter.seqs(fasta=, vertical=T, trump=.)`
+
+De-replicate again since alignment+filter may reveal additional identical sequences  
+`unique.seqs(fasta=, count=)`
+
+Pre-cluster very similar sequences. Consider the expected error rate of a 2x300 bp Illumina run. How many differences are actually expected sequencing error?  
+`pre.cluster(fasta=, count=, diffs=)`
+
+Again...  
+`summary.seqs(fasta=, count=)`
+
+Identify and then remove chimeric sequences  
+`chimera.uchime(fasta=, count=, dereplicate=t)`  
+`remove.seqs(fasta=, count=, accnos=)`
+
+How many sequences were chimeras?  
+`summary.seqs(fasta=, count=)`
+
+To facilitate downstream analyses, we will remove sequences that occur only once in the whole dataset (*e.g.* singletons). This may not be something you want to do when you have sufficient computational resources to work with all of your data. Here, however, we need to share the server and decrease each group's usage.  
+`split.abund(fasta=, count=, cutoff=1)`
+
+How many sequences were singletons?  
+`summary.seqs(fasta=, count=)`
+
+The file names have gotten very long at this point. You should copy and rename them as Saanich.[your depth here].final* to simplify the next analyses as well as indicate to your future self that these are the fully cleaned up data files. You can copy outside of mothur as normal with `cp` or do so within your mothur script with the `system` command. Example is for 10 meters here.  
+`system(cp Saanich.long.file.name.fasta Saanich.10m.final.fasta)`
+
+###Clustering OTUs
+Moving forward, you should use you `final` files.
+
+Calculate a distance matrix. Please use the lower triange (lt) format to save space.  
+`dist.seqs(fasta=, output=lt)`
+
+Cluster sequences. Carefully consider the method you want to use. See the [mothur command help page](https://www.mothur.org/wiki/Category:Commands) for information on the available methods.  
+`cluster(phylip=, count=, method=)`
+
+Combine the clustering and count data into a human readable OTU table. The label is the percent similarity to required to make an OTU. What cutoff do you use? What level is a microbial genus? Species? Which do you want to look at?  
+`make.shared(list=, count=, label=)`
+
+###Classify OTUs
+Classify the sequences based on a database. Silva or GreenGenes? What bootstrap cutoff for confidence in your taxonomic assignment?  
+`classify.seqs(fasta=, count=, template=, taxonomy=, cutoff=)`
+
+Use the sequence classification output to apply the resulting taxonomy to OTUs  
+`classify.otu(list=, taxonomy=, count=, label=, cutoff=, basis=otu)`
+
+###Summarize OTU table
+Summarize the data to get some descriptive statistics. There are many, many calc options found [here](https://mothur.org/wiki/Calculators).  
+`summary.single(shared=, label=, calc=nseqs-sobs-coverage)`
+
+###Additional analyses outside of mothur
+We encourage you to use RStudio to create your figures for this project. There is also a python script provided in the [GitHub]() that allows you to add up OTUs at various taxonomic levels (species, genus, etc.) to look at community structure. This script requires your `.cons.taxonomy` and `.shared` files from mothur; it can be run on your personal machine if you have python installed. 
+
+Please contact Kim (kadm@mail.ubc.ca) with any issues or if you would like the python script run for you.
+
