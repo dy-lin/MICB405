@@ -90,7 +90,7 @@ Summarize the data to get some descriptive statistics. There are many, many calc
 `summary.single(shared=, label=, calc=nseqs-sobs-coverage)`
 
 ### Additional analyses outside of mothur
-We encourage you to use RStudio to create your figures for this project. There is also a python script provided in the [GitHub]() that allows you to add up OTUs at various taxonomic levels (species, genus, etc.) to look at community structure. This script requires your `.cons.taxonomy` and `.shared` files from mothur; it can be run on your personal machine if you have python installed. 
+We encourage you to use RStudio to create your figures for this project. There is also a python script provided in the [GitHub](https://github.com/EDUCE-UBC/MICB405_project3/blob/master/taxonomy1b_38.py) that allows you to add up OTUs at various taxonomic levels (species, genus, etc.) to look at community structure. This script requires your `.cons.taxonomy` and `.shared` files from mothur; it can be run on your personal machine if you have python installed. 
 
 Please contact Kim (kadm@mail.ubc.ca) with any issues or if you would like the python script run for you.
 
