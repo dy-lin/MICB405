@@ -1,0 +1,56 @@
+# MICB405 Project 3: Assessment
+## Outline
+The project will be assessed by the following criteria:
+
+1. Completion of the proposed workflow. Expected outputs are available and formatted correctly. (20%)
+2. A written report (3000 - 3500 words) adhering to the structure below (60-80%)
+3. Oral presentation following the structure of the written report with emphasis on your pipeline choices and analysis of results (20%)
+
+## Reports
+### Introduction
+*750 words*
+
+Since this project will focus on pipeline creation, please also focus your introduction on information that informs your pipeline. This should include relevant background information on your sample, the tools used, and use of an OTU-based pipeline.
+
+Please see potential readings in the [Github readings folder](https://github.com/EDUCE-UBC/MICB405_project3/tree/master/Readings) as well as any relevant readings from project 2.
+
+### Methods
+*750 words*
+
+* Reference your bash script(s) containing all commands. These should be available on a group member's GitHub page and/or emailed to Kim (kadm@mail.ubc.ca).
+* Explain why each step was used, what the outputs are, etc. For example, we began with paired-end reads and therefore, these 300 bp reads were combined into ~300-350 bp contigs using the overlapping regions to yield a single contig for each sequence.
+    + You need only explain the general flow of your pipeline since it is your results and discussion that will get into the meat of your specific parameter choices.
+
+### Results
+*1000 words*
+
+* Provide a summary of the number of sequences remaining after each step. How many are poor quality? chimeras? singletons? etc. Be careful to know the difference between total and unique sequences after you've run `unique.seqs`.
+* Provide comparisons of different parameters in key steps. Give evidence for why you chose the parmeters you did. As you've seen in previous projects, keeping more data isn't always better. You want sufficient, *good quality* sequences in the end.
+* A **brief** summary of the taxonomic makeup of your sample. Who is there? How diversity is the sample?
+
+### Figures and tables
+*≥ 4 with captions*
+
+Some recommended tables/figures include:  
+
+* Table or bar plot showing number of sequences lost in each clean-up step of your *final* pipeline
+* Table(s) or bar plot(s) comparing sequence quality before and after clean-up steps and/or between different parameters 
+* Stacked or faceted barplot(s) of the taxonomic makeup of your sample
+
+### Discussion
+*1000 words*
+
+If you feel you can tell a better story with a combined results and discussion section, please feel free to do so!
+
+* Describe the pros/cons of using an OTU-based pipeline. We were not able to directly compare OTUs to amplicon sequence variants (ASVs in QIIME2) due to software issues but this is a current debate in the field! 
+* State any challenges and your resulting troubleshooting.
+* Bonus: compare the taxonomic makeup you found with the 16S iTag data to what was seen using metagenomics/bins in project 2!
+* Future directions
+
+### References
+*10 or more*
+
+Necessary citations include:
+
+* Each software used including those wrapped within mothur (like UCHIME)
+* Data papers
