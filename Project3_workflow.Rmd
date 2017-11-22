@@ -50,7 +50,7 @@ Pre-cluster very similar sequences. Consider the expected error rate of a 2x300 
 Again...  
 `summary.seqs(fasta=, count=)`
 
-Identify and then remove chimeric sequences  
+Identify and then remove chimeric sequences. You may also wish to explore other chimaria detection methods [available in mothur](https://www.mothur.org/wiki/Category:Commands).   
 `chimera.uchime(fasta=, count=, dereplicate=t)`  
 `remove.seqs(fasta=, count=, accnos=)`
 
