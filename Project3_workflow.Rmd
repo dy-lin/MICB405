@@ -1,5 +1,8 @@
 ## Project 3 workflow
-Set your output directory to your group's project 3 directory *every time you run mothur or a mothur script*  
+To open mothur, you simply call it from the Terminal.  
+`mothur`
+
+Set your output directory to your group's project 3 directory *every time you start a new mothur session or at the start of each mothur bash script*  
 `set.dir(output=/home/micb405/Group*)`
 
 ### Sequence clean-up
