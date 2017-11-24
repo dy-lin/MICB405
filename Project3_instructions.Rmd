@@ -23,7 +23,7 @@ The main file types we will work with are:
 * .count_table = combination of .groups and .names data into 1 file
 
 ## Data
-Water was collected from various depths at Saanich Inlet and filtered through a 0.22 μm Sterivex filter to collect biomass. Total genomic DNA was extracted from these filters. Amplicon sequencing of the variable 4 through 5 (V4-V5) region of the small subunit (16S) rRNA gene was then performed. These data were generated on the Illumina MiSeq platform with **2x300bp** technology.
+Water was collected from various depths at Saanich Inlet and filtered through a 0.22 μm Sterivex filter to collect biomass. Total genomic DNA was extracted from these filters. Amplicon sequencing of the variable 4 (V4) region of the small subunit (16S) rRNA gene was then performed (primers 515F and 806R). These data were generated on the Illumina MiSeq platform with **2x300bp** technology.
 
 For more in-depth methods, please see [Hawley AK *et al* 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5663217/) "A compendium of multi-omic sequence information from the Saanich Inlet water column" Sci Data 4: 170160.
 
