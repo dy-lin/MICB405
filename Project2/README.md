@@ -71,7 +71,7 @@ Combining the RPKM abundance information and the KO numbers assigned to your seq
 
 In summary, we have helped you identify who is in Saanich Inlet. It is your job to identify what they are doing and how are they responding to change!
 
-Recommended usage for each software is provided at [Workflow.md](Workflow.md).
+Recommended usage for each software is provided at [Workflow.md](workflow.md).
 
 The outline for the report is available at [Evaluation.md](Evaluation.md).
 
