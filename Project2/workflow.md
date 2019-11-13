@@ -1,4 +1,4 @@
-# MICB405-Metagenomics
+# MICB405-Metagenomics Workflow
 A metagenome annotation workflow for UBC's MICB405 Microbial Bioinformatics course
 
 ## Data Provided
