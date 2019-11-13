@@ -123,7 +123,7 @@ echo $prokka_id,$mag_id
 done >Prokka_MAG_map.csv
 ```
 
-I have created a [short tutorial](https://htmlpreview.github.io/?pathview_trials.html) on how to view MAG nitrogen metabolism with pathview.
+I have created a [short tutorial](https://htmlpreview.github.io/?https://github.com/EDUCE-UBC/MICB405/blob/master/Project2/pathview_trials.html) on how to view MAG nitrogen metabolism with pathview.
 
 ## Fin.
 
