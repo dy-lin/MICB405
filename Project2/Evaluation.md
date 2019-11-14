@@ -27,7 +27,7 @@ __Methods__ (750 words)
  - Explain the workflow used by Connor to generate inputs for the project to show you understand each step.
  - Explain the tools used at each step, and why they were chosen, to answer your group's specific question.
  - Reference the bash and R(md) scripts containing all commands.
- These are to be either hosted on a group member's GitHub page and/or emailed to Connor and I will upload them to the MICB405-Metagenomics GitHub page under `student_scripts/Group*/`.
+ These are to be either hosted on a group member's GitHub page and/or emailed to the Project 2 teaching team and we will upload them to the MICB405-Metagenomics GitHub page under `student_scripts/Group*/`.
  - Explain why each step was used, what the outputs are, etc.
  For example, metagenome assembly was used to build larger sequences (contigs) from the sequencing reads to reduce data size and redundancy, as well as inputs for binning. __Don't be silly and plagiarise this__.
  - Explain any potential deviations from the default parameters or the suggested workflow.
