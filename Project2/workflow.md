@@ -3,7 +3,7 @@ A metagenome annotation workflow for UBC's MICB405 Microbial Bioinformatics cour
 
 ## Data Provided
 
-The data you will be working with on the orca server in `/projects/micb405/resources/project_2/2018/`. These can be divided into two 'omic types:
+The data you will be working with on the orca server in `/projects/micb405/resources/project_2/2019/`. These can be divided into two 'omic types:
 1. Metagenomic in all of the SaanichInlet\_\*m directories
 2. Metatranscriptomic data in the `Metatranscriptomes` directory. These FASTQ files should __not be copied__ to your individual or group directories.
 
@@ -41,17 +41,15 @@ The taxonomic assignments are in gtdbtk_output/gtdbtk.\*.classification_pplacer.
 
 ## Guiding analyses
 
-To dig a little deeper into these data we offer 4 guiding questions, one of which your group is to select and attempt to answer:
+Groups are expected to leverage metagenomic and metatranscriptomic sequence information to better understand the abundance and activity of organisms, genes and pathways of interest. You will explore the MAG results by reviewing the tabular outputs and generating a coverage versus completion graph that can be further refined using aesthetics to encode RPKM and taxonoimic information for each MAG associated with your assigned depth. To dig a little deeper into these data we offer 2 guiding questions, one of which your group is to select and attempt to answer: 
 
-1. [BIOCHEM] Identify 3-5 MAGs of interest. How do they "eat" and "breath"? 
-The goal of this is to understand the lifestyle and metabolic niche of these organisms.
-2. [GENOMICS] What is the genomic landscape of related MAGs?
-For example, comparing the genomes of all the Epsilonproteobacteria MAGs of sufficient quality at their assigned depth.
-3. ~~[STATS] How is the community transcriptionally responding to change? Mapping the transcriptional profile across time for all MAGs in the community, observing seasonal trends in differential expression for particular pathways (example finding could be transcriptional activity for the Nitrogen-cycling genes is greatest for the Proteobacteria in the summer months).~~
-4. [BIOCHEM] How much do Saanich Inlet microbial communities work together?
-Investigating the distributed (or not) metabolism of the carbon, nitrogen, OR sulphur cycles by identifying the microbes participating at each step of relevant pathways. One of the three terminal-electron acceptors should be selected based on the geochemical properties of the environment. For example, sulphur would be a bad choice for 10m.
+1. You will select one or more of the high quality MAGS and conduct a complete metabolic reconstruction across all pathways resulting in a cellular overview. The goal of this is to understand the lifestyle and metabolic niche associated with your MAG(s) of interest. 
 
-The methods outlined below will help you answer the question your group is interested in. If you are *really* interested in some other aspect of the community that can be answered using data provided I encourage you to discuss it with the teaching team! We can probably find a way for it to be your group's guiding question.
+2. You may opt to focus on identifying distributed metabolic pathways in the complete set of high quality MAGS with emphasis on Carbon, Nitrogen and Sulfur cycling processes. 
+
+For both questions SI072 RPKM values from the complete depth profile should then be used to describe the frequency distribution of genes and transcripts along the redoxcline of Saanich Inlet for your selected MAGs or pathways of interest. You will need to generate these values on your own using BWA, SI072 reads and the ORFs predicted with Prokka.
+
+The methods outlined below will help you answer the question your group is interested in. If you are *really really* interested in some other aspect of the community that can be answered using data provided we encourage you to discuss it with the teaching team! We can probably find a way for it to become your group's guiding question. For example you could explore more time resolved questions for your MAG(s) or pathways of interest using the complete set of metagenomic and metatranscriptomic reads from all cruises.
 
 ## Next steps
 

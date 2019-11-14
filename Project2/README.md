@@ -7,7 +7,7 @@ Data used for this project is from Saanich Inlet, a seasonally-anoxic fjord on t
 
 The primary objective of this workflow is to annotate metagenome-assembled genomes (MAGs) and reconstruct their metabolic potentials in relation to defined water column oxygen gradients in Saanich Inlet. 
 
-Data you will be analyzing is derived from 2-0.2 micron-sized (i.e. the microbial fraction, so no chairs, animals, or large single-celled Eukaryotes, or free-floating viruses) biomass sampled at 10m, 100m, 120m, 135m, 150m and 200m depths of research cruises SI042, SI048, SI072, SI073, SI074, SI075. 
+Data you will be analyzing is derived from 2-0.2 micron-sized (i.e. the microbial fraction, so no chairs, animals, or large single-celled Eukaryotes, or free-floating viruses) biomass sampled at 10m, 100m, 120m, 135m, 150m, 165m and 200m depths of research cruises SI042, SI048, SI072, SI073, SI074, SI075. 
 
 | Biosample    | SRA_accession | Paired_reads | Sample_ID         |
 |--------------|---------------|--------------|-------------------|
@@ -28,6 +28,7 @@ Data you will be analyzing is derived from 2-0.2 micron-sized (i.e. the microbia
 | SAMN05224512 | SRR3719545    | 43008747     | SI072_LV_120m_DNA |
 | SAMN05224513 | SRR3719563    | 42915270     | SI072_LV_135m_DNA |
 | SAMN05224518 | SRR3719562    | 47580985     | SI072_LV_150m_DNA |
+| SAMN05224523 | SRR3719654    | 64420137     | SI072_LV_165m_DNA |
 | SAMN05224519 | SRR3719564    | 32004368     | SI072_LV_200m_DNA |
 | SAMN05224534 | SRR3719565    | 57075053     | SI073_LV_10m_DNA  |
 | SAMN05224524 | SRR3719566    | 41294294     | SI073_LV_100m_DNA |
@@ -55,14 +56,14 @@ The first processing step was [Trimmomatic](http://www.usadellab.org/cms/?page=t
 Binning was accomplished by combining the metagenome assemblies from the same depth, aligning each sample's trimmed reads to the concatenated metagenome to generate abundance profiles and providing these to [MetaBAT 2.11.2](https://bitbucket.org/berkeleylab/metabat) for binning the contigs into MAGs. [checkM](https://github.com/Ecogenomics/CheckM/wiki) was used to calculate the completeness and contamination of the resulting MAGs with a single-copy marker-gene analysis approach and the genome-taxonomy database toolkit ([gtdbtk](https://github.com/Ecogenomics/GTDBTk)) was used to assign taxonomy.
 The script used for the first two steps is called launch_MEGAHIT.sh and the script used for binning and taxonomic classification is called bin_multi.sh, both of which are in the project GitHub repository. 
 
-Your group has been assigned a depth (one of 10, 100, 120,  135, 150, or 200 meters) to perform a time-series analysis. There are directories on the Orca sever containing data for each depth at `/projects/micb405/resources/project_2/2018/`. 
+Your group has been assigned a depth (one of 10, 100, 120,  135, 150, 165 or 200 meters) from SI072 to explore. There are directories on the Orca sever containing data for each depth at `/projects/micb405/resources/project_2/2019/`. 
 Abundance information can be found in the `binned.rpkm.csv` files. "Reads Per Kilobase per Million mappable reads" or *RPKM* is an abundance value normalized by the length of each sequence (contig) aligned to (we used BWA MEM with default parameters) and the number of reads that were generated for a sample during sequencing (number in a FASTQ file). 
 Based on the `checkM` results we removed the low-quality MAGs (using the quality standard definition from Bowers *et al.*, 2017) leaving the medium- and high-quality MAGs in `SaanichInlet_$DEPTH/MetaBAT2_SaanichInlet_$DEPTH/MedQPlus_MAGs/` for you to analyze. 
 The taxonomic lineages for the bacterial and archaeal MAGs are found in `SaanichInlet_$DEPTH/MetaBAT2_SaanichInlet_$DEPTH/gtdbtk_output/gtdbtk.bac120.classification_pplacer.tsv` and `SaanichInlet_$DEPTH/MetaBAT2_SaanichInlet_$DEPTH/gtdbtk_output/gtdbtk.ar122.classification_pplacer.tsv`, respectively. 
 
 ### What you need to do
 
-Groups are expected to generate transcriptional abundance information to better understand the transcriptional activity of genes of interest for specific pathways. 
+Groups are expected to leverage metagenomic and metatranscriptomic sequence information to better understand the abundance and activity of organisms, genes and pathways of interest. You will explore the MAG results by reviewing the tabular outputs and generating a coverage versus completion graph that can be further refined using aesthetics to encode RPKM and taxonoimic information for each MAG associated with your assigned depth. You will select one or more of the high quality MAGS and conduct a complete metabolic reconstruction across all pathways resulting in a cellular overview, or you may opt to focus on identifying distributed metabolic pathways in the complete set of high quality MAGS with emphasis on Carbon, Nitrogen and Sulfur cycling processes. More information can be found in [Workflow.md](workflow.md). SI072 RPKM values from the complete depth profile can then be used to describe the frequency distribution of genes and transcripts along the redoxcline of Saanich Inlet for your selected MAGs or pathways of interest.   
 
 [Prokka](https://github.com/tseemann/prokka) should be used to predict open-reading frames (ORFs) in the MAGs you select. 
 
