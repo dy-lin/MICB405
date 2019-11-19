@@ -66,7 +66,7 @@ prokka \
 --prefix MAG3000 \
 --kingdom Bacteria \
 --cpus 4 \
-/projects/micb405/resources/project_2/2018/SaanichInlet\_10m/MetaBAT2\_SaanichInlet_10m/MedQPlus\_MAGs/MAG3000.fa
+/projects/micb405/resources/project_2/2019/SaanichInlet\_10m/MetaBAT2\_SaanichInlet_10m/MedQPlus\_MAGs/MAG3000.fa
 ```
 
 This should probably be wrapped inside a for-loop :smile:.
@@ -89,7 +89,7 @@ These files are now ready to be loaded into R!
 
 Groups are expected to generate transcriptional abundance information to better understand the transcriptional activity of genes of interest for specific pathways.
  This is necessary since presence of a gene does not always mean the gene is being transcribed and translated. So we are going to use RNA-Seq data to get one step closer. Although it would be ideal to sequence a metaproteome to actually determine what genes are expressed this is more difficult and expensive.
-Metatranscriptome FASTQ files have been copied to `/projects/micb405/resources/project\_2/2018/Metatranscriptomes/`. Using `bwa mem` as in tutorial and project 1, create SAM files for every cruise at your assigned depth. The FASTA file used for building a BWA index and the output SAM file can then be used to create a comma-separated value (csv) file with RPKM abundances for each sequence in the FASTA file using the `rpkm` executable provided:
+Metatranscriptome FASTQ files have been copied to `/projects/micb405/resources/project\_2/2019/Metatranscriptomes/`. Using `bwa mem` as in tutorial and project 1, create SAM files for every cruise at your assigned depth. The FASTA file used for building a BWA index and the output SAM file can then be used to create a comma-separated value (csv) file with RPKM abundances for each sequence in the FASTA file using the `rpkm` executable provided:
 
 ```
 /projects/micb405/resources/project_2/2019/rpkm \
