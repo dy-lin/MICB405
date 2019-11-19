@@ -92,7 +92,7 @@ Groups are expected to generate transcriptional abundance information to better 
 Metatranscriptome FASTQ files have been copied to `/projects/micb405/resources/project\_2/2018/Metatranscriptomes/`. Using `bwa mem` as in tutorial and project 1, create SAM files for every cruise at your assigned depth. The FASTA file used for building a BWA index and the output SAM file can then be used to create a comma-separated value (csv) file with RPKM abundances for each sequence in the FASTA file using the `rpkm` executable provided:
 
 ```
-/projects/micb405/resources/project_2/2018/rpkm \
+/projects/micb405/resources/project_2/2019/rpkm \
 -c ~/ProcessedData/Prokka_output/SaanichInlet_MAG_ORFs.ffn \
 -a ~/ProcessedData/MetaT_alignments/SI042_SaanichInlet_MAG_ORFs.sam
 -o ~/ProcessedData/RPKM_outputs/SI042_SaanichInlet_MAG_ORFs_RPKM.csv
