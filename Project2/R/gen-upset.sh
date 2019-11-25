@@ -8,7 +8,7 @@ outdir=/projects/micb405/project1/Team10/project2/
 
 ko=$(sed 's/_.\+\t/\t/' $data | grep -wf $hq | awk -F "\t" '{print $2}' | sort -u)
 
-echo -e "MAG\t$(echo "$ko" | tr '\n' '\t')" > $outdir/upset.csv
+echo -e "MAG\t$(echo "$ko" | tr '\n' '\t')" > $outdir/upset.tsv
 
  while read mag
  do
@@ -23,9 +23,8 @@ echo -e "MAG\t$(echo "$ko" | tr '\n' '\t')" > $outdir/upset.csv
 			 line=$line$'\t'"0"
 		 fi
 	done
-	echo -e "$line" >> $outdir/upset.csv
+	echo -e "$line" >> $outdir/upset.tsv
  done < $hq
 
-
-
+sed -i 's/\t$//' $outdir/upset.tsv
 
