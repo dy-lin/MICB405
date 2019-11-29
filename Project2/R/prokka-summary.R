@@ -14,8 +14,12 @@ summary_tsv[is.na(summary_tsv)] <- 0
 
 summary_tsv$total <- rowSums(summary_tsv[,-1])
 
-write_tsv(summary_tsv, here("prokka.summary.processed.tsv"))
+totals <- c("total",colSums(summary_tsv[,-1]))
+names(totals) <- names(summary_tsv)
 
+bound <- rbind(summary_tsv,totals)
+
+write_tsv(summary_tsv, here("prokka.summary.processed.tsv"))
 
 summary %>%
   ggplot(aes(MAG, Number)) +
