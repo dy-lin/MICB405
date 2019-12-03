@@ -1,0 +1,62 @@
+INFO  @ Mon, 04 Nov 2019 02:14:52: 
+# Command line: callpeak -t /projects/micb405/project1/Team10/bwa_alignments/Naive_H3K27ac.sorted.mkdup.bam -c /projects/micb405/project1/Team10/bwa_alignments/Naive_Input.sorted.mkdup.bam -f BAMPE -g mm -n Naive_H3K27ac -B -q 0.01 --outdir /projects/micb405/project1/Team10/macs2
+# ARGUMENTS LIST:
+# name = Naive_H3K27ac
+# format = BAMPE
+# ChIP-seq file = ['/projects/micb405/project1/Team10/bwa_alignments/Naive_H3K27ac.sorted.mkdup.bam']
+# control file = ['/projects/micb405/project1/Team10/bwa_alignments/Naive_Input.sorted.mkdup.bam']
+# effective genome size = 1.87e+09
+# band width = 300
+# model fold = [5, 50]
+# qvalue cutoff = 1.00e-02
+# The maximum gap between significant sites is assigned as the read length/tag size.
+# The minimum length of peaks is assigned as the predicted fragment length "d".
+# Larger dataset will be scaled towards smaller dataset.
+# Range for calculating regional lambda is: 1000 bps and 10000 bps
+# Broad region calling is off
+# Paired-End mode is on
+ 
+INFO  @ Mon, 04 Nov 2019 02:14:52: #1 read fragment files... 
+INFO  @ Mon, 04 Nov 2019 02:14:52: #1 read treatment fragments... 
+INFO  @ Mon, 04 Nov 2019 02:15:02:  1000000 
+INFO  @ Mon, 04 Nov 2019 02:15:10:  2000000 
+INFO  @ Mon, 04 Nov 2019 02:15:19:  3000000 
+INFO  @ Mon, 04 Nov 2019 02:15:27:  4000000 
+INFO  @ Mon, 04 Nov 2019 02:15:35:  5000000 
+INFO  @ Mon, 04 Nov 2019 02:15:43:  6000000 
+INFO  @ Mon, 04 Nov 2019 02:15:51:  7000000 
+INFO  @ Mon, 04 Nov 2019 02:16:02: #1.2 read input fragments... 
+INFO  @ Mon, 04 Nov 2019 02:16:11:  1000000 
+INFO  @ Mon, 04 Nov 2019 02:16:19:  2000000 
+INFO  @ Mon, 04 Nov 2019 02:16:28:  3000000 
+INFO  @ Mon, 04 Nov 2019 02:16:37:  4000000 
+INFO  @ Mon, 04 Nov 2019 02:16:46:  5000000 
+INFO  @ Mon, 04 Nov 2019 02:16:55:  6000000 
+INFO  @ Mon, 04 Nov 2019 02:17:04:  7000000 
+INFO  @ Mon, 04 Nov 2019 02:17:14: #1 mean fragment size is determined as 170.6 bp from treatment 
+INFO  @ Mon, 04 Nov 2019 02:17:14: #1 note: mean fragment size in control is 139.5 bp -- value ignored 
+INFO  @ Mon, 04 Nov 2019 02:17:14: #1 fragment size = 170.6 
+INFO  @ Mon, 04 Nov 2019 02:17:14: #1  total fragments in treatment: 7005999 
+INFO  @ Mon, 04 Nov 2019 02:17:14: #1 user defined the maximum fragments... 
+INFO  @ Mon, 04 Nov 2019 02:17:14: #1 filter out redundant fragments by allowing at most 1 identical fragment(s) 
+INFO  @ Mon, 04 Nov 2019 02:17:28: #1  fragments after filtering in treatment: 5492066 
+INFO  @ Mon, 04 Nov 2019 02:17:28: #1  Redundant rate of treatment: 0.22 
+INFO  @ Mon, 04 Nov 2019 02:17:28: #1  total fragments in control: 7756715 
+INFO  @ Mon, 04 Nov 2019 02:17:28: #1 user defined the maximum fragments... 
+INFO  @ Mon, 04 Nov 2019 02:17:28: #1 filter out redundant fragments by allowing at most 1 identical fragment(s) 
+INFO  @ Mon, 04 Nov 2019 02:17:43: #1  fragments after filtering in control: 7201495 
+INFO  @ Mon, 04 Nov 2019 02:17:43: #1  Redundant rate of control: 0.07 
+INFO  @ Mon, 04 Nov 2019 02:17:43: #1 finished! 
+INFO  @ Mon, 04 Nov 2019 02:17:43: #2 Build Peak Model... 
+INFO  @ Mon, 04 Nov 2019 02:17:43: #2 Skipped... 
+INFO  @ Mon, 04 Nov 2019 02:17:43: #3 Call peaks... 
+INFO  @ Mon, 04 Nov 2019 02:17:43: #3 Pre-compute pvalue-qvalue table... 
+INFO  @ Mon, 04 Nov 2019 02:18:42: #3 In the peak calling step, the following will be performed simultaneously: 
+INFO  @ Mon, 04 Nov 2019 02:18:42: #3   Write bedGraph files for treatment pileup (after scaling if necessary)... Naive_H3K27ac_treat_pileup.bdg 
+INFO  @ Mon, 04 Nov 2019 02:18:42: #3   Write bedGraph files for control lambda (after scaling if necessary)... Naive_H3K27ac_control_lambda.bdg 
+INFO  @ Mon, 04 Nov 2019 02:18:42: #3   Pileup will be based on sequencing depth in treatment. 
+INFO  @ Mon, 04 Nov 2019 02:18:42: #3 Call peaks for each chromosome... 
+INFO  @ Mon, 04 Nov 2019 02:20:24: #4 Write output xls file... /projects/micb405/project1/Team10/macs2/Naive_H3K27ac_peaks.xls 
+INFO  @ Mon, 04 Nov 2019 02:20:24: #4 Write peak in narrowPeak format file... /projects/micb405/project1/Team10/macs2/Naive_H3K27ac_peaks.narrowPeak 
+INFO  @ Mon, 04 Nov 2019 02:20:24: #4 Write summits bed file... /projects/micb405/project1/Team10/macs2/Naive_H3K27ac_summits.bed 
+INFO  @ Mon, 04 Nov 2019 02:20:24: Done! 
