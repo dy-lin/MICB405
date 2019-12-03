@@ -7,6 +7,8 @@
 * holds the instructor files for Project 2
 * `R`
   * holds the `.R` scripts used for plotting
+* `PathviewResults_HQMQ`
+  * holds all the `Pathview` generated figures
   
 ## `tutorials`
 * holds the bash scripts used in Friday tutorials
