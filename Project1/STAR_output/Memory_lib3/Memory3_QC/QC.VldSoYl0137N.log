@@ -1,0 +1,102 @@
+Starting QoRTs v1.3.6 (Compiled Tue Sep 25 11:21:46 EDT 2018)
+Starting time: (Tue Oct 29 18:44:37 UTC 2019)
+INPUT_COMMAND(QC)
+  INPUT_ARG(infile)=Memory_3Aligned.sortedByCoord.out.bam
+  INPUT_ARG(gtffile)=/projects/micb405/resources/STAR_tutorial/STAR_index_musmusculus_mm10//mm10.gtf
+  INPUT_ARG(outdir)=/projects/micb405/project1/Team10/STAR_output/Memory_lib3/
+Created Log File: /projects/micb405/project1/Team10/STAR_output/Memory_lib3//QC.VldSoYl0137N.log
+Starting QC
+[Time: 2019-10-29 18:44:37] [Mem usage: [29MB / 2109MB]] [Elapsed Time: 00:00:00.0000]
+QoRTs is Running in paired-end mode.
+QoRTs is Running in any-sorted mode.
+No parameter --genomeFA found.
+NOTE: Function "overlapMatch" requires function "mismatchEngine". Adding "mismatchEngine" to the active function list...
+Running functions: CigarOpDistribution, GCDistribution, GeneCalcs, InsertSize, 
+        JunctionCalcs, NVC, QualityScoreDistribution, StrandCheck, 
+        chromCounts, cigarLocusCounts, mismatchEngine, overlapMatch, 
+        readLengthDistro, writeBiotypeCounts, writeClippedNVC, 
+        writeDESeq, writeDEXSeq, writeGeneBody, writeGeneCounts, 
+        writeGenewiseGeneBody, writeJunctionSeqCounts, 
+        writeKnownSplices, writeNovelSplices, writeSpliceExon
+Checking first 10000 reads. Checking SAM file for formatting errors...
+   Stats on the first 10000 reads:
+        Num Reads Primary Map:    9459
+        Num Reads Paired-ended:   10000
+        Num Reads mapped pair:    9459
+        Num Pair names found:     4731
+        Num Pairs matched:        4728
+        Read Seq length:          125 to 125
+        Unclipped Read length:    125 to 125
+        Final maxReadLength:      125
+        maxPhredScore:            38
+        minPhredScore:            2
+   Note: Data appears to be paired-ended.
+   Sorting Note: Reads are not sorted by name (This is OK).
+   Sorting Note: Reads are sorted by position (This is OK).
+Done checking first 10000 reads. No major problems detected!
+SAMRecord Reader Generated. Read length: 125.
+[Time: 2019-10-29 18:44:43] [Mem usage: [1076MB / 2109MB]] [Elapsed Time: 00:00:06.0089]
+> Init GeneCalcs Utility
+> Init InsertSize Utility
+Compiling flat feature annotation, internally in memory...
+FlatteningGtf: starting...(2019-10-29 18:46:37)
+    FlatteningGtf: gtf file read complete.(2019-10-29 18:48:02)
+    FlatteningGtf: Splice Junction Map read.(2019-10-29 18:48:04)
+    FlatteningGtf: gene Sets generated.(2019-10-29 18:48:06)
+    FlatteningGtf: Aggregate Sets built.
+    FlatteningGtf: Compiling Aggregate Info . . . (2019-10-29 18:48:06)
+    FlatteningGtf: Finished Compiling Aggregate Info. (2019-10-29 18:48:06)
+    FlatteningGtf: Iterating through the step-vector...(2019-10-29 18:48:06)
+    FlatteningGtf: Adding the aggregate genes themselves...(2019-10-29 18:48:09)
+    FlatteningGtf: Iterating through the splice junctions...(2019-10-29 18:48:10)
+    FlatteningGtf: Sorting the aggregate genes...(2019-10-29 18:48:12)
+    FlatteningGtf: Folding the FlatGtfLine iterator...(2019-10-29 18:48:12)
+    FlatteningGtf: Features Built.(2019-10-29 18:48:12)
+Internal flat feature annotation compiled!
+> Init NVC utility
+> Init CigarOpDistribution Utility
+> Init QualityScoreDistribution Utility
+> Init GC counts Utility
+> Init JunctionCalcs utility
+length of knownSpliceMap after instantiation: 284992
+length of knownCountMap after instantiation: 284992
+> Init StrandCheck Utility
+> Init chromCount Utility
+> Init qcCigarLocusCounts Utility
+> Init OverlapMatch Utility
+> Init MinorUtils Utility
+QC Utilities Generated!
+[Time: 2019-10-29 18:48:21] [Mem usage: [1378MB / 6GB]] [Elapsed Time: 00:03:43.0769]
+helper_calculateGeneAssignmentMap_strict. Found: 55421 genes in the supplied annotation.
+helper_calculateGeneAssignmentMap_strict. Found: 11702 genes with ambiguous segments.
+helper_calculateGeneAssignmentMap_strict. Found: 43719 genes after first-pass filtering
+making makeGeneIntervalMap for geneBody calculations. Found: 43719 acceptable genes for gene-body analysis.
+..........[1000000 Read-Pairs processed] [Time: 2019-10-29 18:52:26] 
+..........[2000000 Read-Pairs processed] [Time: 2019-10-29 18:56:14] 
+.....
+Finished reading SAM. Read: 2531187 reads/read-pairs.
+Finished reading SAM. Used: 2438761 reads/read-pairs.
+[Time: 2019-10-29 18:58:21] [Mem usage: [2096MB / 12GB]] [Elapsed Time: 00:13:43.0335]
+> Read Stats:
+>   READ_PAIR_OK                   2438761
+>   TOTAL_READ_PAIRS               2531187
+>   DROPPED_NOT_PROPER_PAIR        0
+>   DROPPED_READ_FAILS_VENDOR_QC   0
+>   DROPPED_MARKED_NOT_VALID       0
+>   DROPPED_CHROMS_MISMATCH        0
+>   DROPPED_PAIR_STRANDS_MISMATCH  0
+>   DROPPED_IGNORED_CHROMOSOME     0
+>   DROPPED_NOT_UNIQUE_ALIGNMENT   92426
+>   DROPPED_NO_ALN_BLOCKS   0
+>   DROPPED_NOT_MARKED_RG   -1
+Pre-alignment read count unknown (Set --seqReadCt or --rawfastq)
+Writing Output...
+DEBUG NOTE: IncludeGenesSet.size: 43719
+DEBUG NOTE: sortedReadCountSeq.size: 20120
+DEBUG NOTE: coverageThresholds: 10060;15090;18108;20120
+DEBUG NOTE: coverageSpans: [(0,10060);(10060,15090);(15090,18108);(18108,20120)]
+DEBUG NOTE:	[1.bottomHalf][0.5] = [0,10060]
+DEBUG NOTE:	[2.upperMidQuartile][0.75] = [10060,15090]
+DEBUG NOTE:	[3.75to90][0.9] = [15090,18108]
+DEBUG NOTE:	[4.high][1.0] = [18108,20120]
+      (DEBUG) Generating Biotype Map [2019-10-29 18:58:24]

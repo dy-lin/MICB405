@@ -1,0 +1,9 @@
+# Note: if this file EXISTS, then QoRTs QC completed WITH WARNINGS. Warning messages follow:
+Warning: run-in-progress file "/projects/micb405/project1/Team10/STAR_output/Naive_lib3//Naive3_QC//QC.QORTS_RUNNING" already exists. Is there another QoRTs job running?
+   WARNING WARNING WARNING: Read length is not consistent, AND "--maxReadLength" option is not set!
+      QoRTs has ATTEMPTED to determine the maximum read length (75).
+      It is STRONGLY recommended that you use the --maxReadLength option 
+      to set the maximum possible read length, or else errors may occur if/when 
+      reads longer than 75 appear.
+QoRTs completed WITH WARNINGS! See log for details.
+

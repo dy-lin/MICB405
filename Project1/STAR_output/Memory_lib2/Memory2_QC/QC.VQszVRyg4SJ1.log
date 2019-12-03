@@ -1,0 +1,129 @@
+Starting QoRTs v1.3.6 (Compiled Tue Sep 25 11:21:46 EDT 2018)
+Starting time: (Tue Nov 05 00:56:51 UTC 2019)
+INPUT_COMMAND(QC)
+  INPUT_ARG(infile)=Memory_2Aligned.sortedByCoord.out.bam
+  INPUT_ARG(gtffile)=/projects/micb405/resources/STAR_tutorial/STAR_index_musmusculus_mm10//mm10.gtf
+  INPUT_ARG(outdir)=/projects/micb405/project1/Team10/STAR_output/Memory_lib2//Memory2_QC/
+  INPUT_ARG(generatePlots)=true
+Created Log File: /projects/micb405/project1/Team10/STAR_output/Memory_lib2//Memory2_QC//QC.VQszVRyg4SJ1.log
+Warning: run-in-progress file "/projects/micb405/project1/Team10/STAR_output/Memory_lib2//Memory2_QC//QC.QORTS_RUNNING" already exists. Is there another QoRTs job running?
+Starting QC
+[Time: 2019-11-05 00:56:51] [Mem usage: [31MB / 2109MB]] [Elapsed Time: 00:00:00.0000]
+Deleting old "QORTS_COMPLETED_OK" file.
+QoRTs is Running in paired-end mode.
+QoRTs is Running in any-sorted mode.
+No parameter --genomeFA found.
+NOTE: Function "overlapMatch" requires function "mismatchEngine". Adding "mismatchEngine" to the active function list...
+Running functions: CigarOpDistribution, GCDistribution, GeneCalcs, InsertSize, 
+        JunctionCalcs, NVC, QualityScoreDistribution, StrandCheck, 
+        chromCounts, cigarLocusCounts, mismatchEngine, overlapMatch, 
+        readLengthDistro, writeBiotypeCounts, writeClippedNVC, 
+        writeDESeq, writeDEXSeq, writeGeneBody, writeGeneCounts, 
+        writeGenewiseGeneBody, writeJunctionSeqCounts, 
+        writeKnownSplices, writeNovelSplices, writeSpliceExon
+Checking first 10000 reads. Checking SAM file for formatting errors...
+   Stats on the first 10000 reads:
+        Num Reads Primary Map:    9426
+        Num Reads Paired-ended:   10000
+        Num Reads mapped pair:    9426
+        Num Pair names found:     4715
+        Num Pairs matched:        4711
+        Read Seq length:          125 to 125
+        Unclipped Read length:    125 to 125
+        Final maxReadLength:      125
+        maxPhredScore:            38
+        minPhredScore:            2
+   Note: Data appears to be paired-ended.
+   Sorting Note: Reads are not sorted by name (This is OK).
+   Sorting Note: Reads are sorted by position (This is OK).
+Done checking first 10000 reads. WARNINGS FOUND!
+SAMRecord Reader Generated. Read length: 125.
+[Time: 2019-11-05 00:56:56] [Mem usage: [1076MB / 2109MB]] [Elapsed Time: 00:00:04.0971]
+> Init GeneCalcs Utility
+> Init InsertSize Utility
+Compiling flat feature annotation, internally in memory...
+FlatteningGtf: starting...(2019-11-05 00:58:18)
+    FlatteningGtf: gtf file read complete.(2019-11-05 00:59:22)
+    FlatteningGtf: Splice Junction Map read.(2019-11-05 00:59:23)
+    FlatteningGtf: gene Sets generated.(2019-11-05 00:59:25)
+    FlatteningGtf: Aggregate Sets built.
+    FlatteningGtf: Compiling Aggregate Info . . . (2019-11-05 00:59:25)
+    FlatteningGtf: Finished Compiling Aggregate Info. (2019-11-05 00:59:25)
+    FlatteningGtf: Iterating through the step-vector...(2019-11-05 00:59:25)
+    FlatteningGtf: Adding the aggregate genes themselves...(2019-11-05 00:59:27)
+    FlatteningGtf: Iterating through the splice junctions...(2019-11-05 00:59:27)
+    FlatteningGtf: Sorting the aggregate genes...(2019-11-05 00:59:28)
+    FlatteningGtf: Folding the FlatGtfLine iterator...(2019-11-05 00:59:28)
+    FlatteningGtf: Features Built.(2019-11-05 00:59:28)
+Internal flat feature annotation compiled!
+> Init NVC utility
+> Init CigarOpDistribution Utility
+> Init QualityScoreDistribution Utility
+> Init GC counts Utility
+> Init JunctionCalcs utility
+length of knownSpliceMap after instantiation: 284992
+length of knownCountMap after instantiation: 284992
+> Init StrandCheck Utility
+> Init chromCount Utility
+> Init qcCigarLocusCounts Utility
+> Init OverlapMatch Utility
+> Init MinorUtils Utility
+QC Utilities Generated!
+[Time: 2019-11-05 00:59:33] [Mem usage: [1834MB / 6GB]] [Elapsed Time: 00:02:42.0008]
+helper_calculateGeneAssignmentMap_strict. Found: 55421 genes in the supplied annotation.
+helper_calculateGeneAssignmentMap_strict. Found: 11702 genes with ambiguous segments.
+helper_calculateGeneAssignmentMap_strict. Found: 43719 genes after first-pass filtering
+making makeGeneIntervalMap for geneBody calculations. Found: 43719 acceptable genes for gene-body analysis.
+..........[1000000 Read-Pairs processed] [Time: 2019-11-05 01:02:07] 
+..........[2000000 Read-Pairs processed] [Time: 2019-11-05 01:04:08] 
+.....
+Finished reading SAM. Read: 2533141 reads/read-pairs.
+Finished reading SAM. Used: 2440968 reads/read-pairs.
+[Time: 2019-11-05 01:05:14] [Mem usage: [4142MB / 6GB]] [Elapsed Time: 00:08:23.0108]
+> Read Stats:
+>   READ_PAIR_OK                   2440968
+>   TOTAL_READ_PAIRS               2533141
+>   DROPPED_NOT_PROPER_PAIR        0
+>   DROPPED_READ_FAILS_VENDOR_QC   0
+>   DROPPED_MARKED_NOT_VALID       0
+>   DROPPED_CHROMS_MISMATCH        0
+>   DROPPED_PAIR_STRANDS_MISMATCH  0
+>   DROPPED_IGNORED_CHROMOSOME     0
+>   DROPPED_NOT_UNIQUE_ALIGNMENT   92173
+>   DROPPED_NO_ALN_BLOCKS   0
+>   DROPPED_NOT_MARKED_RG   -1
+Pre-alignment read count unknown (Set --seqReadCt or --rawfastq)
+Writing Output...
+DEBUG NOTE: IncludeGenesSet.size: 43719
+DEBUG NOTE: sortedReadCountSeq.size: 20195
+DEBUG NOTE: coverageThresholds: 10097;15146;18175;20195
+DEBUG NOTE: coverageSpans: [(0,10097);(10097,15146);(15146,18175);(18175,20195)]
+DEBUG NOTE:	[1.bottomHalf][0.5] = [0,10097]
+DEBUG NOTE:	[2.upperMidQuartile][0.75] = [10097,15146]
+DEBUG NOTE:	[3.75to90][0.9] = [15146,18175]
+DEBUG NOTE:	[4.high][1.0] = [18175,20195]
+      (DEBUG) Generating Biotype Map [2019-11-05 01:05:16]
+      (DEBUG) Extracted gene BioType using key "gene_biotype".
+              Found 38 types: [TR_V_gene,unprocessed_pseudogene,protein_coding,IG_V_gene,TR_J_gene,Mt_tRNA,rRNA,TR_C_gene,lncRNA,TEC,miRNA,scaRNA,TR_D_gene,snRNA,TR_V_pseudogene,snoRNA,transcribed_processed_pseudogene,TR_J_pseudogene,IG_V_pseudogene,IG_J_gene,processed_pseudogene,transcribed_unitary_pseudogene,IG_D_pseudogene,IG_C_pseudogene,transcribed_unprocessed_pseudogene,translated_unprocessed_pseudogene,IG_C_gene,misc_RNA,ribozyme,IG_D_gene,polymorphic_pseudogene,Mt_rRNA,unitary_pseudogene,pseudogene,sRNA,IG_LV_gene,IG_pseudogene,scRNA]
+      (DEBUG) Finished Biotype Map [2019-11-05 01:06:30]
+length of knownCountMap after run: 284992
+WARNING: The data appears to be STRANDED, following the fr_firstStrand rule.
+         Are you sure this isn't stranded data? If it is stranded, then you should probably
+         re-run QoRTs with the "--stranded" option!
+QoRTs completed WITH WARNINGS! See log for details.
+Generating plots...
+Creating Directory: /projects/micb405/project1/Team10/STAR_output/Memory_lib2/Memory2_QC/QCplots
+Successfully Created Directory: /projects/micb405/project1/Team10/STAR_output/Memory_lib2/Memory2_QC/QCplots
+ > Starting R execution. (generating plots)
+   > STARTING...
+   > Error in library(QoRTs) : there is no package called 'QoRTs'
+   > Execution halted
+ > Finished R execution.
+Done.
+Time spent on setup:           00:02:42.0008
+Time spent on SAM iteration:   00:05:41.0101
+                               (2.2435913884514656 minutes per million read-pairs)
+                               (2.328311281972289 minutes per million read-pairs used)
+Time spent on file output:     00:01:22.0034
+Total runtime:                 00:09:45.0143
+Done. (Tue Nov 05 01:06:36 UTC 2019)
