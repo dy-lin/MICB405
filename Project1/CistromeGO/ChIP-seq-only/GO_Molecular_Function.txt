@@ -1,0 +1,1033 @@
+# Analysis title: diff_Primary_versus_Naive_c3.0_cond1_formatted analysis from Cistrome-GO
+# Mode: Solo mode
+# Specie: mm10
+# Peak bed file name: diff_Primary_versus_Naive_c3.0_cond1_formatted.bed
+# Top peaks to use: 10000
+# Half-decay distance: 1000bp
+# FDR cutoff of GO/KEGG terms to return: 0.2
+# Minimum and maximum gene number in GO and KEGG gene sets: 10, 2000
+# Term	N,n,B,b	Erichment	p_value	FDR	Gene_number
+ion antiporter activity(GO:0099516)	20437, 460, 52, 2	1.709	0.625268927686	0.948159380602	52
+lipoprotein particle receptor activity(GO:0030228)	20437, 239, 16, 2	10.689	0.0508098677277	0.285875299742	16
+extracellular matrix binding(GO:0050840)	20437, 117, 59, 2	5.921	0.178973427074	0.554246624738	59
+G protein-coupled glutamate receptor binding(GO:0035256)	20437, 1233, 12, 1	1.381	0.564412965434	0.924734202567	12
+glutamate receptor activity(GO:0008066)	20437, 0, 27, 0	0.0	1.0	1.0	27
+chitin binding(GO:0008061)	20437, 1619, 11, 1	1.148	0.604745383728	0.934926184963	11
+peptide N-acetyltransferase activity(GO:0034212)	20437, 1910, 74, 18	2.603	0.00109324366096	0.0223896301766	74
+neuropeptide receptor activity(GO:0008188)	20437, 817, 45, 1	0.556	0.93441078643	1.0	45
+poly-pyrimidine tract binding(GO:0008187)	20437, 23, 33, 1	26.926	0.132196768452	0.480866993227	33
+RNA-dependent ATPase activity(GO:0008186)	20437, 1287, 37, 3	1.288	0.662799814238	0.973754676872	37
+ion channel binding(GO:0044325)	20437, 682, 136, 5	1.102	0.842141708503	1.0	136
+intramolecular oxidoreductase activity, transposing S-S bonds(GO:0016864)	20437, 1261, 16, 2	2.026	0.411092804275	0.799616179584	16
+intramolecular oxidoreductase activity, transposing C=C bonds(GO:0016863)	20437, 0, 15, 0	0.0	1.0	1.0	15
+intramolecular oxidoreductase activity(GO:0016860)	20437, 1261, 47, 4	1.379	0.61857290161	0.948159380602	47
+prenyltransferase activity(GO:0004659)	20437, 1302, 13, 6	7.245	0.000380309031346	0.0118518777876	13
+peptide antigen binding(GO:0042605)	20437, 989, 38, 8	4.35	0.00249309181964	0.0416913226562	38
+T cell receptor binding(GO:0042608)	20437, 90, 16, 3	42.577	0.000247874092605	0.00976242580107	16
+voltage-gated calcium channel activity involved in regulation of cytosolic calcium levels(GO:0099511)	20437, 0, 14, 0	0.0	1.0	1.0	14
+polypeptide N-acetylgalactosaminyltransferase activity(GO:0004653)	20437, 0, 17, 0	0.0	1.0	1.0	17
+polynucleotide adenylyltransferase activity(GO:0004652)	20437, 1648, 12, 3	3.1	0.146556273423	0.501082012561	12
+3'-5' RNA helicase activity(GO:0034458)	20437, 1287, 19, 1	0.836	0.754971324248	1.0	19
+transmembrane receptor protein tyrosine kinase activity(GO:0004714)	20437, 558, 61, 1	0.6	0.94200332098	1.0	61
+non-membrane spanning protein tyrosine kinase activity(GO:0004715)	20437, 866, 45, 9	4.72	0.000734859097698	0.0171021753646	45
+protein serine/threonine/tyrosine kinase activity(GO:0004712)	20437, 1245, 38, 5	2.16	0.241144984389	0.631540828682	38
+protein tyrosine kinase activity(GO:0004713)	20437, 32, 134, 2	9.532	0.111617878266	0.441300028357	134
+water transmembrane transporter activity(GO:0005372)	20437, 0, 13, 0	0.0	1.0	1.0	13
+cytokine receptor activity(GO:0004896)	20437, 1215, 96, 19	3.329	3.8302094053e-05	0.00236606025596	96
+neurotransmitter receptor activity(GO:0030594)	20437, 0, 116, 0	0.0	1.0	1.0	116
+aldehyde dehydrogenase (NAD) activity(GO:0004029)	20437, 0, 17, 0	0.0	1.0	1.0	17
+serine hydrolase activity(GO:0017171)	20437, 587, 211, 6	0.99	0.915099171998	1.0	211
+carbohydrate:cation symporter activity(GO:0005402)	20437, 0, 20, 0	0.0	1.0	1.0	20
+regulatory region nucleic acid binding(GO:0001067)	20437, 878, 970, 72	1.728	9.9585503752e-05	0.00463525253827	970
+histone kinase activity(GO:0035173)	20437, 432, 17, 2	5.566	0.131696034105	0.480866993227	17
+SMAD binding(GO:0046332)	20437, 629, 84, 3	1.16	0.804036302142	1.0	84
+MAP kinase phosphatase activity(GO:0033549)	20437, 638, 15, 3	6.407	0.0376093790748	0.233406085894	15
+1-acylglycerol-3-phosphate O-acyltransferase activity(GO:0003841)	20437, 0, 11, 0	0.0	1.0	1.0	11
+amide binding(GO:0033218)	20437, 990, 360, 25	1.434	0.269031863193	0.664994261527	360
+protein serine/threonine kinase inhibitor activity(GO:0030291)	20437, 331, 29, 3	6.387	0.047984212	0.272976850489	29
+cell adhesion molecule binding(GO:0050839)	20437, 22, 229, 1	4.057	0.643728534086	0.963710553953	229
+protein tyrosine kinase activator activity(GO:0030296)	20437, 299, 16, 1	4.272	0.369742038752	0.76902667828	16
+intronic transcription regulatory region DNA binding(GO:0044213)	20437, 1852, 15, 1	0.736	0.761072050516	1.0	15
+hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides(GO:0016818)	20437, 1428, 853, 102	1.711	1.64789885004e-06	0.000210931052805	853
+oxidoreductase activity, acting on peroxide as acceptor(GO:0016684)	20437, 106, 56, 1	3.443	0.551901491428	0.920435060623	56
+calcium-release channel activity(GO:0015278)	20437, 1362, 20, 3	2.251	0.3043702299	0.709966094346	20
+pheromone activity(GO:0005186)	20437, 0, 16, 0	0.0	1.0	1.0	16
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines(GO:0016813)	20437, 0, 11, 0	0.0	1.0	1.0	11
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds(GO:0016810)	20437, 1950, 131, 18	1.44	0.305533577956	0.711059963244	131
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides(GO:0016811)	20437, 1950, 81, 14	1.811	0.107805907072	0.436336951942	81
+dopamine neurotransmitter receptor activity(GO:0004952)	20437, 0, 11, 0	0.0	1.0	1.0	11
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines(GO:0016814)	20437, 1711, 28, 3	1.28	0.628711151786	0.948159380602	28
+transferase activity, transferring nitrogenous groups(GO:0016769)	20437, 1663, 24, 3	1.536	0.510691527739	0.887853706331	24
+proton transmembrane transporter activity(GO:0015078)	20437, 1916, 114, 17	1.591	0.182317505691	0.557938556726	114
+misfolded protein binding(GO:0051787)	20437, 363, 20, 2	5.63	0.138571165871	0.494132921606	20
+DNA-binding transcription factor activity, RNA polymerase II-specific(GO:0000981)	20437, 878, 747, 57	1.776	0.000393519379667	0.0118518777876	747
+catecholamine binding(GO:1901338)	20437, 1935, 21, 1	0.503	0.876603681286	1.0	21
+lysophospholipase activity(GO:0004622)	20437, 0, 19, 0	0.0	1.0	1.0	19
+phospholipase A2 activity(GO:0004623)	20437, 1439, 30, 1	0.473	0.913065093453	1.0	30
+phospholipase activity(GO:0004620)	20437, 1547, 86, 4	0.614	0.980183083575	1.0	86
+opsonin binding(GO:0001846)	20437, 842, 15, 2	3.236	0.249620958826	0.64224085889	15
+ligase activity(GO:0016874)	20437, 43, 150, 2	6.337	0.206371250149	0.583258530554	150
+ATPase activity(GO:0016887)	20437, 1992, 415, 61	1.508	0.00960477150174	0.103529326503	415
+histone deacetylase activity (H3-K14 specific)(GO:0031078)	20437, 169, 12, 1	10.077	0.196470944438	0.572938308907	12
+heat shock protein binding(GO:0031072)	20437, 1957, 136, 21	1.613	0.114234560243	0.449908421879	136
+TAP binding(GO:0046977)	20437, 966, 11, 5	9.617	0.000368707566732	0.0118518777876	11
+structural constituent of cytoskeleton(GO:0005200)	20437, 1625, 59, 5	1.066	0.791169607405	1.0	59
+tumor necrosis factor receptor superfamily binding(GO:0032813)	20437, 580, 45, 6	4.698	0.00941517876454	0.103529326503	45
+dopamine receptor binding(GO:0050780)	20437, 22, 24, 1	38.706	0.0912288500667	0.397524861567	24
+phosphatidylinositol 3-kinase activity(GO:0035004)	20437, 902, 11, 2	4.12	0.173877728659	0.54434771605	11
+intramolecular transferase activity(GO:0016866)	20437, 1951, 26, 5	2.014	0.249604225833	0.64224085889	26
+SNAP receptor activity(GO:0005484)	20437, 1198, 30, 6	3.412	0.0333664184393	0.22331511426	30
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen(GO:0016712)	20437, 0, 61, 0	0.0	1.0	1.0	61
+Ran GTPase binding(GO:0008536)	20437, 351, 35, 2	3.327	0.318156474996	0.723982734212	35
+protein transporter activity(GO:0008565)	20437, 1577, 75, 9	1.555	0.381397821384	0.770318282243	75
+small ribosomal subunit rRNA binding(GO:0070181)	20437, 1737, 11, 1	1.07	0.627428224471	0.948159380602	11
+DNA polymerase binding(GO:0070182)	20437, 1998, 18, 6	3.41	0.024005481645	0.175582951461	18
+molecular function regulator(GO:0098772)	20437, 603, 1714, 65	1.285	0.197133679961	0.572938308907	1714
+macromolecule transmembrane transporter activity(GO:0022884)	20437, 1826, 17, 4	2.633	0.152254320939	0.508238125612	17
+RNA polymerase II general transcription initiation factor binding(GO:0001091)	20437, 1968, 21, 7	3.462	0.012552462443	0.124793413025	21
+C4-dicarboxylate transmembrane transporter activity(GO:0015556)	20437, 1248, 13, 3	3.779	0.105493083065	0.432099668235	13
+ATP-dependent microtubule motor activity, minus-end-directed(GO:0008569)	20437, 0, 17, 0	0.0	1.0	1.0	17
+ubiquitin-like modifier activating enzyme activity(GO:0008641)	20437, 1236, 11, 2	3.006	0.240217021001	0.631540828682	11
+basal transcription machinery binding(GO:0001098)	20437, 1968, 56, 12	2.225	0.0367962841354	0.233406085894	56
+C2H2 zinc finger domain binding(GO:0070742)	20437, 795, 13, 2	3.955	0.187148295996	0.560350453509	13
+cysteine-type endopeptidase regulator activity involved in apoptotic process(GO:0043028)	20437, 1833, 40, 10	2.787	0.0137841709448	0.133160292901	40
+ceramide binding(GO:0097001)	20437, 1783, 13, 2	1.763	0.442641147226	0.827125063429	13
+single-stranded DNA-dependent ATPase activity(GO:0043142)	20437, 1962, 16, 3	1.953	0.351476003768	0.755535580962	16
+ATP-dependent 3'-5' DNA helicase activity(GO:0043140)	20437, 1928, 11, 4	3.855	0.0461813645543	0.268691575589	11
+ribonucleoprotein complex binding(GO:0043021)	20437, 1967, 144, 28	2.02	0.00252427930145	0.0416913226562	144
+ribosomal large subunit binding(GO:0043023)	20437, 637, 12, 2	5.347	0.120890579071	0.460493034256	12
+ribosome binding(GO:0043022)	20437, 1967, 62, 13	2.179	0.0323743608523	0.218100957321	62
+histone deacetylase binding(GO:0042826)	20437, 1059, 123, 12	1.883	0.143531123721	0.501082012561	123
+motor activity(GO:0003774)	20437, 1925, 125, 22	1.869	0.0227242198788	0.169851103328	125
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process(GO:0043027)	20437, 1291, 29, 8	4.367	0.00191075616526	0.0358612352278	29
+oxidoreductase activity, acting on NAD(P)H(GO:0016651)	20437, 1983, 74, 10	1.393	0.478213176758	0.85760121366	74
+SH3/SH2 adaptor activity(GO:0005070)	20437, 157, 25, 3	15.621	0.00446561648795	0.0625898335587	25
+excitatory extracellular ligand-gated ion channel activity(GO:0005231)	20437, 0, 36, 0	0.0	1.0	1.0	36
+cis-trans isomerase activity(GO:0016859)	20437, 1973, 40, 9	2.331	0.0591526789342	0.309042567493	40
+sulfurtransferase activity(GO:0016783)	20437, 1645, 11, 3	3.388	0.119742516445	0.460493034256	11
+phosphotransferase activity, for other substituted phosphate groups(GO:0016780)	20437, 1866, 18, 6	3.651	0.0173960302566	0.15225243575	18
+protein kinase regulator activity(GO:0019887)	20437, 1967, 164, 29	1.837	0.00925707302996	0.103529326503	164
+protein phosphatase regulator activity(GO:0019888)	20437, 1573, 69, 8	1.506	0.440285501177	0.824227336756	69
+ligand-gated channel activity(GO:0022834)	20437, 1362, 137, 4	0.438	0.998894895489	1.0	137
+hydrolase activity, acting on ester bonds(GO:0016788)	20437, 51, 725, 8	4.422	0.00598925921044	0.0766625178937	725
+inhibitory extracellular ligand-gated ion channel activity(GO:0005237)	20437, 0, 17, 0	0.0	1.0	1.0	17
+beta-catenin binding(GO:0008013)	20437, 1683, 86, 7	0.988	0.859716387199	1.0	86
+proteasome binding(GO:0070628)	20437, 1364, 17, 2	1.763	0.469363045128	0.845430829597	17
+ubiquitin-like protein binding(GO:0032182)	20437, 1875, 95, 19	2.18	0.00732416553071	0.0892850655172	95
+thiol-dependent ubiquitin-specific protease activity(GO:0004843)	20437, 1867, 90, 15	1.824	0.0896415725152	0.393961245732	90
+sodium ion transmembrane transporter activity(GO:0015081)	20437, 460, 142, 1	0.313	0.997036155176	1.0	142
+Rac guanyl-nucleotide exchange factor activity(GO:0030676)	20437, 73, 17, 1	16.468	0.152748550437	0.508238125612	17
+nucleotidyltransferase activity(GO:0016779)	20437, 1948, 126, 25	2.082	0.00311370322908	0.0477767997306	126
+4 iron, 4 sulfur cluster binding(GO:0051539)	20437, 1983, 39, 8	2.114	0.122218401655	0.460493034256	39
+carboxylic ester hydrolase activity(GO:0052689)	20437, 216, 141, 4	2.684	0.281832146299	0.680651221251	141
+deoxyribonuclease activity(GO:0004536)	20437, 1401, 57, 11	2.815	0.00952763148935	0.103529326503	57
+transferase activity, transferring phosphorus-containing groups(GO:0016772)	20437, 1959, 912, 127	1.453	0.000215709832798	0.00920361953273	912
+iron-sulfur cluster binding(GO:0051536)	20437, 1983, 63, 13	2.127	0.040660221843	0.24491804216	63
+2 iron, 2 sulfur cluster binding(GO:0051537)	20437, 1313, 25, 6	3.736	0.0201008134425	0.162072700513	25
+exoribonuclease activity(GO:0004532)	20437, 1688, 29, 7	2.922	0.0363097787602	0.233406085894	29
+phosphotransferase activity, phosphate group as acceptor(GO:0016776)	20437, 1796, 32, 4	1.422	0.547689898211	0.919400747161	32
+fucosyltransferase activity(GO:0008417)	20437, 985, 11, 2	3.772	0.190709436423	0.564913259668	11
+co-receptor binding(GO:0039706)	20437, 0, 12, 0	0.0	1.0	1.0	12
+adenylyltransferase activity(GO:0070566)	20437, 1909, 35, 7	2.141	0.14381054542	0.501082012561	35
+vitamin transmembrane transporter activity(GO:0090482)	20437, 149, 21, 1	6.531	0.310408996985	0.715345171438	21
+ephrin receptor activity(GO:0005003)	20437, 0, 16, 0	0.0	1.0	1.0	16
+protein phosphatase 1 binding(GO:0008157)	20437, 511, 20, 1	2.0	0.563228405998	0.9243009279	20
+L-amino acid transmembrane transporter activity(GO:0015179)	20437, 1720, 55, 6	1.296	0.622031233304	0.948159380602	55
+retinoic acid binding(GO:0001972)	20437, 115, 15, 1	11.848	0.182528727054	0.557938556726	15
+basic amino acid transmembrane transporter activity(GO:0015174)	20437, 1720, 11, 3	3.241	0.131223874962	0.480866993227	11
+neutral amino acid transmembrane transporter activity(GO:0015175)	20437, 1434, 29, 4	1.966	0.336330866738	0.74065119901	29
+RNA polymerase II core promoter sequence-specific DNA binding(GO:0000979)	20437, 1968, 38, 6	1.64	0.378505318216	0.76902667828	38
+potassium ion transmembrane transporter activity(GO:0015079)	20437, 460, 157, 2	0.566	0.987182945751	1.0	157
+amino acid transmembrane transporter activity(GO:0015171)	20437, 1720, 73, 6	0.977	0.857117038973	1.0	73
+acidic amino acid transmembrane transporter activity(GO:0015172)	20437, 1248, 14, 1	1.17	0.628543189075	0.948159380602	14
+intracellular calcium activated chloride channel activity(GO:0005229)	20437, 0, 21, 0	0.0	1.0	1.0	21
+beta-2-microglobulin binding(GO:0030881)	20437, 1813, 11, 5	5.124	0.00617503225555	0.0780646053047	11
+protein C-terminus binding(GO:0008022)	20437, 1528, 234, 28	1.6	0.0681569478576	0.335541897145	234
+organic acid transmembrane transporter activity(GO:0005342)	20437, 1720, 145, 11	0.901	0.94157404492	1.0	145
+cyclic nucleotide-gated ion channel activity(GO:0043855)	20437, 0, 12, 0	0.0	1.0	1.0	12
+activating transcription factor binding(GO:0033613)	20437, 40, 78, 1	6.55	0.423399955086	0.810395428053	78
+receptor serine/threonine kinase binding(GO:0033612)	20437, 0, 26, 0	0.0	1.0	1.0	26
+monocarboxylic acid transmembrane transporter activity(GO:0008028)	20437, 262, 49, 1	1.592	0.740157381702	1.0	49
+sulfotransferase activity(GO:0008146)	20437, 91, 56, 1	4.01	0.511556334702	0.887853706331	56
+calcium activated cation channel activity(GO:0005227)	20437, 0, 28, 0	0.0	1.0	1.0	28
+organophosphate ester transmembrane transporter activity(GO:0015605)	20437, 1404, 25, 1	0.582	0.862397976658	1.0	25
+nucleosome binding(GO:0031491)	20437, 1181, 48, 7	2.524	0.0895108531701	0.393961245732	48
+chromatin DNA binding(GO:0031490)	20437, 1271, 93, 11	1.902	0.146541361405	0.501082012561	93
+nucleosomal DNA binding(GO:0031492)	20437, 928, 22, 2	2.002	0.453265323324	0.833319270208	22
+heparan sulfate sulfotransferase activity(GO:0034483)	20437, 91, 15, 1	14.972	0.157001930826	0.520291188238	15
+protein kinase C activity(GO:0004697)	20437, 0, 15, 0	0.0	1.0	1.0	15
+transforming growth factor beta binding(GO:0050431)	20437, 0, 22, 0	0.0	1.0	1.0	22
+sulfur compound binding(GO:1901681)	20437, 394, 244, 2	0.425	0.998358429796	1.0	244
+sequence-specific DNA binding(GO:0043565)	20437, 867, 1121, 80	1.682	8.32346175674e-05	0.00426161241945	1121
+potassium ion binding(GO:0030955)	20437, 195, 11, 1	9.528	0.195866969795	0.572938308907	11
+sulfur compound transmembrane transporter activity(GO:1901682)	20437, 1248, 30, 4	2.183	0.276502549311	0.673554096146	30
+insulin receptor substrate binding(GO:0043560)	20437, 256, 11, 2	14.515	0.0257733494423	0.184558809992	11
+magnesium ion binding(GO:0000287)	20437, 1960, 192, 28	1.521	0.109787420088	0.439149680352	192
+S-acyltransferase activity(GO:0016417)	20437, 1533, 32, 6	2.5	0.1110354102	0.441300028357	32
+oxygen binding(GO:0019825)	20437, 0, 25, 0	0.0	1.0	1.0	25
+calcium ion binding(GO:0005509)	20437, 86, 601, 1	0.395	0.99902490715	1.0	601
+N-acyltransferase activity(GO:0016410)	20437, 1762, 111, 19	1.985	0.0212000820319	0.168285922486	111
+acylglycerol O-acyltransferase activity(GO:0016411)	20437, 0, 16, 0	0.0	1.0	1.0	16
+fatty acid binding(GO:0005504)	20437, 0, 45, 0	0.0	1.0	1.0	45
+iron ion binding(GO:0005506)	20437, 307, 163, 3	1.225	0.834277288511	1.0	163
+copper ion binding(GO:0005507)	20437, 112, 59, 2	6.186	0.169025454214	0.536419681596	59
+retinoid binding(GO:0005501)	20437, 115, 32, 1	5.554	0.376783006576	0.76902667828	32
+cation:cation antiporter activity(GO:0015491)	20437, 460, 24, 1	1.851	0.622354839186	0.948159380602	24
+glucosidase activity(GO:0015926)	20437, 304, 13, 2	10.343	0.0478321498324	0.272976850489	13
+mitogen-activated protein kinase binding(GO:0051019)	20437, 1683, 36, 9	3.036	0.0124210953624	0.124698055403	36
+protein kinase A binding(GO:0051018)	20437, 187, 52, 3	6.305	0.0612833213937	0.318548838108	52
+exogenous protein binding(GO:0140272)	20437, 1943, 21, 2	1.002	0.730532931012	1.0	21
+MHC class I protein binding(GO:0042288)	20437, 1813, 18, 3	1.879	0.376293909061	0.76902667828	18
+methyl-CpG binding(GO:0008327)	20437, 856, 21, 2	2.274	0.398366785199	0.788990899671	21
+MHC protein binding(GO:0042287)	20437, 715, 28, 3	3.062	0.206760592374	0.583258530554	28
+xylosyltransferase activity(GO:0042285)	20437, 0, 11, 0	0.0	1.0	1.0	11
+lipid binding(GO:0008289)	20437, 50, 735, 3	1.668	0.785189000705	1.0	735
+actin filament binding(GO:0051015)	20437, 1746, 190, 29	1.787	0.0148649321743	0.138379004968	190
+protein transmembrane transporter activity(GO:0008320)	20437, 1826, 14, 4	3.198	0.0868495045912	0.390060932901	14
+four-way junction DNA binding(GO:0000400)	20437, 1928, 16, 6	3.975	0.0110355092413	0.115309810848	16
+peptide receptor activity(GO:0001653)	20437, 70, 148, 1	1.973	0.794408040455	1.0	148
+cofactor binding(GO:0048037)	20437, 503, 527, 13	1.002	0.939644956568	1.0	527
+cholesterol transporter activity(GO:0017127)	20437, 9, 19, 1	119.515	0.0338983111442	0.224177146912	19
+monocarboxylic acid binding(GO:0033293)	20437, 115, 69, 1	2.576	0.653364778399	0.969952767744	69
+quinone binding(GO:0048038)	20437, 496, 14, 1	2.943	0.422301058343	0.809805774801	14
+racemase and epimerase activity, acting on carbohydrates and derivatives(GO:0016857)	20437, 0, 11, 0	0.0	1.0	1.0	11
+racemase and epimerase activity(GO:0016854)	20437, 1960, 17, 1	0.613	0.820083041456	1.0	17
+isomerase activity(GO:0016853)	20437, 1261, 150, 15	1.621	0.22350022615	0.607712053223	150
+cullin family protein binding(GO:0097602)	20437, 1583, 18, 2	1.434	0.557769654137	0.922963892864	18
+alkali metal ion binding(GO:0031420)	20437, 689, 21, 2	2.825	0.327186826656	0.731265987068	21
+immunoglobulin binding(GO:0019865)	20437, 603, 18, 2	3.766	0.227153913591	0.612914274249	18
+cysteine-type endopeptidase activity(GO:0004197)	20437, 630, 98, 9	2.979	0.0224743411677	0.169569803444	98
+RNA polymerase II general transcription initiation factor activity(GO:0016251)	20437, 347, 12, 1	4.908	0.299354075669	0.702013973032	12
+calcium-dependent cysteine-type endopeptidase activity(GO:0004198)	20437, 807, 15, 1	1.688	0.579645145116	0.926330204649	15
+protein tyrosine phosphatase activity(GO:0004725)	20437, 74, 97, 5	14.236	0.000309067878218	0.0117216854554	97
+peptide hormone binding(GO:0017046)	20437, 1992, 51, 1	0.201	0.994684845788	1.0	51
+phospholipid scramblase activity(GO:0017128)	20437, 1231, 16, 1	1.038	0.679179397691	0.982354825679	16
+oxidoreductase activity, acting on the CH-NH group of donors(GO:0016645)	20437, 1707, 26, 4	1.842	0.35687207066	0.755535580962	26
+actin binding(GO:0003779)	20437, 1346, 413, 48	1.765	0.00143998076438	0.0289125549555	413
+SH3 domain binding(GO:0017124)	20437, 1922, 127, 27	2.261	0.000521360998855	0.0140493069165	127
+Rho GTPase binding(GO:0017048)	20437, 657, 164, 14	2.655	0.00831188567011	0.0989694293744	164
+GTP-Rho binding(GO:0017049)	20437, 563, 18, 2	4.033	0.20902658938	0.586419801439	18
+RNA polymerase III activity(GO:0001056)	20437, 245, 16, 1	5.214	0.325586298022	0.731141160469	16
+phosphoprotein phosphatase activity(GO:0004721)	20437, 74, 172, 6	9.634	0.000479603799081	0.0136915541929	172
+RNA polymerase I activity(GO:0001054)	20437, 1517, 12, 3	3.368	0.124742943226	0.466192605341	12
+RNA polymerase II CTD heptapeptide repeat kinase activity(GO:0008353)	20437, 1947, 17, 1	0.617	0.818001388776	1.0	17
+lipopolysaccharide binding(GO:0001530)	20437, 1996, 27, 3	1.138	0.696515300797	0.993358869104	27
+oligosaccharide binding(GO:0070492)	20437, 603, 17, 2	3.987	0.205985529341	0.583258530554	17
+FAD binding(GO:0071949)	20437, 1172, 34, 4	2.051	0.324412527076	0.730106434563	34
+repressing transcription factor binding(GO:0070491)	20437, 979, 68, 6	1.842	0.340108350631	0.744386258977	68
+oxidized DNA binding(GO:0032356)	20437, 1946, 11, 3	2.864	0.169202692535	0.536419681596	11
+proline-rich region binding(GO:0070064)	20437, 570, 20, 1	1.793	0.588642076318	0.926330204649	20
+RNA polymerase binding(GO:0070063)	20437, 347, 56, 2	2.103	0.542781640949	0.916525521999	56
+guanyl nucleotide binding(GO:0019001)	20437, 1410, 368, 44	1.733	0.0035172511651	0.0507276787755	368
+nucleotide transmembrane transporter activity(GO:0015215)	20437, 0, 17, 0	0.0	1.0	1.0	17
+receptor inhibitor activity(GO:0030547)	20437, 413, 26, 1	1.903	0.615810153389	0.948159380602	26
+purine nucleotide transmembrane transporter activity(GO:0015216)	20437, 0, 14, 0	0.0	1.0	1.0	14
+BMP receptor binding(GO:0070700)	20437, 0, 11, 0	0.0	1.0	1.0	11
+carbohydrate derivative transmembrane transporter activity(GO:1901505)	20437, 1611, 45, 5	1.41	0.563245877939	0.9243009279	45
+structural constituent of ribosome(GO:0003735)	20437, 1982, 149, 29	2.007	0.00230537120213	0.0407017260513	149
+secondary active monocarboxylate transmembrane transporter activity(GO:0015355)	20437, 0, 11, 0	0.0	1.0	1.0	11
+GDP binding(GO:0019003)	20437, 1152, 64, 10	2.772	0.0179332929699	0.154316739506	64
+mRNA 3'-UTR binding(GO:0003730)	20437, 1267, 81, 7	1.394	0.569667102118	0.926330204649	81
+FMN binding(GO:0010181)	20437, 877, 14, 1	1.665	0.561903693498	0.9243009279	14
+active transmembrane transporter activity(GO:0022804)	20437, 507, 348, 10	1.158	0.826845328158	1.0	348
+phosphatase activator activity(GO:0019211)	20437, 476, 12, 1	3.578	0.364495578216	0.761809754039	12
+kinase inhibitor activity(GO:0019210)	20437, 4, 59, 1	86.597	0.0630378326214	0.319558121804	59
+deacetylase activity(GO:0019213)	20437, 1470, 40, 9	3.128	0.00985324192774	0.105101247229	40
+phosphatase inhibitor activity(GO:0019212)	20437, 1573, 41, 4	1.268	0.658656753066	0.971232212092	41
+intermediate filament binding(GO:0019215)	20437, 0, 14, 0	0.0	1.0	1.0	14
+gamma-catenin binding(GO:0045295)	20437, 1683, 14, 2	1.735	0.4534999248	0.833319270208	14
+GTPase activity(GO:0003924)	20437, 1013, 282, 33	2.361	7.63273148001e-05	0.00411364054502	282
+haptoglobin binding(GO:0031720)	20437, 0, 12, 0	0.0	1.0	1.0	12
+trace-amine receptor activity(GO:0001594)	20437, 0, 15, 0	0.0	1.0	1.0	15
+apolipoprotein binding(GO:0034185)	20437, 0, 16, 0	0.0	1.0	1.0	16
+sugar transmembrane transporter activity(GO:0051119)	20437, 0, 27, 0	0.0	1.0	1.0	27
+HMG box domain binding(GO:0071837)	20437, 0, 23, 0	0.0	1.0	1.0	23
+translation elongation factor activity(GO:0003746)	20437, 1972, 18, 6	3.455	0.0229232345116	0.170097044492	18
+ATPase activity, coupled to transmembrane movement of ions, rotational mechanism(GO:0044769)	20437, 1916, 31, 6	2.064	0.19730774364	0.572938308907	31
+nitric-oxide synthase binding(GO:0050998)	20437, 0, 22, 0	0.0	1.0	1.0	22
+miRNA binding(GO:0035198)	20437, 1622, 28, 3	1.35	0.60045571505	0.932444285095	28
+signal sequence binding(GO:0005048)	20437, 97, 39, 2	10.805	0.0664434771207	0.32868657281	39
+oxidoreductase activity, acting on the CH-NH2 group of donors(GO:0016638)	20437, 877, 25, 1	0.932	0.783090867503	1.0	25
+organic anion transmembrane transporter activity(GO:0008514)	20437, 477, 202, 3	0.636	0.988230460809	1.0	202
+scavenger receptor activity(GO:0005044)	20437, 714, 45, 3	1.908	0.469177253702	0.845430829597	45
+muscle alpha-actinin binding(GO:0051371)	20437, 0, 15, 0	0.0	1.0	1.0	15
+modified amino acid transmembrane transporter activity(GO:0072349)	20437, 1434, 15, 1	0.95	0.688501288356	0.988396696039	15
+telomeric DNA binding(GO:0042162)	20437, 1948, 35, 6	1.799	0.297954294305	0.701391258318	35
+calcium-activated potassium channel activity(GO:0015269)	20437, 0, 15, 0	0.0	1.0	1.0	15
+ammonium ion binding(GO:0070405)	20437, 1596, 80, 2	0.32	0.997367640814	1.0	80
+demethylase activity(GO:0032451)	20437, 799, 41, 5	3.119	0.0902605385494	0.394986288353	41
+histone demethylase activity(GO:0032452)	20437, 709, 26, 3	3.326	0.174361377797	0.54434771605	26
+histone demethylase activity (H3-K9 specific)(GO:0032454)	20437, 709, 12, 2	4.804	0.140548777098	0.497765930058	12
+NAD+ binding(GO:0070403)	20437, 1131, 14, 4	5.163	0.0223402212874	0.169569803444	14
+NADPH binding(GO:0070402)	20437, 400, 17, 1	3.005	0.444831833173	0.829704548577	17
+alditol:NADP+ 1-oxidoreductase activity(GO:0004032)	20437, 745, 18, 1	1.524	0.623163075443	0.948159380602	18
+potassium channel activity(GO:0005267)	20437, 267, 122, 1	0.627	0.967482520933	1.0	122
+aromatase activity(GO:0070330)	20437, 0, 34, 0	0.0	1.0	1.0	34
+cation channel activity(GO:0005261)	20437, 267, 311, 1	0.246	0.999792710293	1.0	311
+toxic substance binding(GO:0015643)	20437, 0, 13, 0	0.0	1.0	1.0	13
+glycine binding(GO:0016594)	20437, 1960, 15, 1	0.695	0.779822390978	1.0	15
+small GTPase binding(GO:0031267)	20437, 761, 421, 39	2.488	4.09950932255e-06	0.000466433060699	421
+leucine zipper domain binding(GO:0043522)	20437, 564, 11, 1	3.294	0.382409829078	0.770841860189	11
+exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters(GO:0016796)	20437, 1688, 48, 11	2.775	0.00919019263096	0.103529326503	48
+polyubiquitin modification-dependent protein binding(GO:0031593)	20437, 1924, 55, 13	2.511	0.0093520111897	0.103529326503	55
+amino acid binding(GO:0016597)	20437, 216, 70, 1	1.352	0.818471319841	1.0	70
+glutamate binding(GO:0016595)	20437, 0, 14, 0	0.0	1.0	1.0	14
+cell adhesion mediator activity(GO:0098631)	20437, 38, 39, 1	13.79	0.222642412294	0.607712053223	39
+phospholipid transporter activity(GO:0005548)	20437, 1783, 71, 9	1.453	0.451692812112	0.833319270208	71
+odorant binding(GO:0005549)	20437, 0, 451, 0	0.0	1.0	1.0	451
+peptidoglycan muralytic activity(GO:0061783)	20437, 1407, 13, 1	1.117	0.628320209395	0.948159380602	13
+GTP-dependent protein binding(GO:0030742)	20437, 857, 24, 4	3.975	0.063483849991	0.320233804881	24
+phosphatidylinositol-4,5-bisphosphate phosphatase activity(GO:0106019)	20437, 151, 12, 1	11.279	0.179697147864	0.554246624738	12
+phosphatidylinositol-5-phosphate binding(GO:0010314)	20437, 575, 15, 1	2.37	0.483526167466	0.859602075495	15
+hyaluronic acid binding(GO:0005540)	20437, 0, 23, 0	0.0	1.0	1.0	23
+protein dimerization activity(GO:0046983)	20437, 894, 1390, 99	1.628	2.66859560747e-05	0.00210203223234	1390
+folic acid binding(GO:0005542)	20437, 458, 14, 1	3.187	0.40349020132	0.794825887298	14
+phospholipid binding(GO:0005543)	20437, 1532, 415, 37	1.189	0.583341798924	0.926330204649	415
+calcium-dependent phospholipid binding(GO:0005544)	20437, 1992, 55, 2	0.373	0.989502531187	1.0	55
+1-phosphatidylinositol binding(GO:0005545)	20437, 1532, 13, 2	2.052	0.378459645469	0.76902667828	13
+phosphatidylinositol-4,5-bisphosphate binding(GO:0005546)	20437, 357, 76, 2	1.506	0.719872172269	1.0	76
+phosphatidylinositol-3,4,5-trisphosphate binding(GO:0005547)	20437, 1245, 39, 4	1.684	0.460952601227	0.840105221001	39
+lysophospholipid acyltransferase activity(GO:0071617)	20437, 0, 14, 0	0.0	1.0	1.0	14
+transferase activity, transferring one-carbon groups(GO:0016741)	20437, 1971, 204, 27	1.372	0.280783351907	0.679721400362	204
+transferase activity, transferring acyl groups(GO:0016746)	20437, 1762, 261, 33	1.467	0.121631838144	0.460493034256	261
+bitter taste receptor activity(GO:0033038)	20437, 0, 29, 0	0.0	1.0	1.0	29
+3',5'-cyclic-AMP phosphodiesterase activity(GO:0004115)	20437, 0, 12, 0	0.0	1.0	1.0	12
+K63-linked polyubiquitin modification-dependent protein binding(GO:0070530)	20437, 939, 22, 5	4.947	0.0132026043563	0.128756827246	22
+lipid transporter activity(GO:0005319)	20437, 9, 151, 1	15.038	0.293047648672	0.693027233811	151
+purinergic nucleotide receptor activity(GO:0001614)	20437, 957, 20, 2	2.136	0.418544875597	0.805620211675	20
+metalloendopeptidase activity(GO:0004222)	20437, 690, 97, 2	0.611	0.971575775865	1.0	97
+semaphorin receptor binding(GO:0030215)	20437, 1230, 22, 1	0.755	0.801050266225	1.0	22
+delayed rectifier potassium channel activity(GO:0005251)	20437, 0, 30, 0	0.0	1.0	1.0	30
+oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor(GO:0016671)	20437, 0, 11, 0	0.0	1.0	1.0	11
+dicarboxylic acid transmembrane transporter activity(GO:0005310)	20437, 1248, 36, 3	1.365	0.628060681789	0.948159380602	36
+antioxidant activity(GO:0016209)	20437, 145, 85, 2	3.316	0.392539051377	0.778992225988	85
+AMP binding(GO:0016208)	20437, 1878, 17, 3	1.92	0.36198897004	0.761589421374	17
+NF-kappaB binding(GO:0051059)	20437, 54, 32, 1	11.827	0.235258293377	0.621193510424	32
+helicase activity(GO:0004386)	20437, 1377, 138, 18	1.936	0.0378615611106	0.23355565408	138
+RNA methyltransferase activity(GO:0008173)	20437, 1525, 60, 6	1.34	0.600989480628	0.932444285095	60
+N-methyltransferase activity(GO:0008170)	20437, 604, 84, 5	2.014	0.349843374386	0.75530267145	84
+O-methyltransferase activity(GO:0008171)	20437, 1892, 22, 3	1.473	0.529399748637	0.900507213628	22
+proton-transporting ATPase activity, rotational mechanism(GO:0046961)	20437, 507, 21, 2	3.839	0.22744865646	0.612914274249	21
+tRNA methyltransferase activity(GO:0008175)	20437, 469, 32, 2	2.723	0.37833364747	0.76902667828	32
+adenylate cyclase binding(GO:0008179)	20437, 616, 16, 1	2.074	0.525073589664	0.897621629075	16
+single-stranded DNA endodeoxyribonuclease activity(GO:0000014)	20437, 1838, 11, 3	3.032	0.15028158214	0.506211645104	11
+laminin binding(GO:0043236)	20437, 603, 31, 4	4.373	0.0544810983076	0.296748109931	31
+translation regulator activity, nucleic acid binding(GO:0090079)	20437, 1972, 96, 17	1.835	0.0640035729641	0.321272836839	96
+S100 protein binding(GO:0044548)	20437, 7, 13, 1	224.582	0.0173491069774	0.15225243575	13
+neuropeptide hormone activity(GO:0005184)	20437, 770, 25, 1	1.062	0.749527681382	1.0	25
+fatty acid synthase activity(GO:0004312)	20437, 212, 11, 1	8.764	0.205095264991	0.583258530554	11
+MAP kinase activity(GO:0004707)	20437, 1942, 14, 3	2.255	0.27355296485	0.670139320589	14
+palmitoyl-CoA hydrolase activity(GO:0016290)	20437, 1861, 17, 3	1.938	0.357108614439	0.755535580962	17
+zinc ion transmembrane transporter activity(GO:0005385)	20437, 55, 20, 1	18.579	0.146703731851	0.501082012561	20
+ligand-gated calcium channel activity(GO:0099604)	20437, 1362, 26, 3	1.731	0.467508811069	0.845430829597	26
+neurotransmitter receptor regulator activity(GO:0099602)	20437, 413, 15, 1	3.299	0.404432337478	0.794891964641	15
+MAP kinase kinase activity(GO:0004708)	20437, 1174, 12, 2	2.901	0.259993016664	0.658992200654	12
+activin binding(GO:0048185)	20437, 0, 12, 0	0.0	1.0	1.0	12
+monosaccharide binding(GO:0048029)	20437, 167, 85, 4	5.759	0.0354835012461	0.231433791567	85
+aldo-keto reductase (NADP) activity(GO:0004033)	20437, 745, 28, 1	0.98	0.782401866464	1.0	28
+myosin heavy chain binding(GO:0032036)	20437, 527, 11, 2	7.051	0.0790129981634	0.367769591452	11
+vinculin binding(GO:0017166)	20437, 0, 12, 0	0.0	1.0	1.0	12
+Ral GTPase binding(GO:0017160)	20437, 383, 16, 3	10.005	0.0130252915433	0.128249024426	16
+G-protein beta-subunit binding(GO:0031681)	20437, 1121, 13, 3	4.207	0.0877486250986	0.392378131445	13
+RNA polymerase III regulatory region DNA binding(GO:0001016)	20437, 1095, 11, 3	5.09	0.0540420533084	0.296748109931	11
+general transcription initiation factor activity(GO:0140223)	20437, 347, 19, 2	6.2	0.119066165842	0.460089637066	19
+RNA polymerase II regulatory region DNA binding(GO:0001012)	20437, 878, 819, 65	1.847	3.36312266684e-05	0.00229589174057	819
+5'-3' RNA polymerase activity(GO:0034062)	20437, 245, 38, 2	4.39	0.235091587345	0.621193510424	38
+DNA polymerase activity(GO:0034061)	20437, 1948, 31, 11	3.723	0.000565501406201	0.0148480369218	31
+GTPase binding(GO:0051020)	20437, 706, 511, 42	2.379	5.02093347491e-06	0.000514143587831	511
+bile acid transmembrane transporter activity(GO:0015125)	20437, 0, 18, 0	0.0	1.0	1.0	18
+dopamine binding(GO:0035240)	20437, 0, 16, 0	0.0	1.0	1.0	16
+dystroglycan binding(GO:0002162)	20437, 0, 11, 0	0.0	1.0	1.0	11
+aminoacyl-tRNA editing activity(GO:0002161)	20437, 216, 12, 2	15.769	0.0234022705377	0.17240233835	12
+pheromone binding(GO:0005550)	20437, 0, 90, 0	0.0	1.0	1.0	90
+cofactor transmembrane transporter activity(GO:0051184)	20437, 0, 17, 0	0.0	1.0	1.0	17
+growth factor activity(GO:0008083)	20437, 370, 146, 1	0.378	0.994161057256	1.0	146
+transition metal ion binding(GO:0046914)	20437, 1524, 943, 87	1.237	0.183495452026	0.558227390784	943
+phosphoric diester hydrolase activity(GO:0008081)	20437, 187, 86, 1	1.271	0.847028443335	1.0	86
+hydrolase activity, acting on ether bonds(GO:0016801)	20437, 0, 11, 0	0.0	1.0	1.0	11
+dipeptidase activity(GO:0016805)	20437, 0, 15, 0	0.0	1.0	1.0	15
+G-protein beta/gamma-subunit complex binding(GO:0031683)	20437, 981, 24, 4	3.472	0.0921384418448	0.39822653568	24
+nucleoside diphosphate kinase activity(GO:0004550)	20437, 612, 17, 1	1.964	0.544923544894	0.916525521999	17
+oligopeptide binding(GO:1900750)	20437, 799, 17, 1	1.505	0.626001329116	0.948159380602	17
+nucleotide diphosphatase activity(GO:0004551)	20437, 0, 17, 0	0.0	1.0	1.0	17
+DNA-directed DNA polymerase activity(GO:0003887)	20437, 1818, 24, 9	4.216	0.000770921089268	0.0171613738133	24
+photoreceptor activity(GO:0009881)	20437, 0, 12, 0	0.0	1.0	1.0	12
+L-ascorbic acid binding(GO:0031418)	20437, 1241, 19, 1	0.867	0.748271860361	1.0	19
+RNA cap binding(GO:0000339)	20437, 645, 17, 1	1.864	0.559701813421	0.922963892864	17
+filamin binding(GO:0031005)	20437, 0, 16, 0	0.0	1.0	1.0	16
+nucleoside-diphosphatase activity(GO:0017110)	20437, 297, 16, 2	8.601	0.0692641224765	0.337745054362	16
+manganese ion binding(GO:0030145)	20437, 1862, 58, 12	2.271	0.0309955080567	0.211246949754	58
+SNARE binding(GO:0000149)	20437, 1815, 110, 11	1.126	0.759876890918	1.0	110
+catalytic activity, acting on DNA(GO:0140097)	20437, 1968, 173, 38	2.281	1.60806757507e-05	0.00137221766406	173
+amide transmembrane transporter activity(GO:0042887)	20437, 1331, 40, 8	3.071	0.0203103613305	0.162482890644	40
+phosphatidylinositol 3-kinase regulator activity(GO:0035014)	20437, 939, 18, 3	3.627	0.129130853473	0.480509449049	18
+calcium-dependent phospholipase A2 activity(GO:0047498)	20437, 1439, 15, 1	0.947	0.689369359673	0.988396696039	15
+proton-exporting ATPase activity, phosphorylative mechanism(GO:0008553)	20437, 1781, 19, 3	1.812	0.399118443388	0.788990899671	19
+G protein-coupled amine receptor activity(GO:0008227)	20437, 0, 71, 0	0.0	1.0	1.0	71
+potassium-transporting ATPase activity(GO:0008556)	20437, 0, 11, 0	0.0	1.0	1.0	11
+RNA polymerase II transcription factor binding(GO:0001085)	20437, 599, 62, 4	2.201	0.335539147598	0.740500187803	62
+phosphatidylinositol phosphate phosphatase activity(GO:0052866)	20437, 151, 24, 1	5.639	0.345391854318	0.747740504909	24
+ligase activity, forming carbon-nitrogen bonds(GO:0016879)	20437, 1750, 46, 4	1.016	0.795494676141	1.0	46
+structural constituent of synapse(GO:0098918)	20437, 1733, 29, 1	0.407	0.928474962228	1.0	29
+Hsp70 protein binding(GO:0030544)	20437, 1947, 45, 8	1.866	0.207534097622	0.583832186717	45
+sodium channel regulator activity(GO:0017080)	20437, 1918, 32, 1	0.333	0.957784223274	1.0	32
+chloride channel regulator activity(GO:0017081)	20437, 1735, 14, 3	2.524	0.223737738345	0.607712053223	14
+tau-protein kinase activity(GO:0050321)	20437, 609, 17, 1	1.974	0.543575893696	0.916525521999	17
+alpha-tubulin binding(GO:0043014)	20437, 69, 35, 1	8.463	0.300021362026	0.702013973032	35
+gamma-tubulin binding(GO:0043015)	20437, 665, 29, 4	4.239	0.0574788759512	0.306554005073	29
+cAMP response element binding(GO:0035497)	20437, 823, 13, 1	1.91	0.520346192012	0.892520101542	13
+protein heterodimerization activity(GO:0046982)	20437, 995, 569, 50	1.805	0.000758630173575	0.0171613738133	569
+peptidoglycan binding(GO:0042834)	20437, 56, 16, 1	22.809	0.117117259464	0.454273006405	16
+transmembrane receptor protein serine/threonine kinase binding(GO:0070696)	20437, 0, 18, 0	0.0	1.0	1.0	18
+translation initiation factor activity(GO:0003743)	20437, 1812, 47, 8	1.92	0.189227405002	0.563281577679	47
+kinesin binding(GO:0019894)	20437, 1340, 48, 4	1.271	0.6712106005	0.98103804529	48
+phosphatase activity(GO:0016791)	20437, 74, 264, 7	7.323	0.000690800468863	0.0167341173638	264
+thiolester hydrolase activity(GO:0016790)	20437, 1343, 44, 4	1.383	0.605328184209	0.934926184963	44
+cell-cell adhesion mediator activity(GO:0098632)	20437, 38, 30, 1	17.927	0.171446873865	0.540189534886	30
+calcium-dependent protein binding(GO:0048306)	20437, 1084, 71, 7	1.859	0.289697348323	0.689883917867	71
+chemokine binding(GO:0019956)	20437, 1167, 32, 9	4.925	0.000384034900598	0.0118518777876	32
+proton-exporting ATPase activity(GO:0036442)	20437, 1916, 31, 7	2.409	0.0867559170072	0.390060932901	31
+cytokine binding(GO:0019955)	20437, 1215, 130, 20	2.588	0.000929569858161	0.0202527560587	130
+hydrolase activity, hydrolyzing N-glycosyl compounds(GO:0016799)	20437, 1946, 26, 7	2.827	0.0401604927045	0.243339316742	26
+hydrolase activity, acting on glycosyl bonds(GO:0016798)	20437, 1946, 125, 18	1.512	0.232730528972	0.621193510424	125
+secondary active sulfate transmembrane transporter activity(GO:0008271)	20437, 800, 12, 1	2.129	0.48249800953	0.859266020451	12
+vitamin B6 binding(GO:0070279)	20437, 1960, 52, 6	1.203	0.679206266192	0.982354825679	52
+E-box binding(GO:0070888)	20437, 173, 47, 3	7.54	0.0398894534935	0.243135716532	47
+enzyme inhibitor activity(GO:0004857)	20437, 4, 377, 1	13.552	0.372690731719	0.76902667828	377
+oxidoreductase activity(GO:0016491)	20437, 112, 770, 5	1.185	0.899705764591	1.0	770
+icosanoid receptor activity(GO:0004953)	20437, 817, 15, 1	1.668	0.581381287751	0.926330204649	15
+exodeoxyribonuclease activity(GO:0004529)	20437, 339, 24, 4	10.048	0.00309484456755	0.0477767997306	24
+phosphatidylethanolamine binding(GO:0008429)	20437, 0, 11, 0	0.0	1.0	1.0	11
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen(GO:0016709)	20437, 108, 43, 1	4.401	0.461073373245	0.840105221001	43
+2-oxoglutarate-dependent dioxygenase activity(GO:0016706)	20437, 236, 49, 2	3.535	0.322428303268	0.728844553082	49
+receptor regulator activity(GO:0030545)	20437, 84, 516, 2	0.943	0.96547370628	1.0	516
+exonuclease activity(GO:0004527)	20437, 1843, 73, 18	2.734	0.00060088582772	0.0153826771896	73
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen(GO:0016705)	20437, 236, 206, 3	1.261	0.837558421704	1.0	206
+endoribonuclease activity(GO:0004521)	20437, 920, 59, 4	1.506	0.582218406616	0.926330204649	59
+endodeoxyribonuclease activity(GO:0004520)	20437, 1401, 39, 7	2.618	0.0700713274817	0.338457732742	39
+oxidoreductase activity, acting on single donors with incorporation of molecular oxygen(GO:0016701)	20437, 0, 29, 0	0.0	1.0	1.0	29
+lysine-acetylated histone binding(GO:0070577)	20437, 1768, 17, 5	3.4	0.0436039410055	0.256611698791	17
+DNA-binding transcription factor binding(GO:0140297)	20437, 1383, 345, 36	1.542	0.0570968907756	0.306111079342	345
+wide pore channel activity(GO:0022829)	20437, 1746, 21, 1	0.557	0.851845821162	1.0	21
+protease binding(GO:0002020)	20437, 144, 139, 3	3.063	0.316783952455	0.72246496061	139
+transmitter-gated ion channel activity(GO:0022824)	20437, 0, 58, 0	0.0	1.0	1.0	58
+ligase activity, forming carbon-sulfur bonds(GO:0016877)	20437, 1236, 37, 3	1.341	0.640716416252	0.962014091264	37
+phosphatidylserine binding(GO:0001786)	20437, 922, 62, 1	0.358	0.982894011409	1.0	62
+potassium ion antiporter activity(GO:0022821)	20437, 460, 15, 1	2.962	0.427911291959	0.812952064872	15
+phosphotyrosine residue binding(GO:0001784)	20437, 22, 43, 2	43.207	0.0059441872884	0.0766625178937	43
+mismatch repair complex binding(GO:0032404)	20437, 323, 11, 2	11.504	0.0387660958276	0.237703485793	11
+SH2 domain binding(GO:0042169)	20437, 256, 38, 4	8.403	0.00714062079695	0.0880963336877	38
+GTPase activating protein binding(GO:0032794)	20437, 1696, 19, 3	1.903	0.372649672108	0.76902667828	19
+pyrimidine nucleotide-sugar transmembrane transporter activity(GO:0015165)	20437, 1560, 11, 2	2.382	0.310914376763	0.715345171438	11
+protein tyrosine/serine/threonine phosphatase activity(GO:0008138)	20437, 51, 38, 1	10.545	0.263778795975	0.664994261527	38
+nuclear localization sequence binding(GO:0008139)	20437, 54, 19, 1	19.919	0.136411700761	0.490124847648	19
+nuclear receptor binding(GO:0016922)	20437, 1930, 111, 15	1.431	0.362944958624	0.761589421374	111
+transporter activity(GO:0005215)	20437, 9, 1156, 1	1.964	0.912510387335	1.0	1156
+transcription factor binding(GO:0008134)	20437, 1234, 691, 67	1.606	0.00152550272354	0.0300406690174	691
+intracellular ligand-gated ion channel activity(GO:0005217)	20437, 1362, 33, 3	1.364	0.6224724359	0.948159380602	33
+acetylcholine binding(GO:0042166)	20437, 0, 16, 0	0.0	1.0	1.0	16
+ubiquitin-like protein conjugating enzyme binding(GO:0044390)	20437, 1839, 39, 4	1.14	0.713908979341	1.0	39
+SUMO transferase activity(GO:0019789)	20437, 1509, 23, 4	2.355	0.21809840615	0.601263294529	23
+phospholipase binding(GO:0043274)	20437, 22, 20, 1	46.448	0.0725838860648	0.342515665117	20
+peptide hormone receptor binding(GO:0051428)	20437, 22, 20, 1	46.448	0.0725838860648	0.342515665117	20
+hormone receptor binding(GO:0051427)	20437, 1321, 176, 20	1.758	0.0741585276265	0.348340973805	176
+peptidyl-proline dioxygenase activity(GO:0031543)	20437, 1241, 12, 1	1.372	0.565926405727	0.925732650902	12
+ammonium transmembrane transporter activity(GO:0008519)	20437, 701, 32, 1	0.911	0.818546378096	1.0	32
+MAP kinase kinase kinase activity(GO:0004709)	20437, 1635, 26, 3	1.442	0.554914175864	0.922963892864	26
+ubiquitin conjugating enzyme binding(GO:0031624)	20437, 1839, 33, 4	1.347	0.588351020594	0.926330204649	33
+ATP-dependent microtubule motor activity(GO:1990939)	20437, 1895, 42, 7	1.797	0.268302854719	0.664994261527	42
+inositol 1,4,5 trisphosphate binding(GO:0070679)	20437, 1362, 16, 2	1.876	0.437096606186	0.819756272407	16
+threonine-type endopeptidase activity(GO:0004298)	20437, 39, 21, 1	24.954	0.120843420412	0.460493034256	21
+dynein intermediate chain binding(GO:0045505)	20437, 0, 28, 0	0.0	1.0	1.0	28
+frizzled binding(GO:0005109)	20437, 1341, 42, 1	0.363	0.967022664543	1.0	42
+acetyltransferase activity(GO:0016407)	20437, 1762, 113, 20	2.053	0.012254295073	0.124241565889	113
+retinoid X receptor binding(GO:0046965)	20437, 1852, 22, 2	1.003	0.730671497911	1.0	22
+calmodulin binding(GO:0005516)	20437, 315, 188, 5	1.726	0.540616337895	0.916525521999	188
+olfactory receptor activity(GO:0004984)	20437, 610, 1114, 1	0.03	1.0	1.0	1114
+signaling receptor binding(GO:0005102)	20437, 256, 1632, 29	1.419	0.277715036387	0.673886723365	1632
+monovalent cation:proton antiporter activity(GO:0005451)	20437, 460, 11, 1	4.039	0.332384978628	0.736631820477	11
+fibroblast growth factor receptor binding(GO:0005104)	20437, 0, 28, 0	0.0	1.0	1.0	28
+3',5'-cyclic-GMP phosphodiesterase activity(GO:0047555)	20437, 187, 19, 1	5.752	0.316212539418	0.72246496061	19
+peptide alpha-N-acetyltransferase activity(GO:0004596)	20437, 1073, 12, 3	4.762	0.0652580884519	0.325972110121	12
+aminopeptidase activity(GO:0004177)	20437, 1666, 43, 5	1.426	0.544968417182	0.916525521999	43
+endopeptidase activity(GO:0004175)	20437, 168, 440, 6	1.659	0.586120686687	0.926330204649	440
+guanylate cyclase activity(GO:0004383)	20437, 0, 11, 0	0.0	1.0	1.0	11
+sulfuric ester hydrolase activity(GO:0008484)	20437, 1252, 12, 4	5.441	0.0170860922131	0.152140508054	12
+TFIID-class transcription factor complex binding(GO:0001094)	20437, 1968, 11, 6	5.664	0.000996452145971	0.0210915192338	11
+acetylcholine receptor binding(GO:0033130)	20437, 413, 13, 2	7.613	0.0784423042182	0.366780454426	13
+carbohydrate binding(GO:0030246)	20437, 167, 269, 4	1.82	0.591551767264	0.926475037625	269
+nucleocytoplasmic carrier activity(GO:0140142)	20437, 351, 16, 2	7.278	0.0881366049938	0.392399493537	16
+mismatched DNA binding(GO:0030983)	20437, 1946, 11, 4	3.819	0.0476153206975	0.272976850489	11
+endodeoxyribonuclease activity, producing 3'-phosphomonoesters(GO:0016889)	20437, 1401, 11, 3	3.978	0.0864843882507	0.390060932901	11
+neurexin family protein binding(GO:0042043)	20437, 183, 13, 1	8.591	0.223206355189	0.607712053223	13
+protein kinase A catalytic subunit binding(GO:0034236)	20437, 1247, 15, 3	3.278	0.148559432517	0.502062240586	15
+protein kinase A regulatory subunit binding(GO:0034237)	20437, 1978, 22, 3	1.409	0.558160305136	0.922963892864	22
+endodeoxyribonuclease activity, producing 5'-phosphomonoesters(GO:0016888)	20437, 584, 15, 2	4.666	0.160369225983	0.525809630783	15
+rRNA binding(GO:0019843)	20437, 1982, 71, 11	1.598	0.283447835839	0.682942550351	71
+annealing activity(GO:0097617)	20437, 1928, 13, 2	1.631	0.480263939176	0.858272728999	13
+quaternary ammonium group transmembrane transporter activity(GO:0015651)	20437, 701, 13, 1	2.243	0.495612872739	0.872006154098	13
+carbon-sulfur lyase activity(GO:0016846)	20437, 134, 11, 1	13.865	0.151472541041	0.508238125612	11
+carbon-nitrogen lyase activity(GO:0016840)	20437, 1960, 13, 3	2.406	0.24196886337	0.632081928803	13
+mitogen-activated protein kinase kinase kinase binding(GO:0031435)	20437, 1769, 26, 2	0.889	0.789205323131	1.0	26
+mitogen-activated protein kinase kinase binding(GO:0031434)	20437, 4, 19, 1	268.908	0.0166400355313	0.149468389334	19
+metallocarboxypeptidase activity(GO:0004181)	20437, 769, 25, 2	2.126	0.452077669731	0.833319270208	25
+carboxypeptidase activity(GO:0004180)	20437, 1207, 42, 3	1.209	0.711075471241	1.0	42
+phosphorus-oxygen lyase activity(GO:0016849)	20437, 502, 25, 1	1.628	0.657264325246	0.971195770638	25
+fatty-acyl-CoA binding(GO:0000062)	20437, 394, 26, 2	3.99	0.235374103559	0.621193510424	26
+transmembrane receptor protein serine/threonine kinase activity(GO:0004675)	20437, 0, 17, 0	0.0	1.0	1.0	17
+protein serine/threonine kinase activity(GO:0004674)	20437, 1779, 447, 51	1.311	0.199838353368	0.574815937778	447
+ligand-gated anion channel activity(GO:0099095)	20437, 0, 20, 0	0.0	1.0	1.0	20
+ligand-gated cation channel activity(GO:0099094)	20437, 1362, 100, 3	0.45	0.995416861025	1.0	100
+NAD-dependent protein deacetylase activity(GO:0034979)	20437, 466, 17, 2	5.16	0.146801370868	0.501082012561	17
+protein kinase activity(GO:0004672)	20437, 1779, 606, 69	1.308	0.111438809185	0.441300028357	606
+channel regulator activity(GO:0016247)	20437, 1918, 137, 11	0.856	0.958211949641	1.0	137
+GABA-gated chloride ion channel activity(GO:0022851)	20437, 0, 12, 0	0.0	1.0	1.0	12
+sterol esterase activity(GO:0004771)	20437, 0, 13, 0	0.0	1.0	1.0	13
+structural constituent of nuclear pore(GO:0017056)	20437, 1975, 22, 2	0.941	0.760309024535	1.0	22
+Toll-like receptor binding(GO:0035325)	20437, 10, 15, 1	136.247	0.0274948795418	0.194170735522	15
+WW domain binding(GO:0050699)	20437, 754, 31, 5	4.372	0.0256489634507	0.184558809992	31
+ATP-dependent DNA helicase activity(GO:0004003)	20437, 1968, 34, 7	2.138	0.142856499256	0.501082012561	34
+adenosine deaminase activity(GO:0004000)	20437, 969, 11, 1	1.917	0.479797532179	0.858272728999	11
+peptidase regulator activity(GO:0061134)	20437, 585, 238, 9	1.321	0.678378329107	0.982354825679	238
+RNA polymerase II intronic transcription regulatory region sequence-specific DNA binding(GO:0001162)	20437, 1852, 11, 1	1.003	0.649534382822	0.969952767744	11
+sphingolipid binding(GO:0046625)	20437, 1783, 24, 3	1.433	0.550271439028	0.920435060623	24
+extracellular matrix structural constituent conferring compression resistance(GO:0030021)	20437, 0, 14, 0	0.0	1.0	1.0	14
+extracellular matrix structural constituent conferring tensile strength(GO:0030020)	20437, 0, 38, 0	0.0	1.0	1.0	38
+DNA-(apurinic or apyrimidinic site) endonuclease activity(GO:0003906)	20437, 1400, 13, 3	3.369	0.129512312439	0.480509449049	13
+oxidoreductase activity, acting on the aldehyde or oxo group of donors(GO:0016903)	20437, 1752, 52, 6	1.346	0.58141949324	0.926330204649	52
+phosphatidylinositol bisphosphate phosphatase activity(GO:0034593)	20437, 151, 20, 1	6.767	0.296114747233	0.69866705338	20
+neurotransmitter binding(GO:0042165)	20437, 1960, 60, 2	0.348	0.99292900516	1.0	60
+core promoter binding(GO:0001047)	20437, 1968, 60, 8	1.385	0.51585551264	0.889286270948	60
+core promoter sequence-specific DNA binding(GO:0001046)	20437, 1968, 49, 8	1.695	0.291942479521	0.692011803309	49
+peptide transmembrane transporter activity(GO:1904680)	20437, 1331, 26, 7	4.134	0.00528132433703	0.0721076816149	26
+2'-5'-oligoadenylate synthetase activity(GO:0001730)	20437, 92, 12, 1	18.512	0.122318462224	0.460493034256	12
+promoter-specific chromatin binding(GO:1990841)	20437, 735, 51, 4	2.181	0.326315461483	0.731175125949	51
+protein self-association(GO:0043621)	20437, 72, 63, 3	13.517	0.009576180524	0.103529326503	63
+oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor(GO:0016655)	20437, 1983, 30, 4	1.374	0.570397403512	0.926330204649	30
+insulin-like growth factor I binding(GO:0031994)	20437, 842, 12, 1	2.023	0.490443571073	0.865886580653	12
+G protein-coupled chemoattractant receptor activity(GO:0001637)	20437, 1167, 25, 7	4.903	0.00210408075942	0.0377996262745	25
+DNA-binding transcription factor activity(GO:0003700)	20437, 878, 995, 68	1.591	0.00196116130152	0.0358612352278	995
+poly-purine tract binding(GO:0070717)	20437, 23, 35, 1	25.388	0.138974884202	0.494132921606	35
+translation repressor activity, mRNA regulatory element binding(GO:0000900)	20437, 115, 12, 1	14.809	0.145105577711	0.501082012561	12
+sodium-independent organic anion transmembrane transporter activity(GO:0015347)	20437, 477, 16, 1	2.678	0.459491190122	0.840105221001	16
+steroid hormone receptor activity(GO:0003707)	20437, 795, 55, 4	1.87	0.431576533972	0.815753012034	55
+signaling adaptor activity(GO:0035591)	20437, 157, 50, 3	7.81	0.036847213357	0.233406085894	50
+scaffold protein binding(GO:0097110)	20437, 1746, 71, 8	1.319	0.587253533734	0.926330204649	71
+retinoic acid receptor binding(GO:0042974)	20437, 1852, 32, 5	1.724	0.367016009125	0.765426463022	32
+peroxisome proliferator activated receptor binding(GO:0042975)	20437, 1234, 20, 4	3.312	0.094418684442	0.404538631249	20
+translation regulator activity(GO:0045182)	20437, 1972, 128, 23	1.862	0.0199037779729	0.161757687653	128
+3'-5'-exodeoxyribonuclease activity(GO:0008296)	20437, 323, 12, 3	15.818	0.00338446458552	0.049848399963	12
+single-stranded RNA binding(GO:0003727)	20437, 23, 94, 1	9.453	0.352944234418	0.755535580962	94
+adrenergic receptor binding(GO:0031690)	20437, 1385, 21, 2	1.405	0.589811809992	0.926330204649	21
+collagen binding(GO:0005518)	20437, 78, 68, 1	3.853	0.545082073142	0.916525521999	68
+monooxygenase activity(GO:0004497)	20437, 108, 139, 1	1.361	0.869841462037	1.0	139
+ionotropic glutamate receptor activity(GO:0004970)	20437, 0, 19, 0	0.0	1.0	1.0	19
+fatty acid ligase activity(GO:0015645)	20437, 1036, 19, 1	1.038	0.718415553909	1.0	19
+prostanoid receptor activity(GO:0004954)	20437, 0, 11, 0	0.0	1.0	1.0	11
+prolactin receptor binding(GO:0005148)	20437, 0, 27, 0	0.0	1.0	1.0	27
+RNA polymerase II-specific DNA-binding transcription factor binding(GO:0061629)	20437, 1321, 269, 28	1.61	0.0690173732819	0.337745054362	269
+ankyrin binding(GO:0030506)	20437, 672, 23, 1	1.322	0.684762466172	0.987998460932	23
+interleukin-1 receptor binding(GO:0005149)	20437, 10, 18, 1	113.539	0.0339330642298	0.224177146912	18
+benzodiazepine receptor activity(GO:0008503)	20437, 0, 11, 0	0.0	1.0	1.0	11
+calcium ion transmembrane transporter activity(GO:0015085)	20437, 1362, 135, 5	0.556	0.995760545832	1.0	135
+oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor(GO:0016628)	20437, 0, 23, 0	0.0	1.0	1.0	23
+ribonuclease P activity(GO:0004526)	20437, 1490, 11, 1	1.247	0.579948040883	0.926330204649	11
+oxidoreductase activity, acting on the CH-CH group of donors(GO:0016627)	20437, 28, 56, 1	13.034	0.254104746523	0.652138497342	56
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor(GO:0016620)	20437, 290, 41, 1	1.719	0.699225313532	0.994206096046	41
+heparin binding(GO:0008201)	20437, 672, 150, 2	0.405	0.997266727956	1.0	150
+aspartic-type peptidase activity(GO:0070001)	20437, 268, 27, 2	5.649	0.152868498719	0.508238125612	27
+cyclin-dependent protein kinase activity(GO:0097472)	20437, 1947, 33, 3	0.954	0.797322079442	1.0	33
+dynein light intermediate chain binding(GO:0051959)	20437, 811, 29, 3	2.607	0.271623569356	0.667008477267	29
+m7G(5')pppN diphosphatase activity(GO:0050072)	20437, 1688, 11, 2	2.201	0.340748104199	0.744386258977	11
+metalloaminopeptidase activity(GO:0070006)	20437, 1666, 16, 4	3.067	0.101974852042	0.427906802826	16
+metal ion transmembrane transporter activity(GO:0046873)	20437, 55, 426, 1	0.872	0.973652561781	1.0	426
+ephrin receptor binding(GO:0046875)	20437, 902, 31, 1	0.731	0.854818121692	1.0	31
+neurotrophin binding(GO:0043121)	20437, 521, 12, 1	3.269	0.386582427069	0.773681190275	12
+structural constituent of eye lens(GO:0005212)	20437, 0, 24, 0	0.0	1.0	1.0	24
+catalytic activity, acting on RNA(GO:0140098)	20437, 1932, 326, 46	1.493	0.0373448132408	0.233406085894	326
+epidermal growth factor receptor binding(GO:0005154)	20437, 96, 35, 1	6.082	0.364537870585	0.761809754039	35
+GDP-dissociation inhibitor activity(GO:0005092)	20437, 657, 14, 1	2.222	0.49889721748	0.873325496139	14
+insulin-like growth factor receptor binding(GO:0005159)	20437, 981, 14, 1	1.488	0.580584306813	0.926330204649	14
+insulin receptor binding(GO:0005158)	20437, 22, 26, 1	35.729	0.0980618506828	0.41666114149	26
+GTPase activator activity(GO:0005096)	20437, 663, 237, 19	2.471	0.00340760546622	0.049848399963	237
+kinase binding(GO:0019900)	20437, 1436, 801, 100	1.777	3.49596276954e-07	8.93564075354e-05	801
+protein phosphatase binding(GO:0019903)	20437, 626, 164, 13	2.588	0.014789031643	0.138379004968	164
+phosphatase binding(GO:0019902)	20437, 710, 210, 17	2.33	0.0113700798299	0.117605674201	210
+syntaxin binding(GO:0019905)	20437, 1815, 74, 8	1.217	0.671589521239	0.98103804529	74
+protein domain specific binding(GO:0019904)	20437, 908, 796, 75	2.121	2.0179253261e-08	8.08147176715e-06	796
+ADP binding(GO:0043531)	20437, 1968, 40, 8	2.077	0.132426261807	0.480866993227	40
+G protein-coupled purinergic nucleotide receptor activity(GO:0045028)	20437, 957, 12, 2	3.559	0.215081458296	0.596865618686	12
+retinal binding(GO:0016918)	20437, 0, 15, 0	0.0	1.0	1.0	15
+adenylate cyclase activity(GO:0004016)	20437, 502, 12, 1	3.393	0.377256868664	0.76902667828	12
+syntaxin-1 binding(GO:0017075)	20437, 1535, 24, 4	2.219	0.249435429808	0.64224085889	24
+protein serine/threonine kinase activator activity(GO:0043539)	20437, 718, 29, 2	1.963	0.498921303947	0.873325496139	29
+lamin binding(GO:0005521)	20437, 1729, 16, 5	3.694	0.0311506732548	0.211246949754	16
+fatty acid derivative binding(GO:1901567)	20437, 394, 35, 2	2.964	0.355019753965	0.755535580962	35
+Hsp90 protein binding(GO:0051879)	20437, 234, 43, 2	4.062	0.264201985995	0.664994261527	43
+ribosomal small subunit binding(GO:0043024)	20437, 1812, 14, 2	1.611	0.487554043353	0.863763564695	14
+amino acid:cation symporter activity(GO:0005416)	20437, 1098, 16, 1	1.163	0.656960226901	0.971195770638	16
+chemorepellent activity(GO:0045499)	20437, 1230, 28, 1	0.593	0.878813212324	1.0	28
+transferase activity, transferring amino-acyl groups(GO:0016755)	20437, 0, 14, 0	0.0	1.0	1.0	14
+microtubule motor activity(GO:0003777)	20437, 1895, 76, 13	1.845	0.109511345835	0.439149680352	76
+transferase activity, transferring glycosyl groups(GO:0016757)	20437, 1019, 270, 23	1.708	0.0697644833649	0.338457732742	270
+hydrolase activity, hydrolyzing O-glycosyl compounds(GO:0004553)	20437, 304, 99, 3	2.037	0.513111147858	0.888177773529	99
+transferase activity, transferring hexosyl groups(GO:0016758)	20437, 1019, 201, 15	1.497	0.350360125917	0.75530267145	201
+protein deacetylase activity(GO:0033558)	20437, 1822, 29, 7	2.708	0.0511730935048	0.286345616114	29
+mRNA 3'-UTR AU-rich region binding(GO:0035925)	20437, 920, 15, 3	4.443	0.0804966238144	0.37140209191	15
+P-P-bond-hydrolysis-driven transmembrane transporter activity(GO:0015405)	20437, 597, 115, 6	1.786	0.411521217423	0.799616179584	115
+oxidoreductase activity, acting on a sulfur group of donors(GO:0016667)	20437, 1116, 56, 8	2.616	0.0556990541446	0.301776885948	56
+histone binding(GO:0042393)	20437, 965, 186, 20	2.277	0.00569358970265	0.0747466135322	186
+neurotransmitter:sodium symporter activity(GO:0005328)	20437, 0, 26, 0	0.0	1.0	1.0	26
+arginine N-methyltransferase activity(GO:0016273)	20437, 0, 11, 0	0.0	1.0	1.0	11
+ion channel regulator activity(GO:0099106)	20437, 1918, 109, 11	1.075	0.803640397336	1.0	109
+long-chain fatty acid transporter activity(GO:0005324)	20437, 0, 13, 0	0.0	1.0	1.0	13
+neurotransmitter transporter activity(GO:0005326)	20437, 1248, 50, 2	0.655	0.929728030802	1.0	50
+protein-lysine N-methyltransferase activity(GO:0016279)	20437, 1971, 53, 11	2.152	0.058711991531	0.308313227322	53
+acid-amino acid ligase activity(GO:0016881)	20437, 0, 16, 0	0.0	1.0	1.0	16
+protein-containing complex binding(GO:0044877)	20437, 1879, 1201, 168	1.521	5.01758142755e-07	8.93564075354e-05	1201
+disordered domain specific binding(GO:0097718)	20437, 878, 34, 7	4.792	0.00307899887569	0.0477767997306	34
+DNA helicase activity(GO:0003678)	20437, 501, 43, 3	2.846	0.265959556813	0.664994261527	43
+transferase activity, transferring sulfur-containing groups(GO:0016782)	20437, 91, 74, 2	6.07	0.185378246442	0.558315659871	74
+ATPase coupled ion transmembrane transporter activity(GO:0042625)	20437, 1992, 58, 9	1.592	0.333066926642	0.736631820477	58
+CoA hydrolase activity(GO:0016289)	20437, 1861, 25, 4	1.757	0.383919386312	0.772364344958	25
+microfilament motor activity(GO:0000146)	20437, 1925, 16, 4	2.654	0.147566305194	0.502019589761	16
+ATPase activity, coupled(GO:0042623)	20437, 1992, 334, 46	1.413	0.0824027250517	0.37822039942	334
+microtubule binding(GO:0008017)	20437, 1976, 229, 31	1.4	0.206257577259	0.583258530554	229
+phosphatidylinositol 3-kinase binding(GO:0043548)	20437, 334, 41, 4	5.97	0.0249926615176	0.18150698861	41
+type I interferon receptor binding(GO:0005132)	20437, 1871, 24, 1	0.455	0.901505907681	1.0	24
+receptor tyrosine kinase binding(GO:0030971)	20437, 22, 71, 1	13.084	0.269504510287	0.664994261527	71
+growth factor binding(GO:0019838)	20437, 558, 146, 6	1.505	0.589209750587	0.926330204649	146
+glucosyltransferase activity(GO:0046527)	20437, 1780, 17, 2	1.351	0.580211889125	0.926330204649	17
+ubiquitination-like modification-dependent protein binding(GO:0140035)	20437, 237, 11, 1	7.839	0.218427681216	0.601263294529	11
+estradiol 17-beta-dehydrogenase activity(GO:0004303)	20437, 1382, 13, 2	2.275	0.341701746671	0.744473592747	13
+modification-dependent protein binding(GO:0140030)	20437, 1931, 146, 28	2.03	0.002386295973	0.0414163911247	146
+profilin binding(GO:0005522)	20437, 1318, 12, 2	2.584	0.291796083213	0.692011803309	12
+tropomyosin binding(GO:0005523)	20437, 1030, 13, 1	1.526	0.558617804338	0.922963892864	13
+insulin-like growth factor binding(GO:0005520)	20437, 842, 28, 1	0.867	0.809318184589	1.0	28
+anion channel activity(GO:0005253)	20437, 1479, 84, 2	0.329	0.997102130646	1.0	84
+translation repressor activity(GO:0030371)	20437, 115, 24, 1	7.405	0.289668476617	0.689883917867	24
+oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor(GO:0016653)	20437, 0, 13, 0	0.0	1.0	1.0	13
+glucocorticoid receptor binding(GO:0035259)	20437, 1852, 20, 3	1.655	0.4538372045	0.833319270208	20
+steroid hormone receptor binding(GO:0035258)	20437, 1321, 86, 7	1.259	0.675001040808	0.982354825679	86
+protein N-terminus binding(GO:0047485)	20437, 1558, 129, 21	2.135	0.00682245939422	0.0851975417034	129
+nuclear hormone receptor binding(GO:0035257)	20437, 1321, 148, 16	1.673	0.16817930154	0.536419681596	148
+UDP-glucosyltransferase activity(GO:0035251)	20437, 0, 11, 0	0.0	1.0	1.0	11
+kinase activity(GO:0016301)	20437, 1959, 765, 96	1.309	0.0415440382538	0.24590228423	765
+natural killer cell lectin-like receptor binding(GO:0046703)	20437, 692, 15, 2	3.938	0.195673295093	0.572938308907	15
+phosphatidylinositol phosphate kinase activity(GO:0016307)	20437, 1495, 15, 3	2.734	0.198667608825	0.573058116723	15
+ionotropic glutamate receptor binding(GO:0035255)	20437, 1160, 41, 3	1.289	0.67712018192	0.982354825679	41
+glutamate receptor binding(GO:0035254)	20437, 1233, 66, 4	1.005	0.836389120086	1.0	66
+receptor antagonist activity(GO:0048019)	20437, 1117, 16, 1	1.144	0.660134394156	0.971232212092	16
+structural constituent of muscle(GO:0008307)	20437, 407, 23, 1	2.183	0.570004662986	0.926330204649	23
+aminoacyl-tRNA ligase activity(GO:0004812)	20437, 43, 41, 2	23.184	0.0187780912272	0.159577652341	41
+clathrin binding(GO:0030276)	20437, 908, 51, 3	1.324	0.6907113849	0.988396696039	51
+GABA receptor binding(GO:0050811)	20437, 1071, 15, 1	1.272	0.62547931069	0.948159380602	15
+antigen binding(GO:0003823)	20437, 989, 60, 12	4.133	0.000231828593913	0.00949569920667	60
+LRR domain binding(GO:0030275)	20437, 564, 17, 1	2.132	0.523138188987	0.895808537664	17
+nuclear receptor transcription coactivator activity(GO:0030374)	20437, 250, 61, 3	4.02	0.163031085691	0.530902665279	61
+cyclosporin A binding(GO:0016018)	20437, 1120, 14, 2	2.607	0.312554502359	0.71600852442	14
+phosphate ion binding(GO:0042301)	20437, 94, 13, 1	16.724	0.135544464158	0.488723701753	13
+dynein complex binding(GO:0070840)	20437, 1714, 23, 2	1.037	0.719270838079	1.0	23
+DNA-dependent ATPase activity(GO:0008094)	20437, 1413, 83, 13	2.265	0.0310133851558	0.211246949754	83
+5S rRNA binding(GO:0008097)	20437, 0, 13, 0	0.0	1.0	1.0	13
+cysteine-type endopeptidase activity involved in apoptotic process(GO:0097153)	20437, 268, 12, 4	25.419	6.86257637895e-05	0.00390404345114	12
+anion:anion antiporter activity(GO:0015301)	20437, 1404, 27, 3	1.617	0.506261444202	0.881729537768	27
+cytoskeletal protein binding(GO:0008092)	20437, 1376, 939, 88	1.392	0.0143523161139	0.13608121945	939
+sodium ion binding(GO:0031402)	20437, 689, 13, 1	2.282	0.490122252138	0.865886580653	13
+carbon-oxygen lyase activity(GO:0016835)	20437, 208, 66, 2	2.977	0.411416479925	0.799616179584	66
+hydro-lyase activity(GO:0016836)	20437, 202, 55, 1	1.84	0.718178688669	1.0	55
+carbon-carbon lyase activity(GO:0016830)	20437, 618, 52, 1	0.636	0.925798933488	1.0	52
+carboxy-lyase activity(GO:0016831)	20437, 1263, 35, 1	0.462	0.934882210475	1.0	35
+aldehyde-lyase activity(GO:0016832)	20437, 618, 12, 1	2.756	0.43274125752	0.815753012034	12
+C-acyltransferase activity(GO:0016408)	20437, 28, 21, 1	34.757	0.0926092712519	0.398453335134	21
+organic hydroxy compound transmembrane transporter activity(GO:1901618)	20437, 1508, 41, 1	0.331	0.969394743907	1.0	41
+DNA binding, bending(GO:0008301)	20437, 922, 17, 5	6.519	0.00322441303567	0.0485558668901	17
+catalytic activity, acting on a rRNA(GO:0140102)	20437, 1374, 18, 1	0.826	0.747736508484	1.0	18
+phosphatidylglycerol binding(GO:1901611)	20437, 0, 12, 0	0.0	1.0	1.0	12
+molecular carrier activity(GO:0140104)	20437, 351, 38, 3	4.597	0.108999719542	0.439149680352	38
+glutathione peroxidase activity(GO:0004602)	20437, 106, 20, 1	9.64	0.23337067128	0.621193510424	20
+arachidonic acid monooxygenase activity(GO:0008391)	20437, 0, 37, 0	0.0	1.0	1.0	37
+type I transforming growth factor beta receptor binding(GO:0034713)	20437, 370, 12, 1	4.603	0.311181816483	0.715345171438	12
+receptor signaling complex scaffold activity(GO:0030159)	20437, 864, 15, 1	1.577	0.589541158138	0.926330204649	15
+TBP-class protein binding(GO:0017025)	20437, 1968, 23, 5	2.258	0.180299452555	0.554434352601	23
+myosin binding(GO:0017022)	20437, 697, 69, 4	1.7	0.517519966743	0.890656211673	69
+transcription coregulator activity(GO:0003712)	20437, 1321, 451, 49	1.681	0.00364473213027	0.0518361902971	451
+phosphoric ester hydrolase activity(GO:0042578)	20437, 51, 352, 6	6.831	0.00312602107612	0.0477767997306	352
+exopeptidase activity(GO:0008238)	20437, 1802, 102, 11	1.223	0.656240629113	0.971195770638	102
+anion transmembrane transporter activity(GO:0008509)	20437, 1611, 309, 16	0.657	0.999625062778	1.0	309
+ATPase regulator activity(GO:0060590)	20437, 1934, 39, 4	1.084	0.74638305155	1.0	39
+NAD+ kinase activity(GO:0003951)	20437, 0, 12, 0	0.0	1.0	1.0	12
+NAD+ ADP-ribosyltransferase activity(GO:0003950)	20437, 671, 22, 1	1.384	0.667086489004	0.97724830435	22
+peptidase activity(GO:0008233)	20437, 168, 638, 9	1.716	0.426289885441	0.811377031025	638
+metalloexopeptidase activity(GO:0008235)	20437, 960, 52, 4	1.638	0.513477775321	0.888177773529	52
+cysteine-type peptidase activity(GO:0008234)	20437, 153, 173, 6	4.633	0.0175590808914	0.152377108752	173
+metallopeptidase activity(GO:0008237)	20437, 1857, 175, 15	0.943	0.931922049339	1.0	175
+lipid phosphatase activity(GO:0042577)	20437, 0, 11, 0	0.0	1.0	1.0	11
+ubiquitin-like protein transferase activity(GO:0019787)	20437, 1464, 415, 57	1.917	3.26156152806e-05	0.00229589174057	415
+tau protein binding(GO:0048156)	20437, 805, 21, 2	2.418	0.376150109327	0.76902667828	21
+store-operated calcium channel activity(GO:0015279)	20437, 1122, 13, 1	1.401	0.575627409816	0.926330204649	13
+chemokine receptor binding(GO:0042379)	20437, 1731, 63, 5	0.937	0.864457808757	1.0	63
+organic acid:sodium symporter activity(GO:0005343)	20437, 0, 25, 0	0.0	1.0	1.0	25
+purinergic receptor activity(GO:0035586)	20437, 1233, 25, 3	1.989	0.385096339491	0.77321304243	25
+outward rectifier potassium channel activity(GO:0015271)	20437, 0, 17, 0	0.0	1.0	1.0	17
+chaperone binding(GO:0051087)	20437, 1702, 97, 10	1.238	0.649971581233	0.969952767744	97
+voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization(GO:0086008)	20437, 0, 11, 0	0.0	1.0	1.0	11
+unfolded protein binding(GO:0051082)	20437, 1576, 94, 16	2.207	0.0155606639627	0.142268927659	94
+voltage-gated anion channel activity(GO:0008308)	20437, 0, 16, 0	0.0	1.0	1.0	16
+AU-rich element binding(GO:0017091)	20437, 920, 30, 4	2.962	0.145195444297	0.501082012561	30
+anion:sodium symporter activity(GO:0015373)	20437, 0, 12, 0	0.0	1.0	1.0	12
+solute:sodium symporter activity(GO:0015370)	20437, 0, 70, 0	0.0	1.0	1.0	70
+actinin binding(GO:0042805)	20437, 115, 42, 1	4.231	0.47093142102	0.846024166885	42
+double-stranded DNA binding(GO:0003690)	20437, 1041, 984, 87	1.736	9.37428196783e-06	0.00087266043046	984
+ATP-dependent protein binding(GO:0043008)	20437, 1099, 11, 3	5.072	0.0542523253193	0.296748109931	11
+semaphorin receptor activity(GO:0017154)	20437, 558, 11, 1	3.33	0.379545318583	0.769612685601	11
+single-stranded DNA binding(GO:0003697)	20437, 1948, 103, 18	1.833	0.0538057424705	0.296748109931	103
+identical protein binding(GO:0042802)	20437, 1761, 1862, 235	1.465	2.36761868178e-08	8.08147176715e-06	1862
+protein homodimerization activity(GO:0042803)	20437, 713, 925, 55	1.704	0.00156006483606	0.03014163004	925
+steroid hydroxylase activity(GO:0008395)	20437, 0, 70, 0	0.0	1.0	1.0	70
+polysaccharide binding(GO:0030247)	20437, 0, 21, 0	0.0	1.0	1.0	21
+potassium channel regulator activity(GO:0015459)	20437, 1808, 48, 5	1.177	0.700022065673	0.994206096046	48
+DNA secondary structure binding(GO:0000217)	20437, 1928, 25, 6	2.544	0.0921676649963	0.39822653568	25
+phosphatidylinositol phospholipase C activity(GO:0004435)	20437, 1117, 18, 1	1.016	0.708428676641	1.0	18
+pseudouridine synthase activity(GO:0009982)	20437, 250, 13, 1	6.288	0.271361177378	0.667008477267	13
+cyclin-dependent protein serine/threonine kinase inhibitor activity(GO:0004861)	20437, 331, 12, 2	10.291	0.0472582124115	0.272976850489	12
+protein serine/threonine phosphatase inhibitor activity(GO:0004865)	20437, 0, 11, 0	0.0	1.0	1.0	11
+endopeptidase inhibitor activity(GO:0004866)	20437, 1291, 196, 14	1.131	0.781719953549	1.0	196
+serine-type endopeptidase inhibitor activity(GO:0004867)	20437, 122, 117, 1	1.432	0.847452008282	1.0	117
+cysteine-type endopeptidase inhibitor activity(GO:0004869)	20437, 1291, 69, 10	2.294	0.0627939309019	0.319558121804	69
+cGMP binding(GO:0030553)	20437, 0, 15, 0	0.0	1.0	1.0	15
+JUN kinase binding(GO:0008432)	20437, 864, 14, 2	3.379	0.233616719653	0.621193510424	14
+DNA-binding transcription repressor activity, RNA polymerase II-specific(GO:0001227)	20437, 814, 228, 19	2.092	0.0193238563382	0.159577652341	228
+transcription cofactor binding(GO:0001221)	20437, 479, 49, 4	3.483	0.117061231596	0.454273006405	49
+protein-lipid complex binding(GO:0071814)	20437, 624, 26, 1	1.26	0.716757291502	1.0	26
+transcription coactivator binding(GO:0001223)	20437, 479, 21, 3	6.095	0.0488158315595	0.276173544292	21
+transcription corepressor binding(GO:0001222)	20437, 1905, 20, 5	2.682	0.104223296947	0.428613076601	20
+nuclease activity(GO:0004518)	20437, 1877, 194, 31	1.74	0.0154515024505	0.142268927659	194
+endonuclease activity(GO:0004519)	20437, 1996, 120, 19	1.621	0.134479766133	0.486598164384	120
+tetrapyrrole binding(GO:0046906)	20437, 256, 162, 1	0.493	0.987681056524	1.0	162
+protein folding chaperone(GO:0044183)	20437, 363, 21, 1	2.681	0.506305633015	0.881729537768	21
+SUMO binding(GO:0032183)	20437, 689, 17, 1	1.745	0.579224910769	0.926330204649	17
+transforming growth factor beta-activated receptor activity(GO:0005024)	20437, 0, 14, 0	0.0	1.0	1.0	14
+sulfate transmembrane transporter activity(GO:0015116)	20437, 1004, 15, 2	2.714	0.311339472917	0.715345171438	15
+phosphatidylinositol binding(GO:0035091)	20437, 1532, 245, 29	1.579	0.0724784206372	0.342515665117	245
+phosphate ion transmembrane transporter activity(GO:0015114)	20437, 1529, 11, 3	3.645	0.102822304119	0.428008290318	11
+nucleoside monophosphate kinase activity(GO:0050145)	20437, 1670, 17, 2	1.44	0.550597722993	0.920435060623	17
+gated channel activity(GO:0022836)	20437, 267, 335, 1	0.228	0.999889153015	1.0	335
+histone methyltransferase activity (H3-K4 specific)(GO:0042800)	20437, 1651, 14, 4	3.537	0.0655881666118	0.326030498109	14
+complement binding(GO:0001848)	20437, 486, 22, 1	1.911	0.593523070978	0.926475037625	22
+protein tag(GO:0031386)	20437, 1674, 12, 2	2.035	0.376540054243	0.76902667828	12
+p53 binding(GO:0002039)	20437, 1928, 69, 10	1.536	0.353723139303	0.755535580962	69
+enzyme activator activity(GO:0008047)	20437, 663, 448, 32	2.202	0.000494714360486	0.0136915541929	448
+chemoattractant activity(GO:0042056)	20437, 603, 39, 2	1.738	0.589260561327	0.926330204649	39
+extracellular matrix structural constituent(GO:0005201)	20437, 0, 139, 0	0.0	1.0	1.0	139
+poly(A)-specific ribonuclease activity(GO:0004535)	20437, 1662, 13, 3	2.838	0.177416995929	0.552203659061	13
+ubiquitin-like protein ligase binding(GO:0044389)	20437, 1951, 320, 51	1.669	0.00246635106958	0.0416913226562	320
+transforming growth factor beta receptor binding(GO:0005160)	20437, 370, 53, 1	1.042	0.847249791952	1.0	53
+platelet-derived growth factor receptor binding(GO:0005161)	20437, 1683, 14, 1	0.867	0.706678446692	1.0	14
+tumor necrosis factor receptor binding(GO:0005164)	20437, 1630, 33, 8	3.04	0.0198877826139	0.161757687653	33
+neurotrophin receptor binding(GO:0005165)	20437, 0, 15, 0	0.0	1.0	1.0	15
+chloride ion binding(GO:0031404)	20437, 689, 11, 1	2.697	0.425973842281	0.811377031025	11
+enhancer binding(GO:0035326)	20437, 828, 129, 8	1.531	0.485710598092	0.86198899904	129
+ion transmembrane transporter activity(GO:0015075)	20437, 55, 841, 1	0.442	0.99892175869	1.0	841
+Lys48-specific deubiquitinase activity(GO:1990380)	20437, 1470, 14, 3	2.979	0.166703249388	0.533450398042	14
+ubiquitin-specific protease binding(GO:1990381)	20437, 1449, 15, 1	0.94	0.691105502309	0.988396696039	15
+Rac GTPase binding(GO:0048365)	20437, 761, 68, 7	2.765	0.0706337134828	0.339572406603	68
+modified amino acid binding(GO:0072341)	20437, 922, 102, 3	0.652	0.972550670366	1.0	102
+long-chain fatty acid-CoA ligase activity(GO:0004467)	20437, 1036, 13, 1	1.517	0.559727126434	0.922963892864	13
+DNA-binding transcription activator activity(GO:0001216)	20437, 946, 426, 39	1.978	0.000702702193988	0.0167341173638	426
+ATPase binding(GO:0051117)	20437, 12, 91, 1	18.715	0.224695472703	0.608698846688	91
+glucuronosyltransferase activity(GO:0015020)	20437, 942, 32, 1	0.678	0.871996184177	1.0	32
+coreceptor activity(GO:0015026)	20437, 343, 25, 2	4.767	0.184921036279	0.558315659871	25
+Notch binding(GO:0005112)	20437, 0, 23, 0	0.0	1.0	1.0	23
+acylglycerol lipase activity(GO:0047372)	20437, 0, 11, 0	0.0	1.0	1.0	11
+steroid dehydrogenase activity(GO:0016229)	20437, 1849, 40, 3	0.829	0.865211027172	1.0	40
+retinol dehydrogenase activity(GO:0004745)	20437, 0, 20, 0	0.0	1.0	1.0	20
+signaling pattern recognition receptor activity(GO:0008329)	20437, 1799, 17, 2	1.336	0.585370239173	0.926330204649	17
+cyclin binding(GO:0030332)	20437, 1947, 32, 5	1.64	0.406109305737	0.796658867959	32
+estrogen receptor binding(GO:0030331)	20437, 1234, 47, 3	1.057	0.788461647136	1.0	47
+S-adenosylmethionine-dependent methyltransferase activity(GO:0008757)	20437, 1971, 142, 19	1.387	0.355601747961	0.755535580962	142
+enzyme regulator activity(GO:0030234)	20437, 1291, 951, 94	1.565	0.000214219234393	0.00920361953273	951
+oxidoreductase activity, acting on a heme group of donors(GO:0016675)	20437, 1770, 22, 4	2.099	0.268560854625	0.664994261527	22
+oxidoreductase activity, oxidizing metal ions(GO:0016722)	20437, 799, 24, 3	3.197	0.183947951362	0.558227390784	24
+ferrous iron binding(GO:0008198)	20437, 643, 30, 2	2.119	0.467980894801	0.845430829597	30
+ferric iron binding(GO:0008199)	20437, 643, 15, 1	2.119	0.515294543402	0.889286270948	15
+actin monomer binding(GO:0003785)	20437, 992, 27, 3	2.289	0.324391570809	0.730106434563	27
+catalytic activity, acting on a tRNA(GO:0140101)	20437, 250, 113, 7	5.064	0.00452309344076	0.0625898335587	113
+metalloendopeptidase inhibitor activity(GO:0008191)	20437, 0, 13, 0	0.0	1.0	1.0	13
+UDP-glycosyltransferase activity(GO:0008194)	20437, 316, 147, 5	2.2	0.329954994915	0.73291521647	147
+phosphatidate phosphatase activity(GO:0008195)	20437, 1239, 13, 1	1.269	0.597259190696	0.929473269411	13
+electron transfer activity(GO:0009055)	20437, 1451, 67, 13	2.733	0.00558708638641	0.0747466135322	67
+protein phosphatase 2A binding(GO:0051721)	20437, 1465, 37, 6	2.262	0.160721107847	0.525809630783	37
+neuropilin binding(GO:0038191)	20437, 1230, 20, 1	0.831	0.766154301311	1.0	20
+catalytic activity, acting on a glycoprotein(GO:0140103)	20437, 815, 22, 4	4.559	0.0412469955734	0.24556350853	22
+thyroid hormone receptor binding(GO:0046966)	20437, 1852, 25, 5	2.207	0.195140533269	0.572938308907	25
+dynein light chain binding(GO:0045503)	20437, 1626, 26, 3	1.45	0.551899809801	0.920435060623	26
+isoprenoid binding(GO:0019840)	20437, 115, 38, 1	4.677	0.433215785272	0.815753012034	38
+retinol binding(GO:0019841)	20437, 0, 13, 0	0.0	1.0	1.0	13
+vitamin binding(GO:0019842)	20437, 881, 133, 6	1.047	0.861824380398	1.0	133
+bioactive lipid receptor activity(GO:0045125)	20437, 1879, 13, 2	1.673	0.467586204576	0.845430829597	13
+endoribonuclease activity, producing 5'-phosphomonoesters(GO:0016891)	20437, 1996, 26, 4	1.575	0.463777134735	0.843530703318	26
+peptidase activator activity(GO:0016504)	20437, 1833, 32, 6	2.091	0.19087889438	0.564913259668	32
+peptidase activator activity involved in apoptotic process(GO:0016505)	20437, 1833, 12, 2	1.858	0.416098208724	0.80306194097	12
+protein-hormone receptor activity(GO:0016500)	20437, 261, 19, 1	4.121	0.386840595137	0.773681190275	19
+pheromone receptor activity(GO:0016503)	20437, 0, 99, 0	0.0	1.0	1.0	99
+ubiquitin-like protein-specific protease activity(GO:0019783)	20437, 1559, 108, 14	1.699	0.173879142983	0.54434771605	108
+methylated histone binding(GO:0035064)	20437, 1931, 64, 10	1.654	0.268582566047	0.664994261527	64
+endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 3'-phosphomonoesters(GO:0016894)	20437, 1401, 19, 3	2.303	0.287222356556	0.689883917867	19
+dynein heavy chain binding(GO:0045504)	20437, 1626, 15, 3	2.514	0.228921644688	0.615264472863	15
+NAD binding(GO:0051287)	20437, 776, 62, 5	2.124	0.289084361831	0.689883917867	62
+phospholipid-translocating ATPase activity(GO:0004012)	20437, 0, 25, 0	0.0	1.0	1.0	25
+androgen receptor binding(GO:0050681)	20437, 1321, 30, 5	2.578	0.138212916328	0.494132921606	30
+oxygen carrier activity(GO:0005344)	20437, 0, 13, 0	0.0	1.0	1.0	13
+cAMP binding(GO:0030552)	20437, 386, 21, 2	5.042	0.163314784729	0.530902665279	21
+GABA receptor activity(GO:0016917)	20437, 0, 22, 0	0.0	1.0	1.0	22
+steroid binding(GO:0005496)	20437, 9, 105, 1	21.626	0.210448370201	0.588123381914	105
+protein methyltransferase activity(GO:0008276)	20437, 1971, 82, 12	1.517	0.328069174325	0.731265987068	82
+galactosyltransferase activity(GO:0008378)	20437, 305, 36, 3	5.584	0.0713478672371	0.341402878742	36
+zinc ion binding(GO:0008270)	20437, 1524, 669, 65	1.303	0.140968866911	0.497765930058	669
+protein phosphorylated amino acid binding(GO:0045309)	20437, 22, 53, 2	35.055	0.00937637405386	0.103529326503	53
+O-acyltransferase activity(GO:0008374)	20437, 14, 44, 1	33.177	0.121944862409	0.460493034256	44
+acetylglucosaminyltransferase activity(GO:0008375)	20437, 1506, 52, 8	2.088	0.145497542477	0.501082012561	52
+acetylgalactosaminyltransferase activity(GO:0008376)	20437, 305, 43, 2	3.117	0.356671204061	0.755535580962	43
+R-SMAD binding(GO:0070412)	20437, 540, 24, 1	1.577	0.653242861789	0.969952767744	24
+snoRNA binding(GO:0030515)	20437, 1423, 23, 6	3.747	0.0189161841515	0.159577652341	23
+sialyltransferase activity(GO:0008373)	20437, 768, 20, 3	3.992	0.115197040371	0.451960802068	20
+pre-mRNA binding(GO:0036002)	20437, 1500, 33, 4	1.651	0.459422160467	0.840105221001	33
+ATP-dependent helicase activity(GO:0008026)	20437, 1365, 66, 8	1.815	0.259247887778	0.658734087059	66
+cyclin-dependent protein serine/threonine kinase regulator activity(GO:0016538)	20437, 1133, 46, 7	2.745	0.0624506866804	0.319558121804	46
+transcription corepressor activity(GO:0003714)	20437, 336, 190, 6	1.921	0.388326680667	0.774606537972	190
+transcription coactivator activity(GO:0003713)	20437, 1239, 257, 26	1.669	0.0586555205399	0.308313227322	257
+cyclic nucleotide binding(GO:0030551)	20437, 386, 36, 2	2.941	0.362529324155	0.761589421374	36
+drug transmembrane transporter activity(GO:0015238)	20437, 1754, 95, 10	1.226	0.659255516499	0.971232212092	95
+poly(A) binding(GO:0008143)	20437, 0, 27, 0	0.0	1.0	1.0	27
+phosphatidylinositol-3,4-bisphosphate binding(GO:0043325)	20437, 1245, 25, 5	3.283	0.0617621121074	0.31913904234	25
+regulatory RNA binding(GO:0061980)	20437, 1622, 35, 3	1.08	0.743294888721	1.0	35
+protein antigen binding(GO:1990405)	20437, 12, 11, 1	154.826	0.0217548418943	0.168764834089	11
+protein ADP-ribosylase activity(GO:1990404)	20437, 671, 14, 1	2.176	0.505304174559	0.881729537768	14
+carbonate dehydratase activity(GO:0004089)	20437, 0, 16, 0	0.0	1.0	1.0	16
+translation factor activity, RNA binding(GO:0008135)	20437, 1972, 78, 14	1.86	0.0894618234587	0.393961245732	78
+sterol binding(GO:0032934)	20437, 9, 51, 1	44.525	0.102099173331	0.427906802826	51
+D1 dopamine receptor binding(GO:0031748)	20437, 22, 13, 1	71.458	0.0439685782481	0.257278995006	13
+channel inhibitor activity(GO:0016248)	20437, 1735, 35, 4	1.346	0.594615025366	0.926766797527	35
+histone methyltransferase activity(GO:0042054)	20437, 1651, 53, 7	1.635	0.372169338144	0.76902667828	53
+PDZ domain binding(GO:0030165)	20437, 41, 118, 1	4.224	0.572861860307	0.926330204649	118
+ubiquitin-like protein conjugating enzyme activity(GO:0061650)	20437, 590, 41, 2	1.69	0.604127643519	0.934926184963	41
+co-SMAD binding(GO:0070410)	20437, 629, 11, 1	2.954	0.412732178115	0.800450284829	11
+neuropeptide receptor binding(GO:0071855)	20437, 981, 30, 2	1.389	0.6434286824	0.963710553953	30
+cation transmembrane transporter activity(GO:0008324)	20437, 55, 607, 1	0.612	0.993579840101	1.0	607
+drug binding(GO:0008144)	20437, 1968, 1630, 211	1.344	9.11003873909e-05	0.00444222841373	1630
+postsynaptic neurotransmitter receptor activity(GO:0098960)	20437, 0, 57, 0	0.0	1.0	1.0	57
+magnesium ion transmembrane transporter activity(GO:0015095)	20437, 158, 16, 1	8.084	0.240993695142	0.631540828682	16
+low-density lipoprotein particle binding(GO:0030169)	20437, 624, 16, 1	2.047	0.52879222322	0.900507213628	16
+dipeptidyl-peptidase activity(GO:0008239)	20437, 0, 12, 0	0.0	1.0	1.0	12
+ATP-dependent microtubule motor activity, plus-end-directed(GO:0008574)	20437, 1895, 25, 7	3.02	0.0288196175299	0.20075706361	25
+oxidoreductase activity, acting on CH-OH group of donors(GO:0016614)	20437, 1849, 139, 13	1.034	0.853808622602	1.0	139
+dioxygenase activity(GO:0051213)	20437, 236, 91, 2	1.903	0.640604764142	0.962014091264	91
+cyclase activity(GO:0009975)	20437, 502, 26, 1	1.566	0.675145451051	0.982354825679	26
+phosphoprotein binding(GO:0051219)	20437, 22, 100, 2	18.579	0.0375001709606	0.233406085894	100
+telomerase RNA binding(GO:0070034)	20437, 1708, 16, 5	3.739	0.0301817548992	0.208825114978	16
+snRNA binding(GO:0017069)	20437, 1380, 38, 5	1.949	0.300275507996	0.702013973032	38
+ubiquitin binding(GO:0043130)	20437, 1875, 74, 17	2.504	0.00261238969066	0.0424616990989	74
+I-SMAD binding(GO:0070411)	20437, 0, 11, 0	0.0	1.0	1.0	11
+UDP-galactosyltransferase activity(GO:0035250)	20437, 974, 25, 4	3.357	0.102380045598	0.427906802826	25
+glycolipid binding(GO:0051861)	20437, 1409, 20, 1	0.725	0.790909390356	1.0	20
+sterol transporter activity(GO:0015248)	20437, 9, 31, 1	73.251	0.0584706155887	0.308313227322	31
+3'-5' DNA helicase activity(GO:0043138)	20437, 1928, 16, 4	2.65	0.148462379819	0.502062240586	16
+Rho guanyl-nucleotide exchange factor activity(GO:0005089)	20437, 73, 70, 2	7.999	0.123612068435	0.463658454497	70
+Ras guanyl-nucleotide exchange factor activity(GO:0005088)	20437, 987, 129, 15	2.408	0.0122250487105	0.124241565889	129
+cytokine activity(GO:0005125)	20437, 84, 213, 2	2.284	0.634884379229	0.956061182838	213
+death receptor binding(GO:0005123)	20437, 144, 16, 2	17.74	0.0219885355382	0.169295190911	16
+spectrin binding(GO:0030507)	20437, 993, 31, 3	1.992	0.410776422632	0.799616179584	31
+protein kinase C binding(GO:0005080)	20437, 1406, 61, 9	2.145	0.10778817447	0.436336951942	61
+guanyl-nucleotide exchange factor activity(GO:0005085)	20437, 1978, 195, 33	1.749	0.0106671590542	0.112610008985	195
+tubulin binding(GO:0015631)	20437, 1976, 321, 40	1.289	0.307082570502	0.71304433604	321
+acetylcholine receptor activity(GO:0015464)	20437, 0, 22, 0	0.0	1.0	1.0	22
+ARF guanyl-nucleotide exchange factor activity(GO:0005086)	20437, 303, 17, 2	7.935	0.0805188128946	0.37140209191	17
+phosphatidylinositol 3-kinase regulatory subunit binding(GO:0036312)	20437, 1360, 13, 1	1.156	0.61963051964	0.948159380602	13
+beta-tubulin binding(GO:0048487)	20437, 1203, 43, 4	1.58	0.518577324536	0.890978490477	43
+protein-containing complex scaffold activity(GO:0032947)	20437, 11, 85, 1	21.858	0.197507053754	0.572938308907	85
+bHLH transcription factor binding(GO:0043425)	20437, 1489, 31, 7	3.099	0.0285927848903	0.200541176217	31
+translation initiation factor binding(GO:0031369)	20437, 958, 37, 1	0.577	0.910021858045	1.0	37
+lipase inhibitor activity(GO:0055102)	20437, 0, 11, 0	0.0	1.0	1.0	11
+protein kinase B binding(GO:0043422)	20437, 115, 17, 1	10.454	0.210782501135	0.588123381914	17
+3'-5' exonuclease activity(GO:0008408)	20437, 1662, 47, 10	2.616	0.0225209895199	0.169569803444	47
+5'-3' exonuclease activity(GO:0008409)	20437, 1688, 17, 6	4.273	0.00823605049493	0.0989694293744	17
+adrenergic receptor activity(GO:0004935)	20437, 0, 18, 0	0.0	1.0	1.0	18
+ribonuclease activity(GO:0004540)	20437, 1701, 112, 12	1.287	0.581878069809	0.926330204649	112
+CARD domain binding(GO:0050700)	20437, 87, 11, 1	21.355	0.1070534198	0.436336951942	11
+NADH dehydrogenase activity(GO:0003954)	20437, 1983, 22, 4	1.874	0.337425134901	0.741466390855	22
+phosphatidylinositol bisphosphate binding(GO:1902936)	20437, 685, 105, 6	1.705	0.44670570251	0.831684798855	105
+transferase activity, transferring alkyl or aryl (other than methyl) groups(GO:0016765)	20437, 1459, 59, 12	2.849	0.00564320302175	0.0747466135322	59
+deaminase activity(GO:0019239)	20437, 1711, 26, 4	1.838	0.358352435359	0.756603904758	26
+G-protein alpha-subunit binding(GO:0001965)	20437, 1144, 34, 4	2.102	0.311566353966	0.715345171438	34
+sequence-specific single stranded DNA binding(GO:0098847)	20437, 1948, 14, 4	2.998	0.104131118373	0.428613076601	14
+H4 histone acetyltransferase activity(GO:0010485)	20437, 1910, 23, 5	2.326	0.165616727541	0.531634887153	23
+transferase activity, transferring pentosyl groups(GO:0016763)	20437, 1824, 49, 5	1.143	0.722889833029	1.0	49
+proximal promoter sequence-specific DNA binding(GO:0000987)	20437, 860, 566, 54	2.267	5.23572700403e-07	8.93564075354e-05	566
+passive transmembrane transporter activity(GO:0022803)	20437, 267, 443, 1	0.173	0.999993196255	1.0	443
+platelet-derived growth factor binding(GO:0048407)	20437, 1206, 12, 1	1.412	0.559305104442	0.922963892864	12
+chemokine activity(GO:0008009)	20437, 1117, 41, 2	0.893	0.840525346459	1.0	41
+carbohydrate transmembrane transporter activity(GO:0015144)	20437, 0, 38, 0	0.0	1.0	1.0	38
+fibronectin binding(GO:0001968)	20437, 41, 31, 1	16.079	0.186810651781	0.560350453509	31
+RNA polymerase II distal enhancer sequence-specific DNA binding(GO:0000980)	20437, 40, 93, 1	5.494	0.481297807425	0.85862187248	93
+adenyl nucleotide binding(GO:0030554)	20437, 1968, 1452, 203	1.452	6.55913215753e-07	9.59507332758e-05	1452
+sphingolipid transporter activity(GO:0046624)	20437, 1783, 12, 2	1.91	0.403622520893	0.794825887298	12
+extracellular ligand-gated ion channel activity(GO:0005230)	20437, 0, 71, 0	0.0	1.0	1.0	71
+nucleotide-sugar transmembrane transporter activity(GO:0005338)	20437, 1560, 14, 2	1.872	0.421425374129	0.809642745044	14
+steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor(GO:0033764)	20437, 1849, 30, 3	1.105	0.715551443414	1.0	30
+actin-dependent ATPase activity(GO:0030898)	20437, 1925, 11, 3	2.895	0.165515892338	0.531634887153	11
+DNA N-glycosylase activity(GO:0019104)	20437, 1946, 13, 4	3.231	0.0827357123732	0.37822039942	13
+heparan sulfate proteoglycan binding(GO:0043395)	20437, 672, 18, 1	1.69	0.592255693435	0.926475037625	18
+proteoglycan binding(GO:0043394)	20437, 672, 36, 2	1.69	0.58644593848	0.926330204649	36
+Rab guanyl-nucleotide exchange factor activity(GO:0017112)	20437, 1974, 39, 13	3.451	0.000355662196665	0.0118518777876	39
+phosphatidylinositol phosphate binding(GO:1901981)	20437, 777, 159, 12	1.985	0.116964159069	0.454273006405	159
+peptide binding(GO:0042277)	20437, 990, 294, 21	1.475	0.27523788632	0.672657746042	294
+myosin V binding(GO:0031489)	20437, 1152, 20, 1	0.887	0.755367167537	1.0	20
+calcium-transporting ATPase activity(GO:0005388)	20437, 1992, 11, 2	1.865	0.41368597182	0.800783431273	11
+mannosyltransferase activity(GO:0000030)	20437, 1446, 24, 2	1.178	0.677402215069	0.982354825679	24
+calmodulin-dependent protein kinase activity(GO:0004683)	20437, 1570, 27, 5	2.411	0.160419819758	0.525809630783	27
+phosphatidylinositol kinase activity(GO:0052742)	20437, 902, 14, 2	3.237	0.247232576712	0.64224085889	14
+lipase activity(GO:0016298)	20437, 1547, 121, 4	0.437	0.998604754544	1.0	121
+ATPase activity, coupled to movement of substances(GO:0043492)	20437, 597, 128, 5	1.337	0.710621878823	1.0	128
+magnesium-dependent protein serine/threonine phosphatase activity(GO:0004724)	20437, 505, 17, 2	4.761	0.164869842323	0.531634887153	17
+protein membrane anchor(GO:0043495)	20437, 1925, 12, 4	3.539	0.062020184986	0.31913904234	12
+phosphatidylinositol monophosphate phosphatase activity(GO:0052744)	20437, 151, 12, 1	11.279	0.179697147864	0.554246624738	12
+inositol phosphate phosphatase activity(GO:0052745)	20437, 1952, 20, 4	2.094	0.266154260241	0.664994261527	20
+glycosaminoglycan binding(GO:0005539)	20437, 56, 205, 1	1.78	0.842138342182	1.0	205
+voltage-gated potassium channel activity(GO:0005249)	20437, 267, 86, 1	0.89	0.910948743028	1.0	86
+voltage-gated sodium channel activity(GO:0005248)	20437, 0, 20, 0	0.0	1.0	1.0	20
+voltage-gated chloride channel activity(GO:0005247)	20437, 0, 11, 0	0.0	1.0	1.0	11
+calcium channel regulator activity(GO:0005246)	20437, 1362, 41, 3	1.098	0.755777111745	1.0	41
+voltage-gated calcium channel activity(GO:0005245)	20437, 1266, 50, 2	0.646	0.932250312212	1.0	50
+voltage-gated ion channel activity(GO:0005244)	20437, 267, 192, 1	0.399	0.995167686457	1.0	192
+gap junction channel activity(GO:0005243)	20437, 1746, 13, 1	0.9	0.690996907841	0.988396696039	13
+inward rectifier potassium channel activity(GO:0005242)	20437, 0, 20, 0	0.0	1.0	1.0	20
+mannose binding(GO:0005537)	20437, 167, 26, 1	4.707	0.391381526072	0.778203267374	26
+glucose binding(GO:0005536)	20437, 56, 12, 1	30.412	0.0854061695947	0.3886929674	12
+cytokine receptor binding(GO:0005126)	20437, 256, 323, 11	2.719	0.0267455449434	0.19019054182	323
+nucleobase-containing compound transmembrane transporter activity(GO:0015932)	20437, 1560, 42, 3	0.936	0.828711500223	1.0	42
+phosphatidic acid binding(GO:0070300)	20437, 1384, 19, 1	0.777	0.769098454618	1.0	19
+histone-lysine N-methyltransferase activity(GO:0018024)	20437, 1971, 40, 7	1.815	0.258741243815	0.658734087059	40
+purine ribonucleoside triphosphate binding(GO:0035639)	20437, 1968, 1693, 241	1.478	5.60281265449e-09	5.7372801582e-06	1693
+ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism(GO:0015662)	20437, 1992, 38, 4	1.08	0.748695629979	1.0	38
+cyclic-nucleotide phosphodiesterase activity(GO:0004112)	20437, 187, 29, 1	3.769	0.454093899195	0.833319270208	29
+acid-thiol ligase activity(GO:0016878)	20437, 1036, 26, 1	0.759	0.838005731642	1.0	26
+BMP binding(GO:0036122)	20437, 0, 12, 0	0.0	1.0	1.0	12
+leak channel activity(GO:0022840)	20437, 1746, 18, 3	1.951	0.3559508581	0.755535580962	18
+G protein-coupled receptor binding(GO:0001664)	20437, 47, 285, 3	4.577	0.184258650474	0.558227390784	285
+mRNA 5'-UTR binding(GO:0048027)	20437, 115, 24, 1	7.405	0.289668476617	0.689883917867	24
+CCR chemokine receptor binding(GO:0048020)	20437, 1512, 44, 4	1.229	0.68600283762	0.987998460932	44
+long-chain fatty acid binding(GO:0036041)	20437, 0, 19, 0	0.0	1.0	1.0	19
+1-phosphatidylinositol-3-kinase regulator activity(GO:0046935)	20437, 1661, 13, 2	1.893	0.411304694434	0.799616179584	13
+tRNA binding(GO:0000049)	20437, 266, 56, 4	5.488	0.0359969922538	0.233296962455	56
+amyloid-beta binding(GO:0001540)	20437, 624, 57, 2	1.149	0.795358438785	1.0	57
+proton-transporting ATP synthase activity, rotational mechanism(GO:0046933)	20437, 1104, 13, 2	2.848	0.276920189919	0.673554096146	13
+monovalent inorganic cation transmembrane transporter activity(GO:0015077)	20437, 507, 353, 5	0.571	0.998685763073	1.0	353
+lyase activity(GO:0016829)	20437, 208, 181, 3	1.629	0.698789002511	0.994206096046	181
+neuropeptide binding(GO:0042923)	20437, 0, 25, 0	0.0	1.0	1.0	25
+divalent inorganic cation transmembrane transporter activity(GO:0072509)	20437, 55, 27, 1	13.762	0.198549562721	0.573058116723	27
+transmembrane receptor protein kinase activity(GO:0019199)	20437, 558, 78, 1	0.47	0.975058517	1.0	78
+general transcription initiation factor binding(GO:0140296)	20437, 1968, 44, 10	2.36	0.0409542116599	0.245246273332	44
+14-3-3 protein binding(GO:0071889)	20437, 1715, 28, 5	2.128	0.221563362776	0.607712053223	28
+G protein-coupled neurotransmitter receptor activity(GO:0099528)	20437, 0, 44, 0	0.0	1.0	1.0	44
+molecular adaptor activity(GO:0060090)	20437, 234, 162, 4	2.156	0.429577486862	0.814606197308	162
+mechanosensitive ion channel activity(GO:0008381)	20437, 785, 15, 1	1.736	0.575825631318	0.926330204649	15
+transcription regulator activity(GO:0140110)	20437, 1272, 1332, 121	1.46	0.000335077445023	0.0118518777876	1332
+solute:proton symporter activity(GO:0015295)	20437, 1098, 22, 3	2.538	0.258938126543	0.658734087059	22
+solute:cation symporter activity(GO:0015294)	20437, 1098, 98, 3	0.57	0.984176724542	1.0	98
+antiporter activity(GO:0015297)	20437, 460, 75, 2	1.185	0.809987491435	1.0	75
+anion:cation symporter activity(GO:0015296)	20437, 0, 18, 0	0.0	1.0	1.0	18
+secondary active transmembrane transporter activity(GO:0015291)	20437, 493, 232, 5	0.893	0.952009636727	1.0	232
+symporter activity(GO:0015293)	20437, 262, 146, 1	0.534	0.982442613883	1.0	146
+5'-nucleotidase activity(GO:0008253)	20437, 390, 13, 1	4.031	0.345200030566	0.747740504909	13
+solute:proton antiporter activity(GO:0015299)	20437, 460, 18, 1	2.468	0.496639419067	0.872313490779	18
+solute:cation antiporter activity(GO:0015298)	20437, 460, 29, 1	1.532	0.68531811169	0.987998460932	29
+histone acetyltransferase binding(GO:0035035)	20437, 1321, 34, 5	2.275	0.201887500103	0.577465922082	34
+nucleotidase activity(GO:0008252)	20437, 390, 16, 1	3.275	0.416431533843	0.80306194097	16
+RNA polymerase II activating transcription factor binding(GO:0001102)	20437, 40, 42, 1	12.165	0.24586607487	0.640628144191	42
+RNA polymerase II repressing transcription factor binding(GO:0001103)	20437, 58, 35, 1	10.067	0.266051215871	0.664994261527	35
+triglyceride lipase activity(GO:0004806)	20437, 0, 27, 0	0.0	1.0	1.0	27
+nucleoside-triphosphatase regulator activity(GO:0060589)	20437, 1017, 292, 28	1.927	0.00843840243792	0.0993209666256	292
+hormone binding(GO:0042562)	20437, 307, 106, 2	1.256	0.821660994357	1.0	106
+sequence-specific mRNA binding(GO:1990825)	20437, 1724, 12, 2	1.976	0.38881617238	0.774606537972	12
+ubiquitin-like protein ligase activity(GO:0061659)	20437, 1449, 231, 26	1.587	0.0984949975035	0.416772220841	231
+alcohol binding(GO:0043178)	20437, 9, 84, 1	27.033	0.169954084445	0.53713883479	84
+organic acid binding(GO:0043177)	20437, 216, 225, 2	0.841	0.958867500164	1.0	225
+amine binding(GO:0043176)	20437, 0, 14, 0	0.0	1.0	1.0	14
+RNA polymerase core enzyme binding(GO:0043175)	20437, 347, 41, 2	2.873	0.380564884647	0.770155023476	41
+alpha-catenin binding(GO:0045294)	20437, 0, 12, 0	0.0	1.0	1.0	12
+phosphatidylinositol-3-phosphate binding(GO:0032266)	20437, 738, 38, 5	3.644	0.0540468527944	0.296748109931	38
+cadherin binding(GO:0045296)	20437, 1918, 60, 1	0.178	0.997397932953	1.0	60
+Wnt-activated receptor activity(GO:0042813)	20437, 0, 17, 0	0.0	1.0	1.0	17
+DNA replication origin binding(GO:0003688)	20437, 199, 16, 2	12.837	0.0375200488318	0.233406085894	16
+double-stranded RNA binding(GO:0003725)	20437, 969, 84, 6	1.506	0.536000147059	0.910222471953	84
+RNA binding(GO:0003723)	20437, 1996, 1024, 146	1.46	3.9280297218e-05	0.00236606025596	1024
+Wnt-protein binding(GO:0017147)	20437, 0, 36, 0	0.0	1.0	1.0	36
+chromatin binding(GO:0003682)	20437, 1234, 570, 60	1.743	0.000363892364722	0.0118518777876	570
+damaged DNA binding(GO:0003684)	20437, 1946, 58, 16	2.897	0.000616717930298	0.0154029063567	58
+mRNA binding(GO:0003729)	20437, 1787, 250, 29	1.327	0.344677530062	0.747740504909	250
+carbohydrate phosphatase activity(GO:0019203)	20437, 0, 11, 0	0.0	1.0	1.0	11
+carbohydrate kinase activity(GO:0019200)	20437, 56, 21, 1	17.378	0.157758503593	0.521111960256	21
+cargo receptor activity(GO:0038024)	20437, 1023, 85, 9	2.115	0.131478779251	0.480866993227	85
+kinase regulator activity(GO:0019207)	20437, 1967, 193, 36	1.938	0.00100926215084	0.0210915192338	193
+nucleobase-containing compound kinase activity(GO:0019205)	20437, 33, 36, 1	17.203	0.188265063519	0.562050801876	36
+phosphatase regulator activity(GO:0019208)	20437, 1715, 82, 10	1.453	0.435857942369	0.818933088048	82
+kinase activator activity(GO:0019209)	20437, 1938, 85, 13	1.613	0.234479005373	0.621193510424	85
+RNA 7-methylguanosine cap binding(GO:0000340)	20437, 645, 13, 1	2.437	0.469775529337	0.845430829597	13
+alpha-actinin binding(GO:0051393)	20437, 115, 32, 1	5.554	0.376783006576	0.76902667828	32
+glutathione transferase activity(GO:0004364)	20437, 106, 30, 1	6.427	0.340934722129	0.744386258977	30
+CCR6 chemokine receptor binding(GO:0031731)	20437, 0, 11, 0	0.0	1.0	1.0	11
+mannosidase activity(GO:0015923)	20437, 1442, 15, 2	1.89	0.425126471679	0.811377031025	15
+protein serine/threonine phosphatase activity(GO:0004722)	20437, 12, 66, 1	25.804	0.164222496466	0.531634887153	66
+lipase activator activity(GO:0060229)	20437, 1117, 11, 3	4.99	0.0560337146948	0.301992230776	11
+nuclear receptor activity(GO:0004879)	20437, 173, 46, 2	5.136	0.20185989487	0.577465922082	46
+coenzyme binding(GO:0050662)	20437, 503, 286, 9	1.279	0.728345807848	1.0	286
+NADP binding(GO:0050661)	20437, 400, 45, 1	1.135	0.809860576222	1.0	45
+flavin adenine dinucleotide binding(GO:0050660)	20437, 1172, 81, 6	1.292	0.665953475854	0.976986188072	81
+oxidoreductase activity, oxidizing metal ions, oxygen as acceptor(GO:0016724)	20437, 643, 14, 1	2.27	0.492478093923	0.867982045056	14
+oxidoreductase activity, acting on CH or CH2 groups(GO:0016725)	20437, 503, 15, 1	2.709	0.449053841723	0.833319270208	15
+oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor(GO:0050664)	20437, 1172, 13, 4	5.365	0.0190391750837	0.159577652341	13
+oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor(GO:0016641)	20437, 877, 21, 1	1.11	0.726735115857	1.0	21
+phosphatidylcholine transporter activity(GO:0008525)	20437, 1384, 12, 1	1.231	0.59297915098	0.926475037625	12
+oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor(GO:0016646)	20437, 1707, 16, 2	1.497	0.528585307527	0.900507213628	16
+taste receptor activity(GO:0008527)	20437, 0, 36, 0	0.0	1.0	1.0	36
+structural molecule activity(GO:0005198)	20437, 11, 685, 2	5.425	0.320403086323	0.727478404423	685
+bicarbonate transmembrane transporter activity(GO:0015106)	20437, 0, 19, 0	0.0	1.0	1.0	19
+organic cation transmembrane transporter activity(GO:0015101)	20437, 701, 23, 1	1.268	0.695352107484	0.99308306564	23
+voltage-gated cation channel activity(GO:0022843)	20437, 267, 144, 1	0.532	0.982490275495	1.0	144
+inorganic anion transmembrane transporter activity(GO:0015103)	20437, 1529, 135, 6	0.594	0.99495028507	1.0	135
+potassium ion leak channel activity(GO:0022841)	20437, 267, 15, 1	5.103	0.328498392628	0.731265987068	15
+ATPase activator activity(GO:0001671)	20437, 1934, 25, 3	1.268	0.627454784177	0.948159380602	25
+ubiquitin-protein transferase regulator activity(GO:0055106)	20437, 4, 19, 1	268.908	0.0166400355313	0.149468389334	19
+protein tyrosine kinase binding(GO:1990782)	20437, 601, 92, 7	2.587	0.104220876469	0.428613076601	92
+chloride transmembrane transporter activity(GO:0015108)	20437, 1479, 99, 2	0.279	0.999153527379	1.0	99
+acetylcholine-gated cation-selective channel activity(GO:0022848)	20437, 0, 16, 0	0.0	1.0	1.0	16
+hormone activity(GO:0005179)	20437, 770, 127, 1	0.209	0.999391179529	1.0	127
+integrin binding(GO:0005178)	20437, 1925, 122, 10	0.87	0.946146150156	1.0	122
+ubiquitin-ubiquitin ligase activity(GO:0034450)	20437, 234, 11, 1	7.94	0.21683582752	0.600107803731	11
+microtubule plus-end binding(GO:0051010)	20437, 64, 16, 1	19.958	0.130348583899	0.480866993227	16
+sodium channel activity(GO:0005272)	20437, 0, 39, 0	0.0	1.0	1.0	39
+Rab GTPase binding(GO:0017137)	20437, 899, 165, 20	2.756	0.000493409676903	0.0136915541929	165
+lipoprotein particle receptor binding(GO:0070325)	20437, 69, 30, 1	9.873	0.256920348454	0.657716092043	30
+pyrimidine nucleotide binding(GO:0019103)	20437, 1750, 11, 4	4.247	0.0341890857131	0.224420665194	11
+vascular endothelial growth factor receptor binding(GO:0005172)	20437, 0, 15, 0	0.0	1.0	1.0	15
+G protein-coupled receptor activity(GO:0004930)	20437, 5, 743, 1	5.501	0.651667080975	0.969952767744	743
+BH domain binding(GO:0051400)	20437, 1044, 14, 5	6.991	0.00193400209273	0.0358612352278	14
+RNA stem-loop binding(GO:0035613)	20437, 1107, 18, 2	2.051	0.433368787643	0.815753012034	18
+phosphatidylcholine binding(GO:0031210)	20437, 1384, 25, 1	0.591	0.860332686481	1.0	25
+hexosaminidase activity(GO:0015929)	20437, 1943, 18, 2	1.169	0.653581454828	0.969952767744	18
+phosphatidylinositol-4-phosphate binding(GO:0070273)	20437, 777, 33, 3	2.391	0.321724137306	0.728844553082	33
+phosphatidylinositol-3,5-bisphosphate binding(GO:0080025)	20437, 908, 25, 3	2.701	0.249024139828	0.64224085889	25
+palmitoyltransferase activity(GO:0016409)	20437, 1721, 38, 9	2.813	0.0192379625781	0.159577652341	38
+diacylglycerol kinase activity(GO:0004143)	20437, 0, 11, 0	0.0	1.0	1.0	11
+fibroblast growth factor binding(GO:0017134)	20437, 842, 26, 1	0.934	0.78525919549	1.0	26
+N-acetyltransferase activity(GO:0008080)	20437, 1910, 92, 18	2.093	0.0141335900557	0.135259777729	92
+growth factor receptor binding(GO:0070851)	20437, 256, 148, 7	3.776	0.0216143109313	0.168764834089	148
+amino acid:sodium symporter activity(GO:0005283)	20437, 0, 12, 0	0.0	1.0	1.0	12
+transition metal ion transmembrane transporter activity(GO:0046915)	20437, 55, 37, 1	10.043	0.269373631917	0.664994261527	37
+tRNA (guanine) methyltransferase activity(GO:0016423)	20437, 1892, 13, 1	0.831	0.717990412187	1.0	13
+tRNA-specific ribonuclease activity(GO:0004549)	20437, 1490, 16, 1	0.857	0.722448309231	1.0	16
+endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters(GO:0016893)	20437, 125, 38, 1	4.303	0.452267447153	0.833319270208	38
+protein disulfide oxidoreductase activity(GO:0015035)	20437, 1035, 21, 3	2.821	0.214347602387	0.596445502293	21
+peptide disulfide oxidoreductase activity(GO:0015037)	20437, 1116, 14, 4	5.232	0.021637837812	0.168764834089	14
+disulfide oxidoreductase activity(GO:0015036)	20437, 1116, 41, 6	2.68	0.0961943370728	0.41042917151	41
