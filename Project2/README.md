@@ -1,6 +1,17 @@
 # MICB405 Metagenomics Project
 A metagenome annotation workflow for UBC's MICB405 Microbial Bioinformatics course 
 
+## **NEW** Files in this Directory `Project2`
+* `run-bwa.sh`
+  * bash script to run `bwa`
+* `run-prokka.sh`
+  * bash script to run `prokka`
+* `run-rpkm.sh`
+  * bash script to run `rpkm`
+* `R`
+  * directory to hold all files and scripts used in R visualizations
+
+
 ## Outline
  
 Data used for this project is from Saanich Inlet, a seasonally-anoxic fjord on the coast of Vancouver Island British Columbia that provides a model ecosystem for studying microbial commuity responses to ocean deoxygenation. These data are described further in the series of Scientific Data publications ([geochemical data](https://www.nature.com/articles/sdata2017159) and [multi-omic data](https://www.nature.com/articles/sdata2017160)). You can access these papers as well as additional background information on the study site and phenomenon of oxygen minimum zone expansion on Canvas. 
