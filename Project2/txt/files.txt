@@ -1,0 +1,38 @@
+HQmags.renamed.txt
+	* High quality MAGs renamed
+HQmags.txt
+	* High quality MAGs
+KAAS.html
+	* High quality MAGS KAAS output in HTML format
+KAAS.txt
+	* High quality MAGS KAAS output in text format
+Prokka_MAG_map.csv
+	* A dictionary csv mapping the Prokka ORFs to the MAGs (unnecessary since I renamed and ran Prokka using --locustag)
+Prokka_output
+	* Holds the output files for Prokka
+R
+	* holds the Rscripts/R related files (refer to GitHub for more recent files/plots)
+SaanichInlet_120m
+	* soft link to our data
+bwa_output
+	* Holds the output from BWA when aligning metatranscriptomic reads to the MAGs
+list_arch.renamed.txt
+	* list of Archaea MAGs (renamed)
+list_arch.txt
+	* list of Archaea MAGs
+list_bac.renamed.txt
+	* list of Bacteria MAGs (renamed)
+list_bac.txt
+	* list of Bacteria MAGs
+nohup.out
+	* nohup.out run from running run-rpkm.sh
+prokka.nohup
+	* nohop.out from running Prokka
+rpkm_output
+	* Holds the output files for rpkm binary
+run-bwa.sh
+	* Bash script for aligning metatranscriptomic reads to MAGs using BWA
+run-prokka.sh
+	* Bash script for running Prokka on HQ mags
+run-rpkm.sh
+	* Bash script for running rpkm binary

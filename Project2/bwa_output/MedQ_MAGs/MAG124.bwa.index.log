@@ -1,0 +1,9 @@
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.21 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.08 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /projects/micb405/project1/Team10/project2/Prokka_output/MedQ_MAGs/MAG124.ffn
+[main] Real time: 0.397 sec; CPU: 0.324 sec
