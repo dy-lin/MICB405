@@ -1,0 +1,216 @@
+[20:35:16] This is prokka 1.13
+[20:35:16] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[20:35:16] Homepage is https://github.com/tseemann/prokka
+[20:35:16] Local time is Wed Nov 20 20:35:16 2019
+[20:35:16] You are linuxbrew
+[20:35:16] Operating system is linux
+[20:35:16] You have BioPerl 1.007002
+[20:35:16] System has 40 cores.
+[20:35:16] Will use maximum of 8 cores.
+[20:35:16] Annotating as >>> Bacteria <<<
+[20:35:16] Re-using existing --outdir /projects/micb405/project1/Team10/project2/Prokka_output
+[20:35:16] Using filename prefix: MAG133.XXX
+[20:35:16] Setting HMMER_NCPU=1
+[20:35:16] Writing log to: /projects/micb405/project1/Team10/project2/Prokka_output/MAG133.log
+[20:35:16] Command: /home/linuxbrew/.linuxbrew/bin/prokka --outdir /projects/micb405/project1/Team10/project2/Prokka_output --force --prefix MAG133 --kingdom Bacteria --cpus 8 --locustag MAG133 /projects/micb405/resources/project_2/2019/SaanichInlet_120m/MetaBAT2_SaanichInlet_120m/MedQPlus_MAGs/SaanichInlet_120m.133.fa
+[20:35:16] Appending to PATH: /home/linuxbrew/.linuxbrew/Cellar/prokka/1.13/bin
+[20:35:16] Looking for 'aragorn' - found /home/linuxbrew/.linuxbrew/bin/aragorn
+[20:35:16] Determined aragorn version is 1.2
+[20:35:16] Looking for 'barrnap' - found /home/linuxbrew/.linuxbrew/bin/barrnap
+[20:35:16] Determined barrnap version is 0.9
+[20:35:16] Looking for 'blastp' - found /home/linuxbrew/.linuxbrew/bin/blastp
+[20:35:16] Determined blastp version is 2.7
+[20:35:16] Looking for 'cmpress' - found /home/linuxbrew/.linuxbrew/bin/cmpress
+[20:35:16] Determined cmpress version is 1.1
+[20:35:16] Looking for 'cmscan' - found /home/linuxbrew/.linuxbrew/bin/cmscan
+[20:35:16] Determined cmscan version is 1.1
+[20:35:16] Looking for 'egrep' - found /bin/egrep
+[20:35:16] Looking for 'find' - found /usr/bin/find
+[20:35:16] Looking for 'grep' - found /bin/grep
+[20:35:16] Looking for 'hmmpress' - found /home/linuxbrew/.linuxbrew/bin/hmmpress
+[20:35:16] Determined hmmpress version is 3.1
+[20:35:16] Looking for 'hmmscan' - found /home/linuxbrew/.linuxbrew/bin/hmmscan
+[20:35:16] Determined hmmscan version is 3.1
+[20:35:16] Looking for 'java' - found /home/linuxbrew/.linuxbrew/bin/java
+[20:35:16] Looking for 'less' - found /home/linuxbrew/.linuxbrew/bin/less
+[20:35:16] Looking for 'makeblastdb' - found /home/linuxbrew/.linuxbrew/bin/makeblastdb
+[20:35:16] Determined makeblastdb version is 2.7
+[20:35:16] Looking for 'minced' - found /home/linuxbrew/.linuxbrew/bin/minced
+[20:35:17] Determined minced version is 3.0
+[20:35:17] Looking for 'parallel' - found /home/linuxbrew/.linuxbrew/bin/parallel
+[20:35:17] Determined parallel version is 20180822
+[20:35:17] Looking for 'prodigal' - found /home/linuxbrew/.linuxbrew/bin/prodigal
+[20:35:17] Determined prodigal version is 2.6
+[20:35:17] Looking for 'prokka-genbank_to_fasta_db' - found /home/linuxbrew/.linuxbrew/bin/prokka-genbank_to_fasta_db
+[20:35:17] Looking for 'rnammer' - found /home/linuxbrew/.linuxbrew/bin/rnammer
+[20:35:17] Determined rnammer version is 1.2
+[20:35:17] Looking for 'sed' - found /bin/sed
+[20:35:17] Looking for 'tbl2asn' - found /home/linuxbrew/.linuxbrew/bin/tbl2asn
+[20:35:17] Determined tbl2asn version is 25.6
+[20:35:17] Using genetic code table 11.
+[20:35:17] Loading and checking input file: /projects/micb405/resources/project_2/2019/SaanichInlet_120m/MetaBAT2_SaanichInlet_120m/MedQPlus_MAGs/SaanichInlet_120m.133.fa
+[20:35:17] Wrote 142 contigs totalling 1358038 bp.
+[20:35:17] Predicting tRNAs and tmRNAs
+[20:35:17] Running: aragorn -l -gc11  -w \/projects\/micb405\/project1\/Team10\/project2\/Prokka_output\/MAG133\.fna
+[20:35:18] 1 tRNA-Cys c[12697,12770] 33 (gca)
+[20:35:18] 1 tRNA-Leu c[1273,1357] 35 (tag)
+[20:35:18] 2 tRNA-Tyr c[1405,1489] 35 (gta)
+[20:35:18] 3 tRNA-Thr c[1580,1655] 34 (tgt)
+[20:35:18] 1 tRNA-Arg [93,167] 34 (cct)
+[20:35:18] 1 tRNA-Gly [2061,2137] 35 (tcc)
+[20:35:18] 2 tRNA-Ile [2201,2277] 35 (gat)
+[20:35:18] 3 tRNA-Pro [2335,2410] 34 (tgg)
+[20:35:18] 1 tRNA-Arg c[2910,2985] 33 (gcg)
+[20:35:18] 1 tRNA-SeC [4247,4325] 37 (tca)
+[20:35:18] 1 tRNA-Leu [7724,7808] 35 (caa)
+[20:35:18] 1 tRNA-Asn [4014,4088] 33 (gtt)
+[20:35:18] 2 tRNA-Ser [4131,4218] 35 (tga)
+[20:35:18] 3 tRNA-Ser [4236,4325] 35 (gct)
+[20:35:18] 4 tRNA-Met [4341,4416] 34 (cat)
+[20:35:18] 5 tRNA-Arg [9605,9680] 34 (tct)
+[20:35:18] 6 tRNA-Val [9697,9773] 35 (tac)
+[20:35:18] 1 tRNA-Lys c[417,492] 34 (ttt)
+[20:35:18] 1 tRNA-His [65882,65958] 35 (gtg)
+[20:35:18] 1 tRNA-Arg [3897,3973] 35 (ccg)
+[20:35:18] 2 tRNA-Lys c[29228,29303] 34 (ctt)
+[20:35:18] 1 tRNA-Met [6503,6577] 33 (cat)
+[20:35:18] 1 tRNA-Phe [1738,1812] 33 (gaa)
+[20:35:18] 1 tRNA-Cys c[12342,12415] 33 (gca)
+[20:35:18] 1 tRNA-Trp c[11223,11297] 34 (cca)
+[20:35:18] 1 tRNA-Glu c[1911,1985] 34 (ctc)
+[20:35:18] 1 tRNA-Met c[12991,13065] 33 (cat)
+[20:35:18] 2 tRNA-Glu c[13079,13153] 34 (ttc)
+[20:35:18] 3 tRNA-Leu c[18063,18147] 35 (taa)
+[20:35:18] 4 tRNA-Ala c[20432,20508] 35 (tgc)
+[20:35:18] 5 tRNA-Asp c[20603,20681] 37 (gtc)
+[20:35:18] 1 tRNA-Gln c[5087,5161] 33 (ttg)
+[20:35:18] Found 32 tRNAs
+[20:35:18] Predicting Ribosomal RNAs
+[20:35:18] Running Barrnap with 8 threads
+[20:35:19] 1 SaanichInlet_120m_133_71 4816 16S ribosomal RNA
+[20:35:19] 2 SaanichInlet_120m_133_71 6420 23S ribosomal RNA
+[20:35:19] 3 SaanichInlet_120m_133_71 9452 5S ribosomal RNA (partial)
+[20:35:19] Found 3 rRNAs
+[20:35:19] Skipping ncRNA search, enable with --rfam if desired.
+[20:35:19] Total of 35 tRNA + rRNA features
+[20:35:19] Searching for CRISPR repeats
+[20:35:19] Found 0 CRISPRs
+[20:35:19] Predicting coding sequences
+[20:35:19] Contigs total 1358038 bp, so using single mode
+[20:35:19] Running: prodigal -i \/projects\/micb405\/project1\/Team10\/project2\/Prokka_output\/MAG133\.fna -c -m -g 11 -p single -f sco -q
+[20:35:20] Excluding CDS which overlaps existing RNA (tRNA) at SaanichInlet_120m_133_29:2004..2210 on + strand
+[20:35:20] Excluding CDS which overlaps existing RNA (tRNA) at SaanichInlet_120m_133_70:7631..7846 on + strand
+[20:35:20] Excluding CDS which overlaps existing RNA (tRNA) at SaanichInlet_120m_133_71:4120..4404 on - strand
+[20:35:20] Excluding CDS which overlaps existing RNA (rRNA) at SaanichInlet_120m_133_71:5396..5560 on + strand
+[20:35:20] Excluding CDS which overlaps existing RNA (rRNA) at SaanichInlet_120m_133_71:8351..8509 on - strand
+[20:35:20] Excluding CDS which overlaps existing RNA (rRNA) at SaanichInlet_120m_133_71:9058..9315 on - strand
+[20:35:20] Excluding CDS which overlaps existing RNA (rRNA) at SaanichInlet_120m_133_71:9456..9575 on - strand
+[20:35:20] Excluding CDS which overlaps existing RNA (tRNA) at SaanichInlet_120m_133_107:1697..1813 on - strand
+[20:35:20] Excluding CDS which overlaps existing RNA (tRNA) at SaanichInlet_120m_133_114:12170..12409 on - strand
+[20:35:20] Found 1676 CDS
+[20:35:20] Connecting features back to sequences
+[20:35:20] Not using genus-specific database. Try --usegenus to enable it.
+[20:35:20] Annotating CDS, please be patient.
+[20:35:20] Will use 8 CPUs for similarity searching.
+[20:35:21] There are still 1676 unannotated CDS left (started with 1676)
+[20:35:21] Will use blast to search against /home/linuxbrew/.linuxbrew/Cellar/prokka/1.13/bin/../db/kingdom/Bacteria/sprot with 8 CPUs
+[20:35:21] Running: cat \/projects\/micb405\/project1\/Team10\/project2\/Prokka_output\/sprot\.faa | parallel --gnu --plain -j 8 --block 8067 --recstart '>' --pipe blastp -query - -db /home/linuxbrew/.linuxbrew/Cellar/prokka/1.13/bin/../db/kingdom/Bacteria/sprot -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/projects\/micb405\/project1\/Team10\/project2\/Prokka_output\/sprot\.blast 2> /dev/null
+[20:35:25] Modify product: Probable dual-specificity RNA methyltransferase RlmN => putative dual-specificity RNA methyltransferase RlmN
+[20:35:25] Modify product: Uncharacterized ABC transporter ATP-binding protein YadG => putative ABC transporter ATP-binding protein YadG
+[20:35:25] Modify product: Uncharacterized protein YggR => putative protein YggR
+[20:35:25] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[20:35:25] Modify product: Probable GTP-binding protein EngB => putative GTP-binding protein EngB
+[20:35:25] Modify product: Probable manganese-dependent inorganic pyrophosphatase => putative manganese-dependent inorganic pyrophosphatase
+[20:35:26] Modify product: Uncharacterized signaling protein PA1727 => putative signaling protein
+[20:35:26] Modify product: GTP-binding protein TypA/BipA homolog => GTP-binding protein TypA/BipA 
+[20:35:26] Cleaned 8 /product names
+[20:35:26] Deleting unwanted file: /projects/micb405/project1/Team10/project2/Prokka_output/sprot.faa
+[20:35:26] Deleting unwanted file: /projects/micb405/project1/Team10/project2/Prokka_output/sprot.blast
+[20:35:26] There are still 1500 unannotated CDS left (started with 1676)
+[20:35:26] Will use hmmer3 to search against /home/linuxbrew/.linuxbrew/Cellar/prokka/1.13/bin/../db/hmm/HAMAP.hmm with 8 CPUs
+[20:35:26] Running: cat \/projects\/micb405\/project1\/Team10\/project2\/Prokka_output\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 8 --block 7067 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-06 --cpu 1 /home/linuxbrew/.linuxbrew/Cellar/prokka/1.13/bin/../db/hmm/HAMAP.hmm /dev/stdin > \/projects\/micb405\/project1\/Team10\/project2\/Prokka_output\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[20:35:43] Deleting unwanted file: /projects/micb405/project1/Team10/project2/Prokka_output/HAMAP.hmm.faa
+[20:35:43] Deleting unwanted file: /projects/micb405/project1/Team10/project2/Prokka_output/HAMAP.hmm.hmmer3
+[20:35:43] Labelling remaining 1446 proteins as 'hypothetical protein'
+[20:35:43] Possible /pseudo 'S-adenosylmethionine synthase' at SaanichInlet_120m_133_4 position 1349
+[20:35:43] Possible /pseudo 'Protein LemA' at SaanichInlet_120m_133_4 position 2625
+[20:35:43] Possible /pseudo 'DNA replication and repair protein RecF' at SaanichInlet_120m_133_5 position 15184
+[20:35:43] Possible /pseudo 'Cell division protein FtsZ' at SaanichInlet_120m_133_10 position 6576
+[20:35:43] Possible /pseudo '50S ribosomal protein L13' at SaanichInlet_120m_133_22 position 11491
+[20:35:43] Possible /pseudo 'ATP synthase subunit beta' at SaanichInlet_120m_133_28 position 1998
+[20:35:43] Possible /pseudo 'ATP synthase subunit beta' at SaanichInlet_120m_133_28 position 2310
+[20:35:43] Possible /pseudo 'Ribosome-recycling factor' at SaanichInlet_120m_133_31 position 20163
+[20:35:43] Possible /pseudo 'tRNA N6-adenosine threonylcarbamoyltransferase' at SaanichInlet_120m_133_37 position 493
+[20:35:43] Possible /pseudo 'Aspartate--tRNA(Asp/Asn) ligase' at SaanichInlet_120m_133_38 position 8314
+[20:35:43] Possible /pseudo 'ATP synthase subunit c' at SaanichInlet_120m_133_55 position 1847
+[20:35:43] Possible /pseudo 'Elongation factor 4' at SaanichInlet_120m_133_77 position 61920
+[20:35:43] Possible /pseudo 'UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase' at SaanichInlet_120m_133_88 position 7940
+[20:35:43] Possible /pseudo 'DNA gyrase subunit A' at SaanichInlet_120m_133_95 position 5971
+[20:35:43] Possible /pseudo 'DNA gyrase subunit A' at SaanichInlet_120m_133_95 position 6133
+[20:35:43] Possible /pseudo 'DNA gyrase subunit A' at SaanichInlet_120m_133_95 position 6430
+[20:35:43] Possible /pseudo 'DNA-directed RNA polymerase subunit beta' at SaanichInlet_120m_133_102 position 563
+[20:35:43] Possible /pseudo 'DNA-directed RNA polymerase subunit beta' at SaanichInlet_120m_133_102 position 1292
+[20:35:43] Possible /pseudo 'DNA-directed RNA polymerase subunit beta' at SaanichInlet_120m_133_102 position 1703
+[20:35:43] Possible /pseudo 'DNA-directed RNA polymerase subunit beta'' at SaanichInlet_120m_133_102 position 4175
+[20:35:43] Possible /pseudo 'DNA-directed RNA polymerase subunit beta'' at SaanichInlet_120m_133_102 position 5741
+[20:35:43] Possible /pseudo 'Peptide chain release factor 1' at SaanichInlet_120m_133_103 position 10022
+[20:35:43] Possible /pseudo 'Ribonucleoside-diphosphate reductase subunit beta' at SaanichInlet_120m_133_105 position 6192
+[20:35:43] Possible /pseudo 'Ribonucleoside-diphosphate reductase subunit beta' at SaanichInlet_120m_133_105 position 6513
+[20:35:43] Possible /pseudo 'Elongation factor G' at SaanichInlet_120m_133_106 position 6774
+[20:35:43] Possible /pseudo 'Elongation factor G' at SaanichInlet_120m_133_106 position 7122
+[20:35:43] Possible /pseudo 'Elongation factor G' at SaanichInlet_120m_133_106 position 8037
+[20:35:43] Possible /pseudo 'GTPase Der' at SaanichInlet_120m_133_111 position 697
+[20:35:43] Possible /pseudo '30S ribosomal protein S2' at SaanichInlet_120m_133_116 position 13392
+[20:35:43] Possible /pseudo 'RNA polymerase sigma factor RpoD' at SaanichInlet_120m_133_117 position 2199
+[20:35:43] Possible /pseudo 'UvrABC system protein B' at SaanichInlet_120m_133_125 position 4397
+[20:35:43] Possible /pseudo 'UvrABC system protein B' at SaanichInlet_120m_133_125 position 4688
+[20:35:43] Possible /pseudo 'DNA ligase' at SaanichInlet_120m_133_128 position 2263
+[20:35:43] Possible /pseudo 'Lysine--tRNA ligase' at SaanichInlet_120m_133_133 position 4824
+[20:35:43] Possible /pseudo 'Lysine--tRNA ligase' at SaanichInlet_120m_133_133 position 5001
+[20:35:43] Possible /pseudo 'Elongation factor Tu' at SaanichInlet_120m_133_133 position 19915
+[20:35:43] Found 173 unique /gene codes.
+[20:35:43] Fixed 2 duplicate /gene - tig_1 tig_2
+[20:35:43] Fixed 2 duplicate /gene - ftsZ_1 ftsZ_2
+[20:35:43] Fixed 4 duplicate /gene - fusA_1 fusA_2 fusA_3 fusA_4
+[20:35:43] Fixed 2 duplicate /gene - relA_1 relA_2
+[20:35:43] Fixed 2 duplicate /gene - metK_1 metK_2
+[20:35:43] Fixed 2 duplicate /gene - tsf_1 tsf_2
+[20:35:43] Fixed 2 duplicate /gene - der_1 der_2
+[20:35:43] Fixed 2 duplicate /gene - dnaJ_1 dnaJ_2
+[20:35:43] Fixed 2 duplicate /gene - rplM_1 rplM_2
+[20:35:43] Fixed 3 duplicate /gene - lysS_1 lysS_2 lysS_3
+[20:35:43] Fixed 2 duplicate /gene - pilT_1 pilT_2
+[20:35:43] Fixed 3 duplicate /gene - rpoC_1 rpoC_2 rpoC_3
+[20:35:43] Fixed 2 duplicate /gene - recF_1 recF_2
+[20:35:43] Fixed 2 duplicate /gene - pnp_1 pnp_2
+[20:35:43] Fixed 3 duplicate /gene - atpH_1 atpH_2 atpH_3
+[20:35:43] Fixed 2 duplicate /gene - ppaC_1 ppaC_2
+[20:35:43] Fixed 2 duplicate /gene - serS_1 serS_2
+[20:35:43] Fixed 2 duplicate /gene - murE_1 murE_2
+[20:35:43] Fixed 3 duplicate /gene - prfA_1 prfA_2 prfA_3
+[20:35:43] Fixed 2 duplicate /gene - frr_1 frr_2
+[20:35:43] Fixed 2 duplicate /gene - rpoD_1 rpoD_2
+[20:35:43] Fixed 2 duplicate /gene - lemA_1 lemA_2
+[20:35:43] Fixed 2 duplicate /gene - aspS_1 aspS_2
+[20:35:43] Fixed 5 duplicate /gene - rpoB_1 rpoB_2 rpoB_3 rpoB_4 rpoB_5
+[20:35:43] Fixed 3 duplicate /gene - gyrA_1 gyrA_2 gyrA_3
+[20:35:43] Fixed 3 duplicate /gene - nrdB_1 nrdB_2 nrdB_3
+[20:35:43] Fixed 2 duplicate /gene - rpsB_1 rpsB_2
+[20:35:43] Fixed 3 duplicate /gene - atpD_1 atpD_2 atpD_3
+[20:35:43] Fixed 4 duplicate /gene - uvrB_1 uvrB_2 uvrB_3 uvrB_4
+[20:35:43] Fixed 3 duplicate /gene - lepA_1 lepA_2 lepA_3
+[20:35:43] Fixed 2 duplicate /gene - ligA_1 ligA_2
+[20:35:43] Fixed 2 duplicate /gene - tsaD_1 tsaD_2
+[20:35:43] Fixed 2 duplicate /gene - cshA_1 cshA_2
+[20:35:43] Fixed 2 duplicate /gene - mutS_1 mutS_2
+[20:35:43] Fixed 2 duplicate /gene - secA_1 secA_2
+[20:35:43] Fixed 2 duplicate /gene - valS_1 valS_2
+[20:35:43] Fixed 2 duplicate /gene - typA_1 typA_2
+[20:35:43] Fixed 37 colliding /gene names.
+[20:35:43] Adding /locus_tag identifiers
+[20:35:43] Assigned 1711 locus_tags to CDS and RNA features.
+[20:35:43] Writing outputs to /projects/micb405/project1/Team10/project2/Prokka_output/
+[20:35:44] Generating annotation statistics file
+[20:35:44] Generating Genbank and Sequin files
+[20:35:44] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.13 from https://github.com/tseemann/prokka' -Z \/projects\/micb405\/project1\/Team10\/project2\/Prokka_output\/MAG133\.err -i \/projects\/micb405\/project1\/Team10\/project2\/Prokka_output\/MAG133\.fsa 2> /dev/null
+[20:35:47] Could not run command: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.13 from https://github.com/tseemann/prokka' -Z \/projects\/micb405\/project1\/Team10\/project2\/Prokka_output\/MAG133\.err -i \/projects\/micb405\/project1\/Team10\/project2\/Prokka_output\/MAG133\.fsa 2> /dev/null

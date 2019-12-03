@@ -1,0 +1,2478 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MAG168_00001	CDS	225	adeP		COG2252	Adenine permease AdeP
+MAG168_00002	CDS	1320	xanP		COG2233	Xanthine permease XanP
+MAG168_00003	CDS	897	pgdA	3.5.1.-		Peptidoglycan deacetylase
+MAG168_00004	CDS	1437		3.5.4.40	COG1816	Aminodeoxyfutalosine deaminase
+MAG168_00005	CDS	2439	fptA		COG4773	Fe(3+)-pyochelin receptor
+MAG168_00006	CDS	216				hypothetical protein
+MAG168_00007	CDS	1083				hypothetical protein
+MAG168_00008	CDS	987		3.5.4.2	COG1816	Adenine deaminase
+MAG168_00009	CDS	1071	alc	3.5.3.4		allantoicase
+MAG168_00010	CDS	498	allA	4.3.2.3	COG3194	Ureidoglycolate lyase
+MAG168_00011	CDS	1143				hypothetical protein
+MAG168_00012	CDS	636				hypothetical protein
+MAG168_00013	CDS	1470		3.1.1.1	COG2272	Carboxylesterase
+MAG168_00014	CDS	861	cutM	1.2.5.3		Carbon monoxide dehydrogenase medium chain
+MAG168_00015	CDS	492	ndhS	1.17.1.5		Nicotinate dehydrogenase small FeS subunit
+MAG168_00016	CDS	2262	hcrA	1.3.7.9		4-hydroxybenzoyl-CoA reductase subunit alpha
+MAG168_00017	CDS	243				hypothetical protein
+MAG168_00018	CDS	381				hypothetical protein
+MAG168_00019	CDS	1014	glnII	6.3.1.2	COG0174	Glutamine synthetase
+MAG168_00020	CDS	1941	typA		COG1217	GTP-binding protein TypA/BipA 
+MAG168_00021	CDS	972	pip_1	3.4.11.5		Proline iminopeptidase
+MAG168_00022	CDS	438	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+MAG168_00023	CDS	771	tatC		COG0805	Sec-independent protein translocase protein TatC
+MAG168_00024	CDS	348	tatB		COG1826	Sec-independent protein translocase protein TatB
+MAG168_00025	CDS	228	tatA		COG1826	Sec-independent protein translocase protein TatA
+MAG168_00026	CDS	342	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+MAG168_00027	CDS	396	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+MAG168_00028	CDS	1659	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+MAG168_00029	CDS	789	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+MAG168_00030	CDS	366				hypothetical protein
+MAG168_00031	CDS	1335	hslU		COG1220	ATP-dependent protease ATPase subunit HslU
+MAG168_00032	CDS	552	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+MAG168_00033	CDS	510	ftsN			Cell division protein FtsN
+MAG168_00034	CDS	1020	priA	3.6.4.-	COG1198	Primosomal protein N'
+MAG168_00035	CDS	849	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+MAG168_00036	CDS	2418	gyrB	5.99.1.3	COG0187	DNA gyrase subunit B
+MAG168_00037	CDS	1089	recF		COG1195	DNA replication and repair protein RecF
+MAG168_00038	CDS	1104	dnaN_1		COG0592	Beta sliding clamp
+MAG168_00039	CDS	1119	dnaN_2		COG0592	Beta sliding clamp
+MAG168_00040	CDS	1344	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+MAG168_00041	CDS	753				hypothetical protein
+MAG168_00042	CDS	336				hypothetical protein
+MAG168_00043	CDS	1761	mctC		COG4147	Monocarboxylic acid transporter
+MAG168_00044	CDS	1371	ipuC	6.3.2.-		Glutamate--isopropylamine ligase
+MAG168_00045	CDS	726	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+MAG168_00046	CDS	528				hypothetical protein
+MAG168_00047	CDS	1143				hypothetical protein
+MAG168_00048	CDS	549				hypothetical protein
+MAG168_00049	CDS	1365	antA_1	1.14.12.1	COG4638	Anthranilate 1,2-dioxygenase large subunit
+MAG168_00050	CDS	1371	uidB_1		COG2211	Glucuronide carrier protein
+MAG168_00051	CDS	1008	yfmJ_1	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+MAG168_00052	CDS	306				hypothetical protein
+MAG168_00053	CDS	609				hypothetical protein
+MAG168_00054	CDS	825				hypothetical protein
+MAG168_00055	CDS	846	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+MAG168_00056	CDS	1035	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+MAG168_00057	CDS	1089				hypothetical protein
+MAG168_00058	CDS	1386				hypothetical protein
+MAG168_00059	CDS	1410		1.13.11.-	COG3670	Carotenoid cleavage oxygenase
+MAG168_00060	CDS	1233	entS_1			Enterobactin exporter EntS
+MAG168_00061	CDS	486				hypothetical protein
+MAG168_00062	CDS	1260	nanT			Sialic acid transporter NanT
+MAG168_00063	CDS	1371		1.13.11.-	COG3670	Carotenoid cleavage oxygenase
+MAG168_00064	CDS	630				hypothetical protein
+MAG168_00065	CDS	420				hypothetical protein
+MAG168_00066	CDS	231				hypothetical protein
+MAG168_00067	CDS	867				hypothetical protein
+MAG168_00068	CDS	939	rbgA		COG1161	Ribosome biogenesis GTPase A
+MAG168_00069	CDS	711	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+MAG168_00070	CDS	525				hypothetical protein
+MAG168_00071	CDS	1344	yeeO_1		COG0534	putative FMN/FAD exporter YeeO
+MAG168_00072	CDS	378			COG1733	putative HTH-type transcriptional regulator
+MAG168_00073	CDS	969	ravA	3.6.3.-		ATPase RavA
+MAG168_00074	CDS	951			COG1721	putative protein
+MAG168_00075	CDS	588				hypothetical protein
+MAG168_00076	CDS	1029				hypothetical protein
+MAG168_00077	CDS	1779				hypothetical protein
+MAG168_00078	CDS	1644				hypothetical protein
+MAG168_00079	CDS	2679	pepN	3.4.11.2	COG0308	Aminopeptidase N
+MAG168_00080	CDS	819				hypothetical protein
+MAG168_00081	CDS	879	glpG	3.4.21.105	COG0705	Rhomboid protease GlpG
+MAG168_00082	CDS	1017	pucA	1.17.1.4	COG1975	putative xanthine dehydrogenase subunit A
+MAG168_00083	CDS	588	pucB		COG2068	Purine catabolism protein PucB
+MAG168_00084	CDS	867	nadK	2.7.1.23	COG0061	NAD kinase
+MAG168_00085	CDS	798	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+MAG168_00086	CDS	1197	moeA	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase
+MAG168_00087	CDS	180				hypothetical protein
+MAG168_00088	CDS	621				hypothetical protein
+MAG168_00089	CDS	1026				hypothetical protein
+MAG168_00090	CDS	744	rebM	2.1.1.164		Demethylrebeccamycin-D-glucose O-methyltransferase
+MAG168_00091	CDS	1236	pimA	2.4.1.345	COG0438	Phosphatidyl-myo-inositol mannosyltransferase
+MAG168_00092	CDS	948	metR			HTH-type transcriptional regulator MetR
+MAG168_00093	CDS	588	pdxH_1	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+MAG168_00094	CDS	279				hypothetical protein
+MAG168_00095	CDS	171				hypothetical protein
+MAG168_00096	CDS	831	tauD_1	1.14.11.17	COG2175	Alpha-ketoglutarate-dependent taurine dioxygenase
+MAG168_00097	CDS	927		3.3.2.10		Soluble epoxide hydrolase
+MAG168_00098	CDS	1080			COG4663	Monocarboxylate 2-oxoacid-binding periplasmic protein
+MAG168_00099	CDS	540				hypothetical protein
+MAG168_00100	CDS	1350	siaT_1		COG1593	Sialic acid TRAP transporter permease protein SiaT
+MAG168_00101	CDS	264				hypothetical protein
+MAG168_00102	CDS	1242	amtB_1			Ammonia channel
+MAG168_00103	CDS	549				hypothetical protein
+MAG168_00104	CDS	681	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_00105	CDS	390				hypothetical protein
+MAG168_00106	CDS	243				hypothetical protein
+MAG168_00107	CDS	411	ftsE		COG2884	Cell division ATP-binding protein FtsE
+MAG168_00108	CDS	969	ftsX		COG2177	Cell division protein FtsX
+MAG168_00109	CDS	858	rpoH_1		COG0568	RNA polymerase sigma factor RpoH
+MAG168_00110	CDS	393				hypothetical protein
+MAG168_00111	CDS	663	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+MAG168_00112	CDS	1149	hemN	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+MAG168_00113	CDS	633		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+MAG168_00114	CDS	435				hypothetical protein
+MAG168_00115	CDS	591				hypothetical protein
+MAG168_00116	CDS	801	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+MAG168_00117	CDS	693			COG0325	Pyridoxal phosphate homeostasis protein
+MAG168_00118	CDS	1038	pilT_1		COG2805	Twitching mobility protein
+MAG168_00119	CDS	402	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+MAG168_00120	CDS	531				hypothetical protein
+MAG168_00121	CDS	792				hypothetical protein
+MAG168_00122	CDS	948	gshB_1	6.3.2.3	COG0189	Glutathione synthetase
+MAG168_00123	CDS	459				hypothetical protein
+MAG168_00124	CDS	747	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+MAG168_00125	CDS	825	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+MAG168_00126	CDS	1809				hypothetical protein
+MAG168_00127	CDS	792			COG5285	putative protein
+MAG168_00128	CDS	705				hypothetical protein
+MAG168_00129	CDS	267				hypothetical protein
+MAG168_00130	CDS	339				hypothetical protein
+MAG168_00131	CDS	2784	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+MAG168_00132	CDS	219				hypothetical protein
+MAG168_00133	CDS	1314	pcnB	2.7.7.19	COG0617	Poly(A) polymerase I
+MAG168_00134	CDS	174				hypothetical protein
+MAG168_00135	CDS	864	gluQ	6.1.1.-	COG0008	Glutamyl-Q tRNA(Asp) synthetase
+MAG168_00136	CDS	1080	dksA_1		COG1734	RNA polymerase-binding transcription factor DksA
+MAG168_00137	CDS	1113		2.6.1.1		Aspartate aminotransferase
+MAG168_00138	CDS	720	sfsA		COG1489	Sugar fermentation stimulation protein A
+MAG168_00139	CDS	975	hmuU		COG0609	Hemin transport system permease protein HmuU
+MAG168_00140	CDS	789	hmuV	3.6.3.-	COG4559	Hemin import ATP-binding protein HmuV
+MAG168_00141	CDS	999	gsk	2.7.1.73	COG0524	Inosine-guanosine kinase
+MAG168_00142	CDS	1281	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+MAG168_00143	CDS	1749	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+MAG168_00144	CDS	714				hypothetical protein
+MAG168_00145	CDS	489				hypothetical protein
+MAG168_00146	CDS	348	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+MAG168_00147	CDS	660	mepM_1	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+MAG168_00148	CDS	255				hypothetical protein
+MAG168_00149	CDS	1638	dppE		COG4166	Dipeptide-binding protein DppE
+MAG168_00150	CDS	933	dppB		COG0601	Dipeptide transport system permease protein DppB
+MAG168_00151	CDS	1407	oppC		COG1173	Oligopeptide transport system permease protein OppC
+MAG168_00152	CDS	1041	oppD_1		COG0444	Oligopeptide transport ATP-binding protein OppD
+MAG168_00153	CDS	951	oppF_1		COG4608	Oligopeptide transport ATP-binding protein OppF
+MAG168_00154	CDS	534				hypothetical protein
+MAG168_00155	CDS	1833	cobT	6.6.1.2		Aerobic cobaltochelatase subunit CobT
+MAG168_00156	CDS	1203	cobS	6.6.1.2		Aerobic cobaltochelatase subunit CobS
+MAG168_00157	CDS	549	gpgP	3.1.3.85	COG0406	Glucosyl-3-phosphoglycerate phosphatase
+MAG168_00158	CDS	1023	holA	2.7.7.7	COG1466	DNA polymerase III subunit delta
+MAG168_00159	CDS	489	lptE			LPS-assembly lipoprotein LptE
+MAG168_00160	CDS	654	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+MAG168_00161	CDS	780	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+MAG168_00162	CDS	747	trmJ	2.1.1.200	COG0565	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ
+MAG168_00163	CDS	480	iscR		COG1959	HTH-type transcriptional regulator IscR
+MAG168_00164	CDS	1215	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+MAG168_00165	CDS	390	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+MAG168_00166	CDS	324	iscA		COG0316	Iron-binding protein IscA
+MAG168_00167	CDS	522	hscB		COG1076	Co-chaperone protein HscB
+MAG168_00168	CDS	1902	hscA		COG0443	Chaperone protein HscA
+MAG168_00169	CDS	339	fdx		COG0633	2Fe-2S ferredoxin
+MAG168_00170	CDS	195	iscX		COG2975	Protein IscX
+MAG168_00171	CDS	426	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+MAG168_00172	CDS	1122	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+MAG168_00173	CDS	765	lapB_1			Lipopolysaccharide assembly protein B
+MAG168_00174	CDS	633				hypothetical protein
+MAG168_00175	CDS	987		1.3.1.103		2-haloacrylate reductase
+MAG168_00176	CDS	2193	luxQ	2.7.13.3		Autoinducer 2 sensor kinase/phosphatase LuxQ
+MAG168_00177	CDS	1329	yagG_1		COG2211	Putative glycoside/cation symporter YagG
+MAG168_00178	CDS	348				hypothetical protein
+MAG168_00179	CDS	558	frr		COG0233	Ribosome-recycling factor
+MAG168_00180	CDS	750	pyrH	2.7.4.22	COG0528	Uridylate kinase
+MAG168_00181	CDS	849	tsf		COG0264	Elongation factor Ts
+MAG168_00182	CDS	903	rpsB		COG0052	30S ribosomal protein S2
+MAG168_00183	CDS	780	map_1	3.4.11.18	COG0024	Methionine aminopeptidase
+MAG168_00184	CDS	2730	glnD_1		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+MAG168_00185	CDS	297				hypothetical protein
+MAG168_00186	CDS	942	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+MAG168_00187	CDS	732	aat	2.3.2.6	COG2360	Leucyl/phenylalanyl-tRNA--protein transferase
+MAG168_00188	CDS	708	bpt	2.3.2.29	COG2935	Aspartate/glutamate leucyltransferase
+MAG168_00189	CDS	216	infA		COG0361	Translation initiation factor IF-1
+MAG168_00190	CDS	723	clpA		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpA
+MAG168_00191	CDS	1095		1.1.1.306		S-(hydroxymethyl)mycothiol dehydrogenase
+MAG168_00192	CDS	1398	aam_1	3.5.1.13	COG0154	Acylamidase
+MAG168_00193	CDS	882				hypothetical protein
+MAG168_00194	CDS	1878	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+MAG168_00195	CDS	1323	linC_1	1.14.13.151		Linalool 8-monooxygenase
+MAG168_00196	CDS	1812	ltaS1_1		COG1368	Lipoteichoic acid synthase 1
+MAG168_00197	CDS	1812				hypothetical protein
+MAG168_00198	CDS	258	cspA_1		COG1278	putative cold shock protein A
+MAG168_00199	CDS	381				hypothetical protein
+MAG168_00200	CDS	435				hypothetical protein
+MAG168_00201	CDS	810	bacC_1	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+MAG168_00202	CDS	978	nlhH_1	3.1.1.1	COG0657	Carboxylesterase NlhH
+MAG168_00203	CDS	1071				hypothetical protein
+MAG168_00204	CDS	387				hypothetical protein
+MAG168_00205	CDS	462	ethA	1.14.13.-		FAD-containing monooxygenase EthA
+MAG168_00206	CDS	246				hypothetical protein
+MAG168_00207	CDS	339	glnK		COG0347	Nitrogen regulatory protein P-II 2
+MAG168_00208	CDS	1368	thrC_1	4.2.3.1	COG0498	Threonine synthase
+MAG168_00209	CDS	717	yigB	3.1.3.104	COG1011	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB
+MAG168_00210	CDS	951	xerC		COG4973	Tyrosine recombinase XerC
+MAG168_00211	CDS	678				hypothetical protein
+MAG168_00212	CDS	849	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+MAG168_00213	CDS	1284	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+MAG168_00214	CDS	342	cyaY		COG1965	Iron-sulfur cluster assembly protein CyaY
+MAG168_00215	CDS	1386	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+MAG168_00216	CDS	930	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+MAG168_00217	CDS	747	hemD	4.2.1.75	COG1587	Uroporphyrinogen-III synthase
+MAG168_00218	CDS	1068	hemX		COG2959	Protein HemX
+MAG168_00219	CDS	1104				hypothetical protein
+MAG168_00220	CDS	702	ascD	1.17.1.-		CDP-6-deoxy-L-threo-D-glycero-4-hexulose-3-dehydrase reductase
+MAG168_00221	CDS	1200	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+MAG168_00222	CDS	300				hypothetical protein
+MAG168_00223	CDS	783	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_00224	CDS	1125	hemH	4.99.1.1	COG0276	Ferrochelatase
+MAG168_00225	tmRNA	380	ssrA			transfer-messenger RNA, SsrA
+MAG168_00226	CDS	1095	sph	3.1.4.12		Sphingomyelinase C
+MAG168_00227	CDS	372		3.5.1.23		Neutral ceramidase
+MAG168_00228	CDS	867		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+MAG168_00229	CDS	2394				hypothetical protein
+MAG168_00230	CDS	711	dsbA_1		COG0526	Thiol:disulfide interchange protein DsbA
+MAG168_00231	CDS	411				hypothetical protein
+MAG168_00232	CDS	903			COG2141	putative protein
+MAG168_00233	CDS	681	yfcG_1	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YfcG
+MAG168_00234	CDS	1269				hypothetical protein
+MAG168_00235	CDS	600		2.1.1.-	COG1901	Putative pseudouridine methyltransferase
+MAG168_00236	CDS	672				hypothetical protein
+MAG168_00237	CDS	780	fbiB	6.3.2.31	COG0778	Coenzyme F420:L-glutamate ligase
+MAG168_00238	CDS	978	cofD	2.7.8.28	COG0391	2-phospho-L-lactate transferase
+MAG168_00239	CDS	690	cofC	2.7.7.68	COG1920	2-phospho-L-lactate guanylyltransferase
+MAG168_00240	CDS	2496	fbiC	2.5.1.77	COG1060	FO synthase
+MAG168_00241	CDS	996		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+MAG168_00242	CDS	1005			COG2141	putative protein
+MAG168_00243	CDS	1035		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+MAG168_00244	CDS	1143				hypothetical protein
+MAG168_00245	CDS	762	paaF_1	4.2.1.17	COG1024	2,3-dehydroadipyl-CoA hydratase
+MAG168_00246	CDS	783	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_00247	CDS	1044				hypothetical protein
+MAG168_00248	CDS	1098		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+MAG168_00249	CDS	414				hypothetical protein
+MAG168_00250	CDS	474				hypothetical protein
+MAG168_00251	CDS	1671	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+MAG168_00252	CDS	1317	spuC	2.6.1.113	COG0161	Putrescine--pyruvate aminotransferase
+MAG168_00253	CDS	1371	yhdG		COG0531	putative amino acid permease YhdG
+MAG168_00254	CDS	1167	fadA5	2.3.1.16		Steroid 3-ketoacyl-CoA thiolase
+MAG168_00255	CDS	1803	pckG	4.1.1.32	COG1274	Phosphoenolpyruvate carboxykinase [GTP]
+MAG168_00256	CDS	2073	rimO	2.8.4.4		Ribosomal protein S12 methylthiotransferase RimO
+MAG168_00257	CDS	1692	fadD3_1	6.2.1.41	COG0318	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+MAG168_00258	CDS	639	lon_1	3.4.21.53		Lon protease
+MAG168_00259	CDS	1410	yagG_2		COG2211	Putative glycoside/cation symporter YagG
+MAG168_00260	CDS	501	slyD_1	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+MAG168_00261	CDS	261				hypothetical protein
+MAG168_00262	CDS	1197		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+MAG168_00263	CDS	1107	acdA_1	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+MAG168_00264	CDS	1023				hypothetical protein
+MAG168_00265	CDS	672	chrR		COG3806	Anti-sigma-E factor ChrR
+MAG168_00266	CDS	597	rpoE_1		COG1595	ECF RNA polymerase sigma factor RpoE
+MAG168_00267	CDS	1374	trkA		COG0569	Trk system potassium uptake protein TrkA
+MAG168_00268	CDS	1263	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+MAG168_00269	CDS	951	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+MAG168_00270	CDS	513	def_1	3.5.1.88	COG0242	Peptide deformylase
+MAG168_00271	CDS	1053				hypothetical protein
+MAG168_00272	CDS	915	dprA		COG0758	DNA processing protein DprA
+MAG168_00273	CDS	504	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+MAG168_00274	CDS	570	tsaC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+MAG168_00275	CDS	819	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+MAG168_00276	CDS	2037	prlC	3.4.24.70	COG0339	Oligopeptidase A
+MAG168_00277	CDS	198				hypothetical protein
+MAG168_00278	CDS	1179	ctaC	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+MAG168_00279	CDS	1599	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+MAG168_00280	CDS	558	ctaG		COG3175	Cytochrome c oxidase assembly protein CtaG
+MAG168_00281	CDS	915	ctaE	1.9.3.1	COG1845	Cytochrome c oxidase subunit 3
+MAG168_00282	CDS	381	rplL			50S ribosomal protein L7/L12
+MAG168_00283	CDS	528	rplJ		COG0244	50S ribosomal protein L10
+MAG168_00284	CDS	696	rplA		COG0081	50S ribosomal protein L1
+MAG168_00285	CDS	432	rplK		COG0080	50S ribosomal protein L11
+MAG168_00286	CDS	546	nusG		COG0250	Transcription termination/antitermination protein NusG
+MAG168_00287	CDS	366	secE		COG0690	Protein translocase subunit SecE
+MAG168_00288	tRNA	76				tRNA-Trp(cca)
+MAG168_00289	CDS	1191	tuf1_1			Elongation factor Tu
+MAG168_00290	CDS	2097	fusA		COG0480	Elongation factor G
+MAG168_00291	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+MAG168_00292	CDS	375	rpsL		COG0048	30S ribosomal protein S12
+MAG168_00293	CDS	2442	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+MAG168_00294	CDS	801	crt_1	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+MAG168_00295	CDS	1215	pheC			Cyclohexadienyl dehydratase
+MAG168_00296	CDS	939	ephA_1	3.3.2.10		Epoxide hydrolase A
+MAG168_00297	CDS	876		3.1.1.99		6-deoxy-6-sulfogluconolactonase
+MAG168_00298	CDS	426				hypothetical protein
+MAG168_00299	CDS	573	ycgR_1			Flagellar brake protein YcgR
+MAG168_00300	tRNA	91				tRNA-Ser(gga)
+MAG168_00301	CDS	1194				hypothetical protein
+MAG168_00302	CDS	273				hypothetical protein
+MAG168_00303	CDS	231				hypothetical protein
+MAG168_00304	CDS	1353	antA_2	1.14.12.1	COG4638	Anthranilate 1,2-dioxygenase large subunit
+MAG168_00305	CDS	1074	fgd2_1	1.1.98.-	COG2141	F420-dependent hydroxymycolic acid dehydrogenase
+MAG168_00306	CDS	1041	rbn_1	3.1.-.-	COG1234	Ribonuclease BN
+MAG168_00307	CDS	783	paaG_1	5.3.3.18	COG1024	1,2-epoxyphenylacetyl-CoA isomerase
+MAG168_00308	CDS	1143				hypothetical protein
+MAG168_00309	CDS	1173	acdA_2	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+MAG168_00310	CDS	1140	yjiB_1	1.14.-.-	COG2124	Putative cytochrome P450 YjiB
+MAG168_00311	CDS	1257	antA_3	1.14.12.1	COG4638	Anthranilate 1,2-dioxygenase large subunit
+MAG168_00312	CDS	612		2.5.1.18		Glutathione S-transferase
+MAG168_00313	CDS	513				hypothetical protein
+MAG168_00314	CDS	474				hypothetical protein
+MAG168_00315	CDS	1830	sppA	3.4.21.-	COG0616	Protease 4
+MAG168_00316	CDS	1086				hypothetical protein
+MAG168_00317	CDS	798	rhlG	1.1.1.100		Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase
+MAG168_00318	CDS	1467	rpoD		COG0568	RNA polymerase sigma factor RpoD
+MAG168_00319	CDS	435				hypothetical protein
+MAG168_00320	CDS	957	sadH_1	1.-.-.-		Putative oxidoreductase SadH
+MAG168_00321	CDS	873				hypothetical protein
+MAG168_00322	CDS	972	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+MAG168_00323	CDS	1311	mepA		COG0534	Multidrug export protein MepA
+MAG168_00324	CDS	1248	uhpC_1		COG2271	Membrane sensor protein UhpC
+MAG168_00325	CDS	1236	flp			Protein flp
+MAG168_00326	CDS	615				hypothetical protein
+MAG168_00327	CDS	312				hypothetical protein
+MAG168_00328	CDS	2043	fyuA_1		COG1629	Pesticin receptor
+MAG168_00329	CDS	1227	thrC_2	4.2.3.1	COG0498	Threonine synthase
+MAG168_00330	CDS	1413	aam_2	3.5.1.13	COG0154	Acylamidase
+MAG168_00331	CDS	1188	uctC_1	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+MAG168_00332	CDS	405				hypothetical protein
+MAG168_00333	CDS	1152	mmgC_1	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+MAG168_00334	CDS	1170				hypothetical protein
+MAG168_00335	CDS	870				hypothetical protein
+MAG168_00336	CDS	1596	glpD	1.1.5.3	COG0578	Aerobic glycerol-3-phosphate dehydrogenase
+MAG168_00337	CDS	504				hypothetical protein
+MAG168_00338	CDS	888		1.1.1.-	COG1028	Putative short-chain type dehydrogenase/reductase
+MAG168_00339	CDS	1416	ylmA	3.6.3.-	COG1119	putative ABC transporter ATP-binding protein YlmA
+MAG168_00340	CDS	1473	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+MAG168_00341	CDS	858	rdpA_1	1.14.11.44		(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+MAG168_00342	CDS	756				hypothetical protein
+MAG168_00343	CDS	1452	yicJ_1		COG2211	Inner membrane symporter YicJ
+MAG168_00344	CDS	1302				hypothetical protein
+MAG168_00345	CDS	888	htpX	3.4.24.-	COG0501	Protease HtpX
+MAG168_00346	CDS	1158		1.3.99.-	COG1960	Acyl-CoA dehydrogenase fadE12
+MAG168_00347	CDS	810	ycbX		COG0633	putative protein YcbX
+MAG168_00348	CDS	768				hypothetical protein
+MAG168_00349	CDS	615				hypothetical protein
+MAG168_00350	CDS	252				hypothetical protein
+MAG168_00351	CDS	228				hypothetical protein
+MAG168_00352	CDS	1656			COG3653	putative protein
+MAG168_00353	CDS	1515		1.14.13.-		Putative epoxidase LasC
+MAG168_00354	CDS	540				hypothetical protein
+MAG168_00355	CDS	1671	ettA		COG0488	Energy-dependent translational throttle protein EttA
+MAG168_00356	CDS	1368	radA	3.6.4.-	COG1066	DNA repair protein RadA
+MAG168_00357	CDS	1071	alr	5.1.1.1		Alanine racemase
+MAG168_00358	CDS	1371	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+MAG168_00359	CDS	462	rplI		COG0359	50S ribosomal protein L9
+MAG168_00360	CDS	852				hypothetical protein
+MAG168_00361	CDS	228	rpsR		COG0238	30S ribosomal protein S18
+MAG168_00362	CDS	450	rpsF		COG0360	30S ribosomal protein S6
+MAG168_00363	CDS	738	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+MAG168_00364	CDS	2301	rnr	3.1.13.1	COG0557	Ribonuclease R
+MAG168_00365	tRNA	87				tRNA-Leu(cag)
+MAG168_00366	CDS	1056	hcxB	1.1.1.-	COG2055	Hydroxycarboxylate dehydrogenase B
+MAG168_00367	CDS	888		1.1.1.184		Aldo/keto reductase
+MAG168_00368	CDS	501	linC_2	1.14.13.151		Linalool 8-monooxygenase
+MAG168_00369	CDS	216				hypothetical protein
+MAG168_00370	CDS	477	bfr	1.16.3.1	COG2193	Bacterioferritin
+MAG168_00371	CDS	198				hypothetical protein
+MAG168_00372	CDS	861			COG1305	putative protein
+MAG168_00373	CDS	873				hypothetical protein
+MAG168_00374	CDS	687	lepB_1	3.4.21.89	COG0681	Signal peptidase I
+MAG168_00375	CDS	351				hypothetical protein
+MAG168_00376	CDS	735			COG1357	Pentapeptide repeat protein
+MAG168_00377	CDS	732	fklB	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+MAG168_00378	CDS	2349	prc	3.4.21.102	COG0793	Tail-specific protease
+MAG168_00379	CDS	657	nox	1.6.99.3	COG0778	NADH dehydrogenase
+MAG168_00380	CDS	381				hypothetical protein
+MAG168_00381	CDS	423				hypothetical protein
+MAG168_00382	CDS	927				hypothetical protein
+MAG168_00383	CDS	762	echA8_1	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+MAG168_00384	CDS	1044			COG2220	putative protein
+MAG168_00385	CDS	312				hypothetical protein
+MAG168_00386	CDS	726				hypothetical protein
+MAG168_00387	CDS	423				hypothetical protein
+MAG168_00388	CDS	1875				hypothetical protein
+MAG168_00389	CDS	696	nfnB	1.-.-.-	COG0778	Nitroreductase NfnB
+MAG168_00390	CDS	1185	uctC_2	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+MAG168_00391	CDS	1428	aam_3	3.5.1.13	COG0154	Acylamidase
+MAG168_00392	CDS	1662	yeaW_1	1.14.13.-	COG4638	Carnitine monooxygenase oxygenase subunit
+MAG168_00393	CDS	1308	ampG_1		COG0477	Protein AmpG
+MAG168_00394	CDS	1194	uctC_3	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+MAG168_00395	CDS	1353	mdtK		COG0534	Multidrug resistance protein MdtK
+MAG168_00396	CDS	828			COG5285	putative protein
+MAG168_00397	CDS	1392	norM		COG0534	Multidrug resistance protein NorM
+MAG168_00398	CDS	498	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+MAG168_00399	CDS	822	vanX	3.4.13.22		D-alanyl-D-alanine dipeptidase
+MAG168_00400	CDS	480				hypothetical protein
+MAG168_00401	CDS	321				hypothetical protein
+MAG168_00402	tRNA	77				tRNA-Arg(tcg)
+MAG168_00403	CDS	1248	yjiB_2	1.14.-.-	COG2124	Putative cytochrome P450 YjiB
+MAG168_00404	CDS	324	ndoA			Naphthalene 1,2-dioxygenase system, ferredoxin component
+MAG168_00405	CDS	531				hypothetical protein
+MAG168_00406	CDS	1071	pknD	2.7.11.1	COG0515	Serine/threonine-protein kinase PknD
+MAG168_00407	CDS	732	prpC_1	3.1.3.16	COG0631	Protein phosphatase PrpC
+MAG168_00408	CDS	1560			COG3653	putative protein
+MAG168_00409	CDS	150				hypothetical protein
+MAG168_00410	CDS	753	etfB			Electron transfer flavoprotein subunit beta
+MAG168_00411	CDS	930	etfA		COG2025	Electron transfer flavoprotein subunit alpha
+MAG168_00412	CDS	582	ada		COG0350	Bifunctional transcriptional activator/DNA repair enzyme Ada
+MAG168_00413	CDS	957	dcsD	2.6.99.3		O-ureido-L-serine synthase
+MAG168_00414	CDS	1014	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+MAG168_00415	CDS	921	pcpR			PCP degradation transcriptional activation protein
+MAG168_00416	CDS	1524	epsE_1		COG2804	Type II secretion system protein E
+MAG168_00417	CDS	1230	epsF_1		COG1459	Type II secretion system protein F
+MAG168_00418	CDS	438	xcpT		COG2165	Type II secretion system protein G
+MAG168_00419	CDS	540				hypothetical protein
+MAG168_00420	CDS	390	xcpV		COG2165	Type II secretion system protein I
+MAG168_00421	CDS	723	xcpW		COG4795	Type II secretion system protein J
+MAG168_00422	CDS	339				hypothetical protein
+MAG168_00423	CDS	426				hypothetical protein
+MAG168_00424	CDS	2139	fdhF	1.17.1.9	COG0243	Formate dehydrogenase H
+MAG168_00425	CDS	705	bacC_2	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+MAG168_00426	CDS	552	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+MAG168_00427	CDS	573				hypothetical protein
+MAG168_00428	CDS	774				hypothetical protein
+MAG168_00429	CDS	285				hypothetical protein
+MAG168_00430	CDS	936			COG5285	putative protein
+MAG168_00431	CDS	831				hypothetical protein
+MAG168_00432	CDS	2877	uvrA_1			UvrABC system protein A
+MAG168_00433	CDS	786	pncC	3.5.1.42	COG1058	Nicotinamide-nucleotide amidohydrolase PncC
+MAG168_00434	CDS	906	gnl	3.1.1.17		Gluconolactonase
+MAG168_00435	CDS	441				hypothetical protein
+MAG168_00436	CDS	906	rimK	6.3.2.-	COG0189	Ribosomal protein S6--L-glutamate ligase
+MAG168_00437	CDS	1335	ycaD			putative MFS-type transporter YcaD
+MAG168_00438	CDS	945	zntB		COG0598	Zinc transport protein ZntB
+MAG168_00439	CDS	861	mscK		COG3264	Mechanosensitive channel MscK
+MAG168_00440	CDS	1536	betC	3.1.6.6	COG3119	Choline-sulfatase
+MAG168_00441	CDS	1812	cckA_1			Sensor kinase CckA
+MAG168_00442	CDS	96				hypothetical protein
+MAG168_00443	CDS	1329	ymfD			Bacillibactin exporter
+MAG168_00444	CDS	1059	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+MAG168_00445	CDS	1092	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+MAG168_00446	CDS	1179		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+MAG168_00447	CDS	876			COG0596	putative protein
+MAG168_00448	CDS	1314	mggB_1	3.1.3.-	COG0737	Mannosylglucosyl-3-phosphoglycerate phosphatase
+MAG168_00449	CDS	1089				hypothetical protein
+MAG168_00450	CDS	618	rluA	5.4.99.28	COG0564	Ribosomal large subunit pseudouridine synthase A
+MAG168_00451	CDS	363				hypothetical protein
+MAG168_00452	CDS	2232	icd	1.1.1.42	COG2838	Isocitrate dehydrogenase [NADP]
+MAG168_00453	CDS	1368	tcyP		COG1823	L-cystine uptake protein TcyP
+MAG168_00454	CDS	1188			COG2200	putative signaling protein
+MAG168_00455	CDS	849				hypothetical protein
+MAG168_00456	CDS	321	nupX_1		COG1972	Putative nucleoside permease NupX
+MAG168_00457	CDS	1329	glpC_1		COG0247	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+MAG168_00458	CDS	765				hypothetical protein
+MAG168_00459	CDS	411	gfa	4.4.1.22		Glutathione-dependent formaldehyde-activating enzyme
+MAG168_00460	CDS	366	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+MAG168_00461	CDS	1512	dtpA		COG3104	Dipeptide and tripeptide permease A
+MAG168_00462	CDS	729	menB	4.1.3.36		1,4-dihydroxy-2-naphthoyl-CoA synthase
+MAG168_00463	CDS	1776	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+MAG168_00464	CDS	1695		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+MAG168_00465	CDS	1383	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+MAG168_00466	CDS	684	baeB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase BaeB
+MAG168_00467	CDS	378	ridA_1	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+MAG168_00468	CDS	582	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+MAG168_00469	CDS	1167	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+MAG168_00470	CDS	438	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+MAG168_00471	CDS	543	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+MAG168_00472	CDS	435	pyrC	3.5.2.3	COG0418	Dihydroorotase
+MAG168_00473	CDS	657	rnt	3.1.13.-	COG0847	Ribonuclease T
+MAG168_00474	CDS	330	grxD		COG0278	Glutaredoxin 4
+MAG168_00475	CDS	1536	acxB	6.4.1.6	COG0146	Acetone carboxylase alpha subunit
+MAG168_00476	CDS	1167	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+MAG168_00477	CDS	1482	glpK	2.7.1.30		Glycerol kinase
+MAG168_00478	CDS	1851		3.2.1.52	COG3525	Beta-N-acetylhexosaminidase
+MAG168_00479	CDS	1188	fadA_1	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+MAG168_00480	CDS	633	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+MAG168_00481	CDS	918	lpxL	2.3.1.241	COG1560	Lipid A biosynthesis lauroyltransferase
+MAG168_00482	CDS	1764	epsE_2		COG2804	Type II secretion system protein E
+MAG168_00483	CDS	1272	argA	2.3.1.1	COG0548	Amino-acid acetyltransferase
+MAG168_00484	CDS	1047	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+MAG168_00485	CDS	1173	cyaA_1	4.6.1.1	COG2114	Adenylate cyclase 1
+MAG168_00486	CDS	1191	fabV	1.3.1.9	COG3007	Enoyl-[acyl-carrier-protein] reductase [NADH]
+MAG168_00487	CDS	837	lgt	2.4.99.-	COG0682	Prolipoprotein diacylglyceryl transferase
+MAG168_00488	CDS	723				hypothetical protein
+MAG168_00489	CDS	2259	ptsP	2.7.3.9	COG3605	Phosphoenolpyruvate-dependent phosphotransferase system
+MAG168_00490	CDS	510	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+MAG168_00491	CDS	669		3.1.3.-	COG0560	putative phosphatase
+MAG168_00492	CDS	1464	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+MAG168_00493	CDS	1371	gcvPA	1.4.4.2	COG0403	putative glycine dehydrogenase (decarboxylating) subunit 1
+MAG168_00494	CDS	396	gcvH		COG0509	Glycine cleavage system H protein
+MAG168_00495	CDS	1086	gcvT_1	2.1.2.10	COG0404	Aminomethyltransferase
+MAG168_00496	CDS	1179	ubiI	1.14.13.-	COG0654	2-octaprenylphenol hydroxylase
+MAG168_00497	CDS	534				hypothetical protein
+MAG168_00498	CDS	309				hypothetical protein
+MAG168_00499	CDS	321	zapA		COG3027	Cell division protein ZapA
+MAG168_00500	CDS	573		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+MAG168_00501	CDS	543	def_2	3.5.1.88	COG0242	Peptide deformylase
+MAG168_00502	CDS	684	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+MAG168_00503	CDS	1038	cbbA	4.1.2.13		Fructose-bisphosphate aldolase
+MAG168_00504	CDS	1206	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+MAG168_00505	CDS	1965	tktA	2.2.1.1	COG0021	Transketolase 1
+MAG168_00506	CDS	150				hypothetical protein
+MAG168_00507	CDS	1365	ffh		COG0541	Signal recognition particle protein
+MAG168_00508	CDS	156				hypothetical protein
+MAG168_00509	CDS	822	ypjD		COG4137	Inner membrane protein YpjD
+MAG168_00510	CDS	1236				hypothetical protein
+MAG168_00511	CDS	2955	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+MAG168_00512	CDS	1566	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+MAG168_00513	CDS	936	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+MAG168_00514	CDS	1125	lhgO	1.1.3.15	COG0579	L-2-hydroxyglutarate oxidase LhgO
+MAG168_00515	CDS	444				hypothetical protein
+MAG168_00516	CDS	2577	clpB		COG0542	Chaperone protein ClpB
+MAG168_00517	CDS	492	greB		COG0782	Transcription elongation factor GreB
+MAG168_00518	CDS	1110	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+MAG168_00519	CDS	477				hypothetical protein
+MAG168_00520	CDS	849	tesB_1	3.1.2.-	COG1946	Acyl-CoA thioesterase 2
+MAG168_00521	CDS	2244	comEC		COG0658	ComE operon protein 3
+MAG168_00522	CDS	480				hypothetical protein
+MAG168_00523	CDS	1227	lolC		COG4591	Lipoprotein-releasing system transmembrane protein LolC
+MAG168_00524	CDS	693	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+MAG168_00525	CDS	1236	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+MAG168_00526	CDS	597	ycgR_2			Flagellar brake protein YcgR
+MAG168_00527	CDS	222				hypothetical protein
+MAG168_00528	CDS	2235	lieA	3.4.24.-		Leupeptin-inactivating enzyme 1
+MAG168_00529	CDS	969	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+MAG168_00530	CDS	1137	lldD	1.1.-.-	COG1304	L-lactate dehydrogenase
+MAG168_00531	CDS	780	fabG_4	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_00532	CDS	801	caiD_1	4.2.1.149	COG1024	Carnitinyl-CoA dehydratase
+MAG168_00533	CDS	1434	rng	3.1.26.-	COG1530	Ribonuclease G
+MAG168_00534	CDS	3912				hypothetical protein
+MAG168_00535	CDS	864	nit1	3.5.1.-		Deaminated glutathione amidase
+MAG168_00536	CDS	564				hypothetical protein
+MAG168_00537	CDS	1347			COG2239	Magnesium transporter MgtE
+MAG168_00538	CDS	282	ptsH		COG1925	Phosphocarrier protein HPr
+MAG168_00539	CDS	891	rapZ		COG1660	RNase adapter protein RapZ
+MAG168_00540	CDS	456	ptsN		COG1762	Nitrogen regulatory protein
+MAG168_00541	CDS	318	hpf		COG1544	Ribosome hibernation promoting factor
+MAG168_00542	CDS	468	rpoN		COG1508	RNA polymerase sigma-54 factor
+MAG168_00543	CDS	366	glnL	2.7.13.3	COG3852	Sensory histidine kinase/phosphatase NtrB
+MAG168_00544	CDS	1434	glnG		COG2204	DNA-binding transcriptional regulator NtrC
+MAG168_00545	CDS	465	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+MAG168_00546	CDS	471	secB		COG1952	Protein-export protein SecB
+MAG168_00547	CDS	264	grxC		COG0695	Glutaredoxin 3
+MAG168_00548	CDS	414	yibN		COG0607	putative protein YibN
+MAG168_00549	CDS	1560	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MAG168_00550	CDS	1182	envC		COG4942	Murein hydrolase activator EnvC
+MAG168_00551	CDS	1287		3.4.21.-		putative CtpA-like serine protease
+MAG168_00552	CDS	744	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+MAG168_00553	CDS	588	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+MAG168_00554	CDS	387				hypothetical protein
+MAG168_00555	tRNA	76				tRNA-Gly(ccc)
+MAG168_00556	CDS	891				hypothetical protein
+MAG168_00557	CDS	480		1.11.1.15		Peroxiredoxin
+MAG168_00558	CDS	828				hypothetical protein
+MAG168_00559	CDS	264	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+MAG168_00560	CDS	1791	uidA	3.2.1.31	COG3250	Beta-glucuronidase
+MAG168_00561	CDS	867				hypothetical protein
+MAG168_00562	CDS	1200		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+MAG168_00563	CDS	414				hypothetical protein
+MAG168_00564	CDS	576				hypothetical protein
+MAG168_00565	CDS	837				Putative enoyl-CoA hydratase EchA13
+MAG168_00566	CDS	1137	uctC_4	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+MAG168_00567	CDS	846				Putative enoyl-CoA hydratase EchA13
+MAG168_00568	CDS	1215			COG1680	putative protein
+MAG168_00569	CDS	432	bluF			Blue light- and temperature-regulated antirepressor BluF
+MAG168_00570	CDS	2427				hypothetical protein
+MAG168_00571	CDS	276				hypothetical protein
+MAG168_00572	CDS	492				hypothetical protein
+MAG168_00573	CDS	303				hypothetical protein
+MAG168_00574	CDS	1467	gap2	1.2.1.-		Glyceraldehyde-3-phosphate dehydrogenase-like protein
+MAG168_00575	CDS	597	mshD	2.3.1.189		Mycothiol acetyltransferase
+MAG168_00576	CDS	1344	nqrA	1.6.5.8	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+MAG168_00577	CDS	1203	nqrB_1	1.6.5.8	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+MAG168_00578	CDS	1485	nusA		COG0195	Transcription termination/antitermination protein NusA
+MAG168_00579	CDS	447	rimP		COG0779	Ribosome maturation factor RimP
+MAG168_00580	tRNA	77				tRNA-Met(cat)
+MAG168_00581	tRNA	87				tRNA-Leu(gag)
+MAG168_00582	CDS	348	secG		COG1314	Protein-export membrane protein SecG
+MAG168_00583	CDS	738	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+MAG168_00584	CDS	1332	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+MAG168_00585	CDS	783	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+MAG168_00586	CDS	1932	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+MAG168_00587	CDS	639	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+MAG168_00588	CDS	303			COG1534	RNA-binding protein
+MAG168_00589	CDS	462	greA		COG0782	Transcription elongation factor GreA
+MAG168_00590	CDS	3255	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+MAG168_00591	CDS	561	carA_1	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+MAG168_00592	CDS	594	carA_2	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+MAG168_00593	CDS	834	dapB	1.17.1.8		4-hydroxy-tetrahydrodipicolinate reductase
+MAG168_00594	CDS	1125	dnaJ		COG0484	Chaperone protein DnaJ
+MAG168_00595	CDS	1926	dnaK_1		COG0443	Chaperone protein DnaK
+MAG168_00596	CDS	600	grpE			Protein GrpE
+MAG168_00597	CDS	1026	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+MAG168_00598	CDS	1671	recN		COG0497	DNA repair protein RecN
+MAG168_00599	CDS	414	fur		COG0735	Ferric uptake regulation protein
+MAG168_00600	CDS	357	bamE		COG2913	Outer membrane protein assembly factor BamE
+MAG168_00601	CDS	276	rnfH			Protein RnfH
+MAG168_00602	CDS	405	pasT		COG2867	Persistence and stress-resistance toxin PasT
+MAG168_00603	CDS	1434				hypothetical protein
+MAG168_00604	CDS	477	smpB		COG0691	SsrA-binding protein
+MAG168_00605	CDS	351				hypothetical protein
+MAG168_00606	CDS	222				hypothetical protein
+MAG168_00607	CDS	936	fgd2_2	1.1.98.-	COG2141	F420-dependent hydroxymycolic acid dehydrogenase
+MAG168_00608	CDS	1179	hsaA	1.14.14.12		Flavin-dependent monooxygenase, oxygenase subunit HsaA
+MAG168_00609	CDS	243				hypothetical protein
+MAG168_00610	CDS	135				hypothetical protein
+MAG168_00611	CDS	1125	tdh_1	1.1.1.103		L-threonine 3-dehydrogenase
+MAG168_00612	CDS	444				hypothetical protein
+MAG168_00613	CDS	555				hypothetical protein
+MAG168_00614	CDS	1845	nfdA_1	3.5.1.91		N-substituted formamide deformylase
+MAG168_00615	CDS	1503	caeA_1	3.1.1.-		Carboxylesterase A
+MAG168_00616	CDS	729	natA_1		COG4555	ABC transporter ATP-binding protein NatA
+MAG168_00617	tRNA	76				tRNA-Phe(gaa)
+MAG168_00618	CDS	240				hypothetical protein
+MAG168_00619	CDS	192				hypothetical protein
+MAG168_00620	CDS	315				hypothetical protein
+MAG168_00621	CDS	1122	gcvT_2	2.1.2.10	COG0404	Aminomethyltransferase
+MAG168_00622	CDS	1830	slt	4.2.2.-	COG0741	Soluble lytic murein transglycosylase
+MAG168_00623	CDS	432				hypothetical protein
+MAG168_00624	CDS	207	mepM_2	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+MAG168_00625	CDS	642				hypothetical protein
+MAG168_00626	CDS	321			COG1555	putative protein
+MAG168_00627	CDS	1149	lapB_2		COG2956	Lipopolysaccharide assembly protein B
+MAG168_00628	CDS	228				hypothetical protein
+MAG168_00629	CDS	300	ihfB		COG0776	Integration host factor subunit beta
+MAG168_00630	CDS	1692	rpsA		COG0539	30S ribosomal protein S1
+MAG168_00631	CDS	684	cmk	2.7.4.25		Cytidylate kinase
+MAG168_00632	CDS	483	cetB	5.1.3.33		2-epi-5-epi-valiolone epimerase
+MAG168_00633	CDS	1104	acdA_3	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+MAG168_00634	CDS	471				hypothetical protein
+MAG168_00635	CDS	1488	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+MAG168_00636	CDS	771				putative protein
+MAG168_00637	CDS	684	tatD	3.1.11.-	COG0084	3'-5' ssDNA/RNA exonuclease TatD
+MAG168_00638	CDS	249				hypothetical protein
+MAG168_00639	CDS	840		3.1.1.99		6-deoxy-6-sulfogluconolactonase
+MAG168_00640	CDS	954	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+MAG168_00641	CDS	1290	amtB_2			Ammonia channel
+MAG168_00642	CDS	756		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+MAG168_00643	CDS	1293	entS_2		COG0477	Enterobactin exporter EntS
+MAG168_00644	CDS	519				hypothetical protein
+MAG168_00645	CDS	1371	mpl	6.3.2.45	COG0773	UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase
+MAG168_00646	CDS	708				hypothetical protein
+MAG168_00647	CDS	2562	rapA_1	3.6.4.-	COG0553	RNA polymerase-associated protein RapA
+MAG168_00648	CDS	393				hypothetical protein
+MAG168_00649	CDS	294	acp			Sodium/proton-dependent alanine carrier protein
+MAG168_00650	CDS	2901				hypothetical protein
+MAG168_00651	CDS	672	clcD_1	3.1.1.45		Carboxymethylenebutenolidase
+MAG168_00652	CDS	420	yfcG_2	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YfcG
+MAG168_00653	CDS	777				hypothetical protein
+MAG168_00654	CDS	1374	exbB		COG0811	Biopolymer transport protein ExbB
+MAG168_00655	CDS	483				hypothetical protein
+MAG168_00656	CDS	399				hypothetical protein
+MAG168_00657	CDS	657				hypothetical protein
+MAG168_00658	CDS	1356				hypothetical protein
+MAG168_00659	CDS	474				hypothetical protein
+MAG168_00660	CDS	1458			COG2308	putative protein
+MAG168_00661	CDS	918				hypothetical protein
+MAG168_00662	CDS	759				hypothetical protein
+MAG168_00663	CDS	357				hypothetical protein
+MAG168_00664	CDS	978	holB	2.7.7.7	COG0470	DNA polymerase III subunit delta'
+MAG168_00665	CDS	654	tmk	2.7.4.9	COG0125	Thymidylate kinase
+MAG168_00666	CDS	420				hypothetical protein
+MAG168_00667	CDS	531	epmC	1.14.-.-	COG3101	Elongation factor P hydroxylase
+MAG168_00668	CDS	477				hypothetical protein
+MAG168_00669	CDS	228	tusA_1		COG0425	Sulfur carrier protein TusA
+MAG168_00670	CDS	288				hypothetical protein
+MAG168_00671	CDS	258				hypothetical protein
+MAG168_00672	CDS	837	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+MAG168_00673	CDS	1053	pgaB	3.5.1.-	COG0726	Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase
+MAG168_00674	CDS	969				hypothetical protein
+MAG168_00675	CDS	642				hypothetical protein
+MAG168_00676	CDS	483				hypothetical protein
+MAG168_00677	CDS	777			COG5285	putative protein
+MAG168_00678	CDS	1167				hypothetical protein
+MAG168_00679	CDS	297				hypothetical protein
+MAG168_00680	CDS	1191	tuf1_2			Elongation factor Tu
+MAG168_00681	CDS	405	rpsJ		COG0051	30S ribosomal protein S10
+MAG168_00682	CDS	654	rplC		COG0087	50S ribosomal protein L3
+MAG168_00683	CDS	423	dacC	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacC
+MAG168_00684	CDS	264				hypothetical protein
+MAG168_00685	CDS	645	lipB	2.3.1.181	COG0321	Octanoyltransferase
+MAG168_00686	CDS	966	lipA	2.8.1.8	COG0320	Lipoyl synthase
+MAG168_00687	CDS	756	moeB	2.7.7.80	COG0476	Molybdopterin-synthase adenylyltransferase
+MAG168_00688	CDS	837	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+MAG168_00689	CDS	1101	prfA		COG0216	Peptide chain release factor RF1
+MAG168_00690	CDS	1266	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+MAG168_00691	CDS	1722	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+MAG168_00692	CDS	402	lolB			Outer-membrane lipoprotein LolB
+MAG168_00693	CDS	879	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+MAG168_00694	tRNA	76				tRNA-Gln(ttg)
+MAG168_00695	CDS	981	prs_1	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+MAG168_00696	CDS	648	rplY			50S ribosomal protein L25
+MAG168_00697	CDS	588	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+MAG168_00698	CDS	1092	ychF		COG0012	Ribosome-binding ATPase YchF
+MAG168_00699	CDS	330				hypothetical protein
+MAG168_00700	tRNA	77				tRNA-Met(cat)
+MAG168_00701	CDS	390				hypothetical protein
+MAG168_00702	CDS	276				hypothetical protein
+MAG168_00703	CDS	816	butA	1.1.1.304		Diacetyl reductase [(S)-acetoin forming]
+MAG168_00704	CDS	630				hypothetical protein
+MAG168_00705	CDS	1005	sphX		COG0226	Protein SphX
+MAG168_00706	CDS	918	pstC1		COG0573	Phosphate transport system permease protein PstC 1
+MAG168_00707	CDS	870	pstA1		COG0581	Phosphate transport system permease protein PstA 1
+MAG168_00708	CDS	762	pstB	3.6.3.27		Phosphate import ATP-binding protein PstB
+MAG168_00709	CDS	651	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+MAG168_00710	CDS	2328	atsA_1	3.1.6.1	COG3119	Arylsulfatase
+MAG168_00711	CDS	1281	yjcS_1	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+MAG168_00712	CDS	1392	yeeO_2		COG0534	putative FMN/FAD exporter YeeO
+MAG168_00713	CDS	1302	resE	2.7.13.3		Sensor histidine kinase ResE
+MAG168_00714	CDS	741				hypothetical protein
+MAG168_00715	CDS	996	comC	1.1.1.338	COG2055	(2R)-3-sulfolactate dehydrogenase (NADP(+))
+MAG168_00716	CDS	1002				hypothetical protein
+MAG168_00717	CDS	1785				hypothetical protein
+MAG168_00718	CDS	750				hypothetical protein
+MAG168_00719	CDS	423				hypothetical protein
+MAG168_00720	CDS	1239	nupX_2		COG1972	Putative nucleoside permease NupX
+MAG168_00721	CDS	1113	ykfA	3.4.16.-	COG1619	putative murein peptide carboxypeptidase
+MAG168_00722	CDS	1107	mdtA			Multidrug resistance protein MdtA
+MAG168_00723	CDS	1260	bepC			Outer membrane efflux protein BepC
+MAG168_00724	CDS	1353	dnaK_2		COG0443	Chaperone protein DnaK
+MAG168_00725	CDS	579				hypothetical protein
+MAG168_00726	CDS	897	ybfF	3.1.-.-	COG0596	Esterase YbfF
+MAG168_00727	CDS	447	mdtC_1			Multidrug resistance protein MdtC
+MAG168_00728	CDS	2049				hypothetical protein
+MAG168_00729	CDS	924				hypothetical protein
+MAG168_00730	CDS	2547	pfeA		COG4771	Ferric enterobactin receptor
+MAG168_00731	CDS	942	rihB_1	3.2.2.8	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihB
+MAG168_00732	CDS	1182	tsgA		COG0477	Protein TsgA
+MAG168_00733	CDS	162				hypothetical protein
+MAG168_00734	CDS	507				hypothetical protein
+MAG168_00735	CDS	1602	aceK	2.7.11.5	COG4579	Isocitrate dehydrogenase kinase/phosphatase
+MAG168_00736	CDS	654	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+MAG168_00737	CDS	759		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+MAG168_00738	CDS	1491	ndhF_1	1.17.1.5		Nicotinate dehydrogenase FAD-subunit
+MAG168_00739	CDS	678	rutR		COG1309	HTH-type transcriptional regulator RutR
+MAG168_00740	CDS	1338		3.5.4.32	COG0402	8-oxoguanine deaminase
+MAG168_00741	CDS	1095				hypothetical protein
+MAG168_00742	CDS	375				hypothetical protein
+MAG168_00743	CDS	774	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+MAG168_00744	CDS	1041	scpB		COG1386	Segregation and condensation protein B 
+MAG168_00745	CDS	879	scpA		COG1354	Segregation and condensation protein A
+MAG168_00746	CDS	1182	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+MAG168_00747	CDS	657	yciO		COG0009	putative protein YciO
+MAG168_00748	CDS	558	yciB		COG2917	putative intracellular septation protein A
+MAG168_00749	CDS	300	yciI		COG2350	Protein YciI
+MAG168_00750	CDS	678				hypothetical protein
+MAG168_00751	CDS	768	pdxJ	2.6.99.2		Pyridoxine 5'-phosphate synthase
+MAG168_00752	CDS	996	epsF_2		COG1459	Type II secretion system protein F
+MAG168_00753	CDS	879	outO			Type 4 prepilin-like proteins leader peptide-processing enzyme
+MAG168_00754	CDS	600	coaE_1	2.7.1.24	COG0237	Dephospho-CoA kinase
+MAG168_00755	CDS	717	rutD	3.5.1.-		Putative aminoacrylate hydrolase RutD
+MAG168_00756	CDS	798				hypothetical protein
+MAG168_00757	CDS	1455	opuE		COG0591	Osmoregulated proline transporter OpuE
+MAG168_00758	CDS	627				hypothetical protein
+MAG168_00759	CDS	756				hypothetical protein
+MAG168_00760	CDS	918	motB_1		COG1360	Motility protein B
+MAG168_00761	CDS	144				hypothetical protein
+MAG168_00762	CDS	1491	hbpA		COG0747	Heme-binding protein A
+MAG168_00763	CDS	954	Hgd_1	1.1.1.291		2-(hydroxymethyl)glutarate dehydrogenase
+MAG168_00764	CDS	1512	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+MAG168_00765	CDS	516	cvpA		COG1286	Colicin V production protein
+MAG168_00766	CDS	531	dedD			Cell division protein DedD
+MAG168_00767	CDS	1260	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+MAG168_00768	CDS	813	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+MAG168_00769	CDS	1230	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+MAG168_00770	CDS	579	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+MAG168_00771	CDS	789	truA_1	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+MAG168_00772	CDS	1800				hypothetical protein
+MAG168_00773	CDS	1020	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+MAG168_00774	CDS	1074	aroC	4.2.3.5	COG0082	Chorismate synthase
+MAG168_00775	CDS	549	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+MAG168_00776	CDS	276				hypothetical protein
+MAG168_00777	CDS	639	fadD3_2	6.2.1.41	COG0318	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+MAG168_00778	CDS	1206				hypothetical protein
+MAG168_00779	CDS	414				hypothetical protein
+MAG168_00780	CDS	687	csgA			C-factor
+MAG168_00781	CDS	834	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+MAG168_00782	CDS	156				hypothetical protein
+MAG168_00783	CDS	729				hypothetical protein
+MAG168_00784	CDS	579				hypothetical protein
+MAG168_00785	CDS	456	rimI	2.3.1.128	COG0456	Ribosomal-protein-alanine acetyltransferase
+MAG168_00786	CDS	1578	prfC		COG4108	Peptide chain release factor RF3
+MAG168_00787	CDS	1848	fabY	2.3.1.180	COG0304	Beta-ketoacyl-[acyl-carrier-protein] synthase FabY
+MAG168_00788	CDS	1179	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+MAG168_00789	CDS	483		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+MAG168_00790	CDS	846	rdpA_2	1.14.11.44		(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+MAG168_00791	CDS	939				hypothetical protein
+MAG168_00792	CDS	363		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+MAG168_00793	CDS	600	mtcA2	4.2.1.1	COG0288	Carbonic anhydrase 2
+MAG168_00794	CDS	1575	betA	1.1.99.1	COG2303	Oxygen-dependent choline dehydrogenase
+MAG168_00795	CDS	1002				hypothetical protein
+MAG168_00796	CDS	408	ddn_1	1.-.-.-		Deazaflavin-dependent nitroreductase
+MAG168_00797	CDS	216				hypothetical protein
+MAG168_00798	CDS	264				hypothetical protein
+MAG168_00799	CDS	1773			COG3653	putative protein
+MAG168_00800	CDS	669				hypothetical protein
+MAG168_00801	CDS	609	gstB_1	2.5.1.18	COG0625	Glutathione S-transferase GST-6.0
+MAG168_00802	CDS	1065				hypothetical protein
+MAG168_00803	CDS	672	fan1	3.1.4.1		Fanconi-associated nuclease 1 
+MAG168_00804	CDS	2442				hypothetical protein
+MAG168_00805	CDS	882			COG2141	putative protein
+MAG168_00806	CDS	615	yieH	3.1.3.-	COG0637	6-phosphogluconate phosphatase
+MAG168_00807	CDS	1329	pkn1	2.7.11.1	COG0515	Serine/threonine-protein kinase pkn1
+MAG168_00808	CDS	342				hypothetical protein
+MAG168_00809	CDS	792				hypothetical protein
+MAG168_00810	CDS	1272				hypothetical protein
+MAG168_00811	CDS	1089				hypothetical protein
+MAG168_00812	CDS	1002				hypothetical protein
+MAG168_00813	CDS	891				hypothetical protein
+MAG168_00814	CDS	384				hypothetical protein
+MAG168_00815	CDS	1425				hypothetical protein
+MAG168_00816	CDS	621	ubiG_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase
+MAG168_00817	CDS	168				hypothetical protein
+MAG168_00818	CDS	213				hypothetical protein
+MAG168_00819	CDS	399				hypothetical protein
+MAG168_00820	CDS	180				hypothetical protein
+MAG168_00821	CDS	600				hypothetical protein
+MAG168_00822	CDS	411	iorB	1.3.99.16		Isoquinoline 1-oxidoreductase subunit beta
+MAG168_00823	CDS	213				hypothetical protein
+MAG168_00824	CDS	291				hypothetical protein
+MAG168_00825	CDS	357				hypothetical protein
+MAG168_00826	CDS	1737				hypothetical protein
+MAG168_00827	CDS	660				hypothetical protein
+MAG168_00828	CDS	123				hypothetical protein
+MAG168_00829	CDS	1413	dapE_1	3.5.1.18		putative succinyl-diaminopimelate desuccinylase
+MAG168_00830	CDS	1380	yagG_3		COG2211	Putative glycoside/cation symporter YagG
+MAG168_00831	CDS	783	gno_1	1.1.1.-		Gluconate 5-dehydrogenase
+MAG168_00832	CDS	501		2.7.1.12	COG3265	Gluconokinase
+MAG168_00833	CDS	930	argF	2.1.3.3		Ornithine carbamoyltransferase
+MAG168_00834	CDS	291				hypothetical protein
+MAG168_00835	CDS	1245	glpC_2		COG0247	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+MAG168_00836	CDS	1029		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+MAG168_00837	CDS	204				hypothetical protein
+MAG168_00838	CDS	144				hypothetical protein
+MAG168_00839	CDS	741	ubiG_2	2.1.1.222	COG2227	Ubiquinone biosynthesis O-methyltransferase
+MAG168_00840	CDS	1242			COG5285	putative protein
+MAG168_00841	CDS	1029	rihB_2	3.2.2.8	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihB
+MAG168_00842	CDS	1110				hypothetical protein
+MAG168_00843	CDS	1182				hypothetical protein
+MAG168_00844	CDS	1257	trkH		COG0168	Trk system potassium uptake protein TrkH
+MAG168_00845	CDS	597	tehB	2.1.1.265	COG0500	Tellurite methyltransferase
+MAG168_00846	CDS	885	lpxP	2.3.1.242	COG1560	Lipid A biosynthesis palmitoleoyltransferase
+MAG168_00847	CDS	939	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+MAG168_00848	CDS	339	rdpA_3	1.14.11.44		(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+MAG168_00849	CDS	756	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+MAG168_00850	CDS	417				hypothetical protein
+MAG168_00851	CDS	471				hypothetical protein
+MAG168_00852	CDS	1080	lptG		COG0795	Lipopolysaccharide export system permease protein LptG
+MAG168_00853	CDS	1101	lptF		COG0795	Lipopolysaccharide export system permease protein LptF
+MAG168_00854	CDS	1503	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+MAG168_00855	CDS	423	holC	2.7.7.7	COG2927	DNA polymerase III subunit chi
+MAG168_00856	CDS	378				hypothetical protein
+MAG168_00857	CDS	918	sseA	2.8.1.2	COG2897	3-mercaptopyruvate sulfurtransferase
+MAG168_00858	CDS	690	yqaB	3.1.3.-	COG0637	Fructose-1-phosphate phosphatase YqaB
+MAG168_00859	CDS	933	yxlF	3.6.3.-	COG1131	putative ABC transporter ATP-binding protein YxlF
+MAG168_00860	CDS	168				hypothetical protein
+MAG168_00861	CDS	225				hypothetical protein
+MAG168_00862	CDS	1380				hypothetical protein
+MAG168_00863	CDS	942	pqqB		COG1235	Coenzyme PQQ synthesis protein B
+MAG168_00864	CDS	246				hypothetical protein
+MAG168_00865	CDS	1812			COG1123	putative ABC transporter ATP-binding protein
+MAG168_00866	CDS	852	gsiD		COG1173	Glutathione transport system permease protein GsiD
+MAG168_00867	CDS	957	gsiC		COG0601	Glutathione transport system permease protein GsiC
+MAG168_00868	CDS	888	mmuM_1	2.1.1.10	COG2040	Homocysteine S-methyltransferase
+MAG168_00869	CDS	462	nrdR		COG1327	Transcriptional repressor NrdR
+MAG168_00870	CDS	1080	ribD		COG0117	Riboflavin biosynthesis protein RibD
+MAG168_00871	CDS	468	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+MAG168_00872	CDS	444	nusB		COG0781	Transcription antitermination protein NusB
+MAG168_00873	CDS	975	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+MAG168_00874	CDS	498	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+MAG168_00875	CDS	780	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+MAG168_00876	CDS	765	novJ	1.1.1.-		Short-chain reductase protein NovJ
+MAG168_00877	CDS	267				hypothetical protein
+MAG168_00878	CDS	945	thrB	2.7.1.39	COG2334	Homoserine kinase
+MAG168_00879	CDS	630				hypothetical protein
+MAG168_00880	CDS	903	ctaB	2.5.1.-	COG0109	Protoheme IX farnesyltransferase
+MAG168_00881	CDS	579				hypothetical protein
+MAG168_00882	CDS	714				hypothetical protein
+MAG168_00883	CDS	228				hypothetical protein
+MAG168_00884	CDS	690	natB		COG1668	ABC transporter permease protein NatB
+MAG168_00885	CDS	441				hypothetical protein
+MAG168_00886	CDS	846			COG2141	putative protein
+MAG168_00887	CDS	792		1.-.-.-		putative oxidoreductase
+MAG168_00888	CDS	804				hypothetical protein
+MAG168_00889	CDS	2205		4.2.1.112		Acetylene hydratase
+MAG168_00890	CDS	273				hypothetical protein
+MAG168_00891	CDS	300				hypothetical protein
+MAG168_00892	CDS	228				hypothetical protein
+MAG168_00893	CDS	1068		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+MAG168_00894	CDS	876	ybeT		COG0790	Sel1-repeat-containing protein YbeT
+MAG168_00895	CDS	936		1.13.12.16	COG2070	Nitronate monooxygenase
+MAG168_00896	CDS	498	dhfrI	1.5.1.3		Dihydrofolate reductase type 1
+MAG168_00897	CDS	1719	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+MAG168_00898	CDS	405	cckA_2			Sensor kinase CckA
+MAG168_00899	CDS	1035	dinF		COG0534	DNA damage-inducible protein F
+MAG168_00900	CDS	1050		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+MAG168_00901	CDS	1275	arcB	2.7.13.3	COG0642	Aerobic respiration control sensor protein ArcB
+MAG168_00902	CDS	180				hypothetical protein
+MAG168_00903	CDS	1257				hypothetical protein
+MAG168_00904	CDS	1209				hypothetical protein
+MAG168_00905	CDS	864	cobB	3.5.1.-	COG0846	NAD-dependent protein deacylase
+MAG168_00906	CDS	879				hypothetical protein
+MAG168_00907	CDS	465				hypothetical protein
+MAG168_00908	CDS	1341		1.14.13.-	COG2072	Baeyer-Villiger monooxygenase
+MAG168_00909	CDS	654				hypothetical protein
+MAG168_00910	CDS	1197	ampC_1	3.5.2.6	COG1680	Beta-lactamase
+MAG168_00911	CDS	654	aqpZ		COG0580	Aquaporin Z
+MAG168_00912	CDS	1023	yejB		COG4174	Inner membrane ABC transporter permease protein YejB
+MAG168_00913	CDS	366				hypothetical protein
+MAG168_00914	CDS	1710				hypothetical protein
+MAG168_00915	CDS	1110	dauA	1.4.99.6		FAD-dependent catabolic D-arginine dehydrogenase DauA
+MAG168_00916	CDS	603				hypothetical protein
+MAG168_00917	CDS	693				hypothetical protein
+MAG168_00918	CDS	594				hypothetical protein
+MAG168_00919	CDS	765	bioC	2.1.1.197		Malonyl-[acyl-carrier protein] O-methyltransferase
+MAG168_00920	CDS	978				hypothetical protein
+MAG168_00921	CDS	1791				hypothetical protein
+MAG168_00922	CDS	780	paaF_2	4.2.1.17	COG1024	2,3-dehydroadipyl-CoA hydratase
+MAG168_00923	CDS	465				hypothetical protein
+MAG168_00924	CDS	633	gstB_2	2.5.1.18	COG0625	Glutathione S-transferase GST-6.0
+MAG168_00925	CDS	1434				hypothetical protein
+MAG168_00926	CDS	522				hypothetical protein
+MAG168_00927	CDS	876	yisK		COG0179	putative protein YisK
+MAG168_00928	CDS	1824	ptlE	1.14.13.171	COG2072	Neopentalenolactone D synthase
+MAG168_00929	CDS	552	paiA	2.3.1.57	COG0454	Spermidine/spermine N(1)-acetyltransferase
+MAG168_00930	CDS	1449	dgoT			D-galactonate transporter
+MAG168_00931	CDS	771				hypothetical protein
+MAG168_00932	CDS	756				hypothetical protein
+MAG168_00933	CDS	1068	dhmA1_1	3.8.1.5		Haloalkane dehalogenase 1
+MAG168_00934	CDS	1668	atsA_2	3.1.6.1	COG3119	Arylsulfatase
+MAG168_00935	CDS	1128		1.3.99.-	COG1960	putative acyl-CoA dehydrogenase fadE25
+MAG168_00936	CDS	831	fabG_5	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_00937	CDS	297				hypothetical protein
+MAG168_00938	CDS	1359	lpd_1	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+MAG168_00939	CDS	462	bkdB_1	2.3.1.168	COG0508	Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex
+MAG168_00940	CDS	2253	xdhA_1	1.17.1.4	COG1529	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+MAG168_00941	CDS	477	coxS	1.2.5.3		Carbon monoxide dehydrogenase small chain
+MAG168_00942	CDS	870	ndhF_2	1.17.1.5		Nicotinate dehydrogenase FAD-subunit
+MAG168_00943	CDS	396				hypothetical protein
+MAG168_00944	CDS	1653	nfdA_2	3.5.1.91		N-substituted formamide deformylase
+MAG168_00945	CDS	852				hypothetical protein
+MAG168_00946	CDS	1320	puuA	6.3.1.11	COG0174	Gamma-glutamylputrescine synthetase PuuA
+MAG168_00947	CDS	1308	puuB	1.4.3.-		Gamma-glutamylputrescine oxidoreductase
+MAG168_00948	CDS	963	speB	3.5.3.11	COG0010	Agmatinase
+MAG168_00949	CDS	600	pyrR_1	2.4.2.9		Bifunctional protein PyrR
+MAG168_00950	CDS	690				hypothetical protein
+MAG168_00951	CDS	1569	lcfB_1	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+MAG168_00952	CDS	1014	amgK	2.7.1.-	COG3178	N-acetylmuramate/N-acetylglucosamine kinase
+MAG168_00953	CDS	2364	lptD		COG1452	LPS-assembly protein LptD
+MAG168_00954	CDS	1326	surA	5.2.1.8	COG0760	Chaperone SurA
+MAG168_00955	CDS	993	pdxA	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase
+MAG168_00956	CDS	774	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+MAG168_00957	CDS	834	apaH	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+MAG168_00958	CDS	1098	cca		COG0617	Multifunctional CCA protein
+MAG168_00959	CDS	729	fabG_6	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_00960	CDS	1281	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+MAG168_00961	CDS	525	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+MAG168_00962	CDS	234	acpP		COG0236	Acyl carrier protein
+MAG168_00963	CDS	1242	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+MAG168_00964	CDS	1011	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+MAG168_00965	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+MAG168_00966	CDS	1008	yfmJ_2	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+MAG168_00967	CDS	480				hypothetical protein
+MAG168_00968	CDS	495	slyD_2	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+MAG168_00969	CDS	801	dpgD	4.2.1.17		Enoyl-CoA-hydratase
+MAG168_00970	CDS	747				hypothetical protein
+MAG168_00971	CDS	1221	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+MAG168_00972	CDS	348				hypothetical protein
+MAG168_00973	CDS	540	tauD_2	1.14.11.17	COG2175	Alpha-ketoglutarate-dependent taurine dioxygenase
+MAG168_00974	CDS	1602	lcfB_2	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+MAG168_00975	CDS	474	yedK	3.4.-.-	COG2135	Putative SOS response-associated peptidase YedK
+MAG168_00976	CDS	798	rhmA	4.1.2.53	COG3836	2-keto-3-deoxy-L-rhamnonate aldolase
+MAG168_00977	CDS	432				hypothetical protein
+MAG168_00978	CDS	936	nlhH_2	3.1.1.1	COG0657	Carboxylesterase NlhH
+MAG168_00979	CDS	897				hypothetical protein
+MAG168_00980	CDS	207				hypothetical protein
+MAG168_00981	CDS	1140	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+MAG168_00982	CDS	1428	putP		COG0591	Sodium/proline symporter
+MAG168_00983	CDS	1335				hypothetical protein
+MAG168_00984	CDS	747	ypmQ		COG1999	SCO1 protein 
+MAG168_00985	CDS	1416	ampC_2	3.5.2.6	COG1680	Beta-lactamase
+MAG168_00986	CDS	1569	ggt	3.4.19.13	COG0405	Glutathione hydrolase proenzyme
+MAG168_00987	CDS	300				hypothetical protein
+MAG168_00988	CDS	813				hypothetical protein
+MAG168_00989	CDS	1023				hypothetical protein
+MAG168_00990	CDS	330				hypothetical protein
+MAG168_00991	CDS	477				hypothetical protein
+MAG168_00992	CDS	813	echA8_2	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+MAG168_00993	CDS	996				hypothetical protein
+MAG168_00994	CDS	2388	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+MAG168_00995	CDS	309	ihfA		COG0776	Integration host factor subunit alpha
+MAG168_00996	CDS	357	mlrA		COG0789	HTH-type transcriptional regulator MlrA
+MAG168_00997	tRNA	77				tRNA-Pro(ggg)
+MAG168_00998	CDS	123				hypothetical protein
+MAG168_00999	CDS	810				hypothetical protein
+MAG168_01000	CDS	1221	pao	1.4.3.24		Pseudooxynicotine oxidase
+MAG168_01001	CDS	939			COG2141	putative protein
+MAG168_01002	CDS	735	cheY		COG0784	Chemotaxis protein CheY 
+MAG168_01003	CDS	2448	bglB	3.2.1.21	COG1472	Thermostable beta-glucosidase B
+MAG168_01004	CDS	1839	pntE_1	1.14.13.170		Pentalenolactone D synthase
+MAG168_01005	CDS	1068	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+MAG168_01006	CDS	846	rdpA_4	1.14.11.44		(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+MAG168_01007	CDS	267				hypothetical protein
+MAG168_01008	CDS	291	ugpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase, cytoplasmic
+MAG168_01009	CDS	366	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase
+MAG168_01010	CDS	1995	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+MAG168_01011	CDS	333	ybaB		COG0718	Nucleoid-associated protein YbaB
+MAG168_01012	CDS	306				hypothetical protein
+MAG168_01013	CDS	1140		1.13.12.-	COG2070	Putative monooxygenase
+MAG168_01014	CDS	1017			COG2141	putative protein
+MAG168_01015	CDS	681				hypothetical protein
+MAG168_01016	CDS	687	gstB_3	2.5.1.18	COG0625	Glutathione S-transferase GST-6.0
+MAG168_01017	CDS	375				hypothetical protein
+MAG168_01018	CDS	552				hypothetical protein
+MAG168_01019	CDS	384				hypothetical protein
+MAG168_01020	CDS	1449	yicJ_2		COG2211	Inner membrane symporter YicJ
+MAG168_01021	CDS	1788	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+MAG168_01022	CDS	1524		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+MAG168_01023	CDS	633				hypothetical protein
+MAG168_01024	CDS	300				hypothetical protein
+MAG168_01025	CDS	333				hypothetical protein
+MAG168_01026	CDS	750	fabG_7	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_01027	CDS	1074	cytR		COG1609	HTH-type transcriptional repressor CytR
+MAG168_01028	CDS	735	kduD_1	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+MAG168_01029	CDS	387				hypothetical protein
+MAG168_01030	CDS	1863	dinG_1	3.6.4.12	COG1199	putative ATP-dependent helicase DinG 
+MAG168_01031	CDS	666	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+MAG168_01032	CDS	651	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+MAG168_01033	CDS	1050	plsB	2.3.1.15	COG2937	Glycerol-3-phosphate acyltransferase
+MAG168_01034	CDS	852				hypothetical protein
+MAG168_01035	CDS	1413		3.1.6.1	COG3119	Arylsulfatase
+MAG168_01036	CDS	900	rihA	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+MAG168_01037	CDS	1143	estB_1	3.1.1.-	COG1680	Esterase EstB
+MAG168_01038	CDS	801	ptlF_1	1.1.1.340		1-deoxy-11-beta-hydroxypentalenate dehydrogenase
+MAG168_01039	CDS	1434	ccp	1.11.1.5	COG1858	Cytochrome c551 peroxidase
+MAG168_01040	CDS	291				hypothetical protein
+MAG168_01041	CDS	759	bdhA	1.1.1.30		D-beta-hydroxybutyrate dehydrogenase
+MAG168_01042	CDS	1026	efe	1.13.12.19		2-oxoglutarate-dependent ethylene/succinate-forming enzyme
+MAG168_01043	CDS	1473			COG1055	putative transporter
+MAG168_01044	CDS	849				hypothetical protein
+MAG168_01045	CDS	1623	pamO	1.14.13.92	COG2072	Phenylacetone monooxygenase
+MAG168_01046	CDS	351				hypothetical protein
+MAG168_01047	CDS	2142		4.2.1.112		Acetylene hydratase
+MAG168_01048	CDS	888	gloB_3	3.1.2.6		Hydroxyacylglutathione hydrolase
+MAG168_01049	CDS	600	nudL_1	3.6.1.-		putative Nudix hydrolase NudL
+MAG168_01050	CDS	1191	bepA_2	3.4.-.-	COG4783	Beta-barrel assembly-enhancing protease
+MAG168_01051	CDS	1296				hypothetical protein
+MAG168_01052	CDS	3084	lacZ	3.2.1.23		Beta-galactosidase
+MAG168_01053	CDS	297	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+MAG168_01054	CDS	873		2.5.1.10		Farnesyl diphosphate synthase
+MAG168_01055	CDS	243				hypothetical protein
+MAG168_01056	CDS	924	kanJ	1.14.11.37		Kanamycin B dioxygenase
+MAG168_01057	CDS	957	tas		COG0667	Protein tas
+MAG168_01058	CDS	1356	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+MAG168_01059	CDS	627	nth	4.2.99.18	COG0177	Endonuclease III
+MAG168_01060	CDS	690	rsxE		COG4660	Electron transport complex subunit RsxE
+MAG168_01061	CDS	549	rnfG		COG4659	Electron transport complex subunit RnfG
+MAG168_01062	CDS	954	rsxD		COG4658	Electron transport complex subunit RsxD
+MAG168_01063	CDS	891	rsxB		COG2878	Electron transport complex subunit RsxB
+MAG168_01064	CDS	585	rsxA		COG4657	Electron transport complex subunit RsxA
+MAG168_01065	CDS	1464	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+MAG168_01066	CDS	273				hypothetical protein
+MAG168_01067	CDS	495				hypothetical protein
+MAG168_01068	CDS	885	ubiA	2.5.1.-	COG0382	4-hydroxybenzoate octaprenyltransferase
+MAG168_01069	CDS	168	rubA1		COG1773	Rubredoxin-1
+MAG168_01070	CDS	1281	gltP_1		COG1301	Proton/glutamate-aspartate symporter
+MAG168_01071	CDS	2061	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+MAG168_01072	CDS	399	ridA_2	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+MAG168_01073	CDS	690	spoT		COG0317	Bifunctional (p)ppGpp synthase/hydrolase SpoT
+MAG168_01074	CDS	594				hypothetical protein
+MAG168_01075	CDS	405				hypothetical protein
+MAG168_01076	CDS	1269				hypothetical protein
+MAG168_01077	CDS	699			COG1136	putative ABC transporter ATP-binding protein
+MAG168_01078	CDS	2322				hypothetical protein
+MAG168_01079	CDS	1215				hypothetical protein
+MAG168_01080	CDS	954				hypothetical protein
+MAG168_01081	CDS	219				hypothetical protein
+MAG168_01082	CDS	717				hypothetical protein
+MAG168_01083	CDS	369				hypothetical protein
+MAG168_01084	CDS	702	sspA_1		COG0625	Stringent starvation protein A 
+MAG168_01085	CDS	1290				hypothetical protein
+MAG168_01086	CDS	801		4.2.1.17	COG1024	putative enoyl-CoA hydratase echA12
+MAG168_01087	CDS	651				hypothetical protein
+MAG168_01088	CDS	1134	walR		COG0745	Transcriptional regulatory protein WalR
+MAG168_01089	CDS	402				hypothetical protein
+MAG168_01090	CDS	1923	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+MAG168_01091	CDS	768	isfD	1.1.1.313	COG4221	Sulfoacetaldehyde reductase
+MAG168_01092	CDS	381		1.-.-.-	COG1359	Putative monooxygenase
+MAG168_01093	CDS	384	yfgD		COG1393	putative protein YfgD
+MAG168_01094	CDS	843				hypothetical protein
+MAG168_01095	CDS	456	resA_1		COG0526	Thiol-disulfide oxidoreductase ResA
+MAG168_01096	CDS	1719	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+MAG168_01097	CDS	777	ptlF_2	1.1.1.340		1-deoxy-11-beta-hydroxypentalenate dehydrogenase
+MAG168_01098	CDS	1332	bauA_1	2.6.1.18	COG0161	Beta-alanine--pyruvate aminotransferase
+MAG168_01099	CDS	678	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+MAG168_01100	CDS	972				hypothetical protein
+MAG168_01101	CDS	738				hypothetical protein
+MAG168_01102	CDS	714				hypothetical protein
+MAG168_01103	CDS	891				hypothetical protein
+MAG168_01104	CDS	693	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+MAG168_01105	CDS	624		3.1.1.2		Arylesterase
+MAG168_01106	CDS	612				hypothetical protein
+MAG168_01107	CDS	1308	cfiA	6.4.1.7	COG0511	2-oxoglutarate carboxylase large subunit
+MAG168_01108	CDS	1131	oadB	4.1.1.3	COG1883	Oxaloacetate decarboxylase beta chain
+MAG168_01109	CDS	1428	ald	1.2.1.83		3-succinoylsemialdehyde-pyridine dehydrogenase
+MAG168_01110	CDS	600		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+MAG168_01111	CDS	255				hypothetical protein
+MAG168_01112	CDS	348	clpS		COG2127	ATP-dependent Clp protease adapter protein ClpS
+MAG168_01113	CDS	600	rluE	5.4.99.20	COG1187	Ribosomal large subunit pseudouridine synthase E
+MAG168_01114	CDS	459	moaE	2.8.1.12	COG0314	Molybdopterin synthase catalytic subunit
+MAG168_01115	CDS	213				hypothetical protein
+MAG168_01116	CDS	195	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+MAG168_01117	CDS	210				hypothetical protein
+MAG168_01118	CDS	1872	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+MAG168_01119	CDS	603				Riboflavin biosynthesis protein
+MAG168_01120	CDS	918				hypothetical protein
+MAG168_01121	CDS	1302		1.13.11.-	COG3670	Carotenoid cleavage oxygenase
+MAG168_01122	CDS	1221	csd	2.8.1.7	COG0520	putative cysteine desulfurase
+MAG168_01123	CDS	1275	yihN			Inner membrane protein YihN
+MAG168_01124	CDS	324	trxA		COG0526	Thioredoxin 1
+MAG168_01125	CDS	1005	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+MAG168_01126	CDS	1248	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+MAG168_01127	CDS	1344	yeeO_3		COG0534	putative FMN/FAD exporter YeeO
+MAG168_01128	CDS	378			COG1733	putative HTH-type transcriptional regulator
+MAG168_01129	CDS	459				hypothetical protein
+MAG168_01130	CDS	150				hypothetical protein
+MAG168_01131	CDS	1401	aam_4	3.5.1.13	COG0154	Acylamidase
+MAG168_01132	CDS	774				hypothetical protein
+MAG168_01133	CDS	726	ppiB_1	5.2.1.8	COG0652	putative peptidyl-prolyl cis-trans isomerase
+MAG168_01134	CDS	438				hypothetical protein
+MAG168_01135	CDS	1767				hypothetical protein
+MAG168_01136	CDS	1065				hypothetical protein
+MAG168_01137	CDS	2118	dinG_2	3.6.4.12	COG1199	putative ATP-dependent helicase DinG
+MAG168_01138	CDS	243				hypothetical protein
+MAG168_01139	CDS	426	mraZ		COG2001	Transcriptional regulator MraZ
+MAG168_01140	CDS	846	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+MAG168_01141	CDS	1875	lpoA		COG3107	Penicillin-binding protein activator LpoA
+MAG168_01142	CDS	363				hypothetical protein
+MAG168_01143	CDS	558				hypothetical protein
+MAG168_01144	CDS	414	sspB		COG2969	Stringent starvation protein B 
+MAG168_01145	CDS	633	sspA_2		COG0625	Stringent starvation protein A
+MAG168_01146	CDS	816	petC		COG2857	Ammonia monooxygenase gamma subunit
+MAG168_01147	CDS	1254	petB		COG1290	Cytochrome b
+MAG168_01148	CDS	600	petA	1.10.2.2	COG0723	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+MAG168_01149	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+MAG168_01150	CDS	429	rplM		COG0102	50S ribosomal protein L13
+MAG168_01151	CDS	1101	zapE		COG1485	Cell division protein ZapE
+MAG168_01152	CDS	1308	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+MAG168_01153	CDS	642	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+MAG168_01154	CDS	1269	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+MAG168_01155	CDS	231	ibaG		COG5007	Acid stress protein IbaG
+MAG168_01156	CDS	615	lptC			Lipopolysaccharide export system protein LptC
+MAG168_01157	CDS	507	lptA		COG1934	Lipopolysaccharide export system protein LptA
+MAG168_01158	CDS	729	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+MAG168_01159	CDS	147				hypothetical protein
+MAG168_01160	CDS	381	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+MAG168_01161	CDS	1737	mnmC		COG0665	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+MAG168_01162	CDS	840	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+MAG168_01163	CDS	339	yciH		COG0023	putative protein YciH
+MAG168_01164	CDS	426				hypothetical protein
+MAG168_01165	CDS	444	cspA_2		COG1278	Major cold shock protein CspA
+MAG168_01166	CDS	300				hypothetical protein
+MAG168_01167	CDS	840	thyA	2.1.1.45	COG0207	Thymidylate synthase ThyA
+MAG168_01168	CDS	669				hypothetical protein
+MAG168_01169	CDS	2163	nrdZ	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+MAG168_01170	CDS	783	cpnA	1.1.1.163		Cyclopentanol dehydrogenase
+MAG168_01171	CDS	1536		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+MAG168_01172	CDS	885	speE_1	2.5.1.16		Polyamine aminopropyltransferase
+MAG168_01173	CDS	627				hypothetical protein
+MAG168_01174	CDS	1812	yheI_1	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MAG168_01175	CDS	1395	qbdA_1	1.1.9.1		Quinohemoprotein alcohol dehydrogenase ADH IIB
+MAG168_01176	CDS	1569	lcfB_3	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+MAG168_01177	CDS	921	gshB_2	6.3.2.3	COG0189	Glutathione synthetase
+MAG168_01178	tRNA	76				tRNA-Lys(ttt)
+MAG168_01179	CDS	513	yohD		COG0586	Inner membrane protein YohD
+MAG168_01180	CDS	699	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+MAG168_01181	CDS	648	queE	4.3.99.3	COG0602	7-carboxy-7-deazaguanine synthase
+MAG168_01182	CDS	915	cpoB		COG1729	Cell division coordinator CpoB
+MAG168_01183	CDS	555	pal		COG2885	Peptidoglycan-associated lipoprotein
+MAG168_01184	CDS	1353	tolB_1		COG0823	Protein TolB
+MAG168_01185	CDS	711	tolA			Protein TolA
+MAG168_01186	CDS	426	exbD_1		COG0848	Biopolymer transport protein ExbD
+MAG168_01187	CDS	678	tolQ_1		COG0811	Protein TolQ
+MAG168_01188	CDS	1041	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+MAG168_01189	CDS	588	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+MAG168_01190	CDS	537	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+MAG168_01191	CDS	741	pmpR		COG0217	Transcriptional regulatory protein PmpR
+MAG168_01192	CDS	1758	aspS	6.1.1.23	COG0173	Aspartate--tRNA(Asp/Asn) ligase
+MAG168_01193	CDS	336				hypothetical protein
+MAG168_01194	CDS	750	yjcS_2	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+MAG168_01195	CDS	462				hypothetical protein
+MAG168_01196	CDS	615				hypothetical protein
+MAG168_01197	CDS	177				hypothetical protein
+MAG168_01198	CDS	456				hypothetical protein
+MAG168_01199	CDS	780	hdhA_1	1.1.1.159		7-alpha-hydroxysteroid dehydrogenase
+MAG168_01200	CDS	453				hypothetical protein
+MAG168_01201	CDS	1419	phrA	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+MAG168_01202	CDS	825				hypothetical protein
+MAG168_01203	CDS	294	soxD_1	1.5.3.1		Sarcosine oxidase subunit delta
+MAG168_01204	CDS	1254	soxB_1	1.5.3.1		Sarcosine oxidase subunit beta
+MAG168_01205	CDS	1146	cdhR		COG4977	HTH-type transcriptional regulator CdhR
+MAG168_01206	CDS	2568	dmg	1.5.3.10		Dimethylglycine oxidase
+MAG168_01207	CDS	891		1.1.1.-	COG1028	Putative short-chain type dehydrogenase/reductase
+MAG168_01208	CDS	852	rbn_2	3.1.26.11		Ribonuclease BN
+MAG168_01209	CDS	429				hypothetical protein
+MAG168_01210	CDS	771				hypothetical protein
+MAG168_01211	CDS	225				hypothetical protein
+MAG168_01212	CDS	1131	acdA_4	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+MAG168_01213	CDS	282				hypothetical protein
+MAG168_01214	CDS	1194	ttgD			Toluene efflux pump periplasmic linker protein TtgD
+MAG168_01215	CDS	3162	mdtC_2			Multidrug resistance protein MdtC
+MAG168_01216	CDS	381				hypothetical protein
+MAG168_01217	CDS	873				hypothetical protein
+MAG168_01218	CDS	279				hypothetical protein
+MAG168_01219	CDS	1077	tauD_3	1.14.11.17	COG2175	Alpha-ketoglutarate-dependent taurine dioxygenase
+MAG168_01220	CDS	984	rdpA_5	1.14.11.44		(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+MAG168_01221	CDS	732				hypothetical protein
+MAG168_01222	CDS	1185	gcvT_3	2.1.2.10	COG0404	Aminomethyltransferase
+MAG168_01223	CDS	1275	yeaW_2	1.14.13.-	COG4638	Carnitine monooxygenase oxygenase subunit
+MAG168_01224	CDS	519				hypothetical protein
+MAG168_01225	CDS	870				hypothetical protein
+MAG168_01226	CDS	1002	panF		COG4145	Sodium/pantothenate symporter
+MAG168_01227	CDS	669		4.2.1.84		Low-molecular weight cobalt-containing nitrile hydratase subunit beta
+MAG168_01228	CDS	588		4.2.1.84		Low-molecular weight cobalt-containing nitrile hydratase subunit alpha
+MAG168_01229	CDS	348				hypothetical protein
+MAG168_01230	CDS	747	gstB_4	2.5.1.18	COG0625	Glutathione S-transferase GstB
+MAG168_01231	CDS	279				hypothetical protein
+MAG168_01232	CDS	231				hypothetical protein
+MAG168_01233	CDS	759				hypothetical protein
+MAG168_01234	CDS	249				hypothetical protein
+MAG168_01235	CDS	417				hypothetical protein
+MAG168_01236	CDS	1035	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+MAG168_01237	CDS	618				hypothetical protein
+MAG168_01238	CDS	1665	atsA_3	3.1.6.1	COG3119	Arylsulfatase
+MAG168_01239	CDS	549	eryF	1.14.13.188		6-deoxyerythronolide B hydroxylase
+MAG168_01240	CDS	1176		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+MAG168_01241	CDS	1284		1.14.-.-		Cytochrome P450 CYP107DY1
+MAG168_01242	CDS	195				hypothetical protein
+MAG168_01243	CDS	1827	pnbA_1	3.1.1.-	COG2272	Para-nitrobenzyl esterase
+MAG168_01244	CDS	903			COG2141	putative protein
+MAG168_01245	CDS	1587	lcfB_4	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+MAG168_01246	CDS	1236	yhjX_1			putative MFS-type transporter YhjX
+MAG168_01247	CDS	1236		4.1.2.27	COG0076	putative sphingosine-1-phosphate lyase
+MAG168_01248	CDS	837	fadH	1.3.1.34	COG1028	putative 2,4-dienoyl-CoA reductase
+MAG168_01249	CDS	438				hypothetical protein
+MAG168_01250	CDS	1683	nfdA_3	3.5.1.91		N-substituted formamide deformylase
+MAG168_01251	CDS	1353	ppnN	3.2.2.-	COG1611	Pyrimidine/purine nucleotide 5'-monophosphate nucleosidase
+MAG168_01252	CDS	1191	bktB_1	2.3.1.16	COG0183	Beta-ketothiolase BktB
+MAG168_01253	CDS	96				hypothetical protein
+MAG168_01254	CDS	1128				hypothetical protein
+MAG168_01255	CDS	1197	uctC_5	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+MAG168_01256	CDS	678				hypothetical protein
+MAG168_01257	CDS	1089				hypothetical protein
+MAG168_01258	CDS	1149				hypothetical protein
+MAG168_01259	CDS	405	metH_1	2.1.1.13	COG0646	Methionine synthase
+MAG168_01260	CDS	219				hypothetical protein
+MAG168_01261	CDS	120				hypothetical protein
+MAG168_01262	CDS	1656	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+MAG168_01263	CDS	429				hypothetical protein
+MAG168_01264	CDS	990	acuI	1.3.1.84	COG0604	putative acrylyl-CoA reductase AcuI
+MAG168_01265	CDS	879	sohB	3.4.21.-	COG0616	putative protease SohB
+MAG168_01266	CDS	453		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+MAG168_01267	CDS	1125	acrC_1	1.3.1.95		Acryloyl-CoA reductase (NADH)
+MAG168_01268	CDS	531	yodJ	3.4.-.-	COG1876	Putative carboxypeptidase YodJ
+MAG168_01269	CDS	300				hypothetical protein
+MAG168_01270	CDS	240				hypothetical protein
+MAG168_01271	CDS	2031	hppA1	3.6.1.1	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+MAG168_01272	CDS	582				hypothetical protein
+MAG168_01273	CDS	1260	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+MAG168_01274	CDS	1767		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+MAG168_01275	CDS	288				hypothetical protein
+MAG168_01276	CDS	729	natA_2		COG4555	ABC transporter ATP-binding protein NatA
+MAG168_01277	CDS	1515	caeA_2	3.1.1.-		Carboxylesterase A
+MAG168_01278	CDS	1176	yfdE_1	2.8.3.19	COG1804	Acetyl-CoA:oxalate CoA-transferase
+MAG168_01279	CDS	1752	virA	2.7.13.3		Wide host range VirA protein
+MAG168_01280	CDS	840	dsbD_1	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+MAG168_01281	CDS	423				hypothetical protein
+MAG168_01282	CDS	498				hypothetical protein
+MAG168_01283	CDS	855				hypothetical protein
+MAG168_01284	CDS	402				hypothetical protein
+MAG168_01285	CDS	261				hypothetical protein
+MAG168_01286	CDS	840				hypothetical protein
+MAG168_01287	CDS	168				hypothetical protein
+MAG168_01288	CDS	1185				hypothetical protein
+MAG168_01289	CDS	756	hdhA_2	1.1.1.159		7-alpha-hydroxysteroid dehydrogenase
+MAG168_01290	CDS	1626	nylB'	3.5.1.46		6-aminohexanoate-dimer hydrolase
+MAG168_01291	CDS	702	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+MAG168_01292	CDS	273				hypothetical protein
+MAG168_01293	CDS	651				hypothetical protein
+MAG168_01294	CDS	1740	mcr1	2.7.-.-		putative phosphatidylethanolamine transferase Mcr-1
+MAG168_01295	CDS	924				hypothetical protein
+MAG168_01296	CDS	867	prmA_1	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+MAG168_01297	CDS	438	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+MAG168_01298	CDS	477	dsbD_2	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+MAG168_01299	CDS	801				hypothetical protein
+MAG168_01300	CDS	939	sauS	1.2.1.81	COG1012	Sulfoacetaldehyde dehydrogenase (acylating)
+MAG168_01301	CDS	891				hypothetical protein
+MAG168_01302	CDS	474				hypothetical protein
+MAG168_01303	CDS	1176	yfdE_2	2.8.3.19	COG1804	Acetyl-CoA:oxalate CoA-transferase
+MAG168_01304	CDS	1746	pntE_2	1.14.13.170		Pentalenolactone D synthase
+MAG168_01305	CDS	813	ptlF_3	1.1.1.340		1-deoxy-11-beta-hydroxypentalenate dehydrogenase
+MAG168_01306	CDS	753	linC_3	1.1.1.-		2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase
+MAG168_01307	CDS	963				hypothetical protein
+MAG168_01308	CDS	207				hypothetical protein
+MAG168_01309	CDS	318				hypothetical protein
+MAG168_01310	CDS	687	phoP_2			Transcriptional regulatory protein PhoP
+MAG168_01311	CDS	1332	phoQ	2.7.13.3	COG0642	Sensor protein PhoQ
+MAG168_01312	CDS	237				hypothetical protein
+MAG168_01313	CDS	972		3.6.-.-	COG1703	putative GTPase
+MAG168_01314	CDS	1842	mutB	5.4.99.2	COG1884	putative methylmalonyl-CoA mutase large subunit
+MAG168_01315	CDS	1248	car	1.2.1.-		Carboxylic acid reductase
+MAG168_01316	CDS	216				hypothetical protein
+MAG168_01317	CDS	1470	yagG_4		COG2211	Putative glycoside/cation symporter YagG
+MAG168_01318	CDS	1410		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+MAG168_01319	CDS	498	bktB_2	2.3.1.16	COG0183	Beta-ketothiolase BktB
+MAG168_01320	CDS	696				hypothetical protein
+MAG168_01321	CDS	618				hypothetical protein
+MAG168_01322	CDS	561				hypothetical protein
+MAG168_01323	CDS	933	qbdA_2	1.1.9.1		Quinohemoprotein alcohol dehydrogenase ADH IIB
+MAG168_01324	CDS	1074				hypothetical protein
+MAG168_01325	CDS	273				hypothetical protein
+MAG168_01326	CDS	231				hypothetical protein
+MAG168_01327	CDS	2328				Blue-light-activated protein
+MAG168_01328	CDS	795				hypothetical protein
+MAG168_01329	CDS	771		1.-.-.-		putative oxidoreductase
+MAG168_01330	CDS	1083	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+MAG168_01331	CDS	2616	rne	3.1.26.12	COG1530	Ribonuclease E
+MAG168_01332	CDS	960	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+MAG168_01333	CDS	636	yceF		COG0424	Maf-like protein YceF
+MAG168_01334	CDS	564				hypothetical protein
+MAG168_01335	CDS	186	rpmF		COG0333	50S ribosomal protein L32
+MAG168_01336	CDS	948			COG2141	putative protein
+MAG168_01337	CDS	1395	fprB	1.18.1.2	COG0493	putative ferredoxin/ferredoxin--NADP reductase
+MAG168_01338	CDS	2073				hypothetical protein
+MAG168_01339	CDS	1029	mutY	3.2.2.-	COG1194	Adenine DNA glycosylase
+MAG168_01340	CDS	282			COG2924	putative Fe(2+)-trafficking protein
+MAG168_01341	CDS	2799	ptrA	3.4.24.55	COG1025	Protease 3
+MAG168_01342	CDS	972	yhdN	1.1.1.-	COG0667	Aldo-keto reductase YhdN
+MAG168_01343	CDS	804	uidB_2		COG2211	Glucuronide carrier protein
+MAG168_01344	CDS	474	siaT_2		COG1593	Sialic acid TRAP transporter permease protein SiaT
+MAG168_01345	CDS	1035	siaP		COG1638	Sialic acid-binding periplasmic protein SiaP
+MAG168_01346	CDS	420				hypothetical protein
+MAG168_01347	CDS	1329	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+MAG168_01348	CDS	906	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+MAG168_01349	CDS	3306	accC	6.3.4.14	COG0439	Biotin carboxylase
+MAG168_01350	CDS	858	gltC			HTH-type transcriptional regulator GltC
+MAG168_01351	CDS	1332	pilT_2		COG2805	Twitching mobility protein
+MAG168_01352	CDS	1206	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+MAG168_01353	CDS	633	hisH	2.4.2.-	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+MAG168_01354	CDS	780	hisF	4.1.3.-	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+MAG168_01355	CDS	2382				hypothetical protein
+MAG168_01356	CDS	774				hypothetical protein
+MAG168_01357	CDS	987				hypothetical protein
+MAG168_01358	CDS	1104	iolG_1	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+MAG168_01359	CDS	606	chaC	4.3.2.-	COG3703	Glutathione-specific gamma-glutamylcyclotransferase
+MAG168_01360	CDS	1194	hipO_1	3.5.1.32	COG1473	Hippurate hydrolase
+MAG168_01361	CDS	858	pip_2	3.4.11.5		Proline iminopeptidase
+MAG168_01362	CDS	912				hypothetical protein
+MAG168_01363	CDS	552				hypothetical protein
+MAG168_01364	CDS	282				hypothetical protein
+MAG168_01365	CDS	1143		1.3.99.-	COG1960	putative acyl-CoA dehydrogenase fadE25
+MAG168_01366	CDS	1245		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+MAG168_01367	CDS	963				hypothetical protein
+MAG168_01368	CDS	774				hypothetical protein
+MAG168_01369	CDS	1539		3.1.6.1	COG3119	Arylsulfatase
+MAG168_01370	CDS	492	gloA	4.4.1.5		Lactoylglutathione lyase
+MAG168_01371	CDS	369	ble			Bleomycin resistance protein
+MAG168_01372	CDS	699	creB		COG0745	Transcriptional regulatory protein CreB
+MAG168_01373	CDS	186				hypothetical protein
+MAG168_01374	CDS	900	rbsK/rbiA			Bifunctional ribokinase/ribose-5-phosphate isomerase A
+MAG168_01375	CDS	1797	pnbA_2	3.1.1.-	COG2272	Para-nitrobenzyl esterase
+MAG168_01376	CDS	2388	fyuA_2		COG1629	Pesticin receptor
+MAG168_01377	CDS	252	ftsB		COG2919	Cell division protein FtsB
+MAG168_01378	CDS	1293	eno	4.2.1.11		Enolase
+MAG168_01379	CDS	813	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+MAG168_01380	CDS	1647	pyrG	6.3.4.2	COG0504	CTP synthase
+MAG168_01381	CDS	1302	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+MAG168_01382	CDS	1902	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+MAG168_01383	CDS	2196	selD	2.7.9.3	COG0709	Selenide, water dikinase
+MAG168_01384	CDS	912	mlhB	3.1.1.83		Monoterpene epsilon-lactone hydrolase
+MAG168_01385	CDS	2157				hypothetical protein
+MAG168_01386	CDS	1683				hypothetical protein
+MAG168_01387	CDS	855	fabG_8	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase
+MAG168_01388	CDS	153				hypothetical protein
+MAG168_01389	CDS	1185	pcaF	2.3.1.174		Beta-ketoadipyl-CoA thiolase
+MAG168_01390	CDS	498				hypothetical protein
+MAG168_01391	CDS	819				hypothetical protein
+MAG168_01392	CDS	510	crtK-2		COG3476	Tryptophan-rich protein TspO
+MAG168_01393	CDS	195				hypothetical protein
+MAG168_01394	CDS	825	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+MAG168_01395	CDS	807				hypothetical protein
+MAG168_01396	CDS	750	novR	4.1.-.-		Decarboxylase NovR
+MAG168_01397	CDS	549				hypothetical protein
+MAG168_01398	CDS	1404		1.13.11.43		Lignostilbene-alpha,beta-dioxygenase isozyme I
+MAG168_01399	CDS	291				hypothetical protein
+MAG168_01400	CDS	873		1.1.1.373		3-sulfolactaldehyde reductase
+MAG168_01401	CDS	369	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+MAG168_01402	CDS	228	yidD		COG0759	Putative membrane protein insertion efficiency factor
+MAG168_01403	CDS	1710	yidC			Membrane protein insertase YidC
+MAG168_01404	CDS	1446	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+MAG168_01405	CDS	1878	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+MAG168_01406	CDS	660	rsmG	2.1.1.170	COG0357	Ribosomal RNA small subunit methyltransferase G
+MAG168_01407	CDS	813	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+MAG168_01408	CDS	915	parB		COG1475	putative chromosome-partitioning protein ParB
+MAG168_01409	CDS	360				hypothetical protein
+MAG168_01410	CDS	834	atpB		COG0356	ATP synthase subunit a
+MAG168_01411	CDS	234	atpE		COG0636	ATP synthase subunit c
+MAG168_01412	CDS	471	atpF		COG0711	ATP synthase subunit b
+MAG168_01413	CDS	2112	atpA	3.6.3.14	COG0056	ATP synthase subunit alpha
+MAG168_01414	CDS	861	atpG		COG0224	ATP synthase gamma chain
+MAG168_01415	CDS	1377	atpD	3.6.3.14	COG0055	ATP synthase subunit beta
+MAG168_01416	CDS	429	atpC		COG0355	ATP synthase epsilon chain
+MAG168_01417	CDS	1419	glmU		COG1207	Bifunctional protein GlmU
+MAG168_01418	CDS	1833	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+MAG168_01419	CDS	129				hypothetical protein
+MAG168_01420	CDS	1428				hypothetical protein
+MAG168_01421	CDS	450				hypothetical protein
+MAG168_01422	CDS	1497	lcfB_5	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+MAG168_01423	CDS	612	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+MAG168_01424	CDS	1032	prs_2	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+MAG168_01425	CDS	303				hypothetical protein
+MAG168_01426	CDS	336	bamD_1		COG4105	Outer membrane protein assembly factor BamD
+MAG168_01427	CDS	387	bamD_2		COG4105	Outer membrane protein assembly factor BamD
+MAG168_01428	CDS	1002	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MAG168_01429	CDS	741	yfiH	1.10.3.-	COG1496	Polyphenol oxidase
+MAG168_01430	CDS	522				hypothetical protein
+MAG168_01431	CDS	1767	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+MAG168_01432	CDS	492	ilvH	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit
+MAG168_01433	CDS	789				hypothetical protein
+MAG168_01434	CDS	990	msrP	1.8.5.-	COG2041	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+MAG168_01435	CDS	597	msrQ		COG2717	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+MAG168_01436	CDS	849	echA8_3	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+MAG168_01437	CDS	672				hypothetical protein
+MAG168_01438	CDS	1284	pksS	1.14.-.-	COG2124	Polyketide biosynthesis cytochrome P450 PksS
+MAG168_01439	CDS	2907				hypothetical protein
+MAG168_01440	CDS	864	nirQ		COG0714	Denitrification regulatory protein NirQ
+MAG168_01441	CDS	831	crt_2	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+MAG168_01442	CDS	369		1.-.-.-		putative oxidoreductase
+MAG168_01443	CDS	1344				hypothetical protein
+MAG168_01444	CDS	1251	linC_4	1.14.13.151		Linalool 8-monooxygenase
+MAG168_01445	CDS	456				hypothetical protein
+MAG168_01446	CDS	924	roxA	1.14.11.47	COG2850	50S ribosomal protein L16 3-hydroxylase
+MAG168_01447	CDS	1176				hypothetical protein
+MAG168_01448	CDS	1245	dadA	1.4.99.-	COG0665	D-amino acid dehydrogenase
+MAG168_01449	CDS	1059	ccpA		COG1609	Catabolite control protein A
+MAG168_01450	CDS	1260				hypothetical protein
+MAG168_01451	CDS	1056	tal	2.2.1.2		Transaldolase
+MAG168_01452	CDS	945		1.6.3.5	COG3380	Renalase
+MAG168_01453	CDS	1248	adiC		COG0531	Arginine/agmatine antiporter
+MAG168_01454	CDS	354				hypothetical protein
+MAG168_01455	CDS	681				hypothetical protein
+MAG168_01456	CDS	561				hypothetical protein
+MAG168_01457	CDS	258				hypothetical protein
+MAG168_01458	CDS	825				hypothetical protein
+MAG168_01459	CDS	846	hbd	1.1.1.157	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+MAG168_01460	CDS	936	dhmA_1	3.8.1.5		Haloalkane dehalogenase
+MAG168_01461	CDS	411				hypothetical protein
+MAG168_01462	CDS	957	sdpA_1	1.14.11.43		(S)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+MAG168_01463	CDS	342				hypothetical protein
+MAG168_01464	CDS	147				hypothetical protein
+MAG168_01465	CDS	1188			COG1680	putative protein
+MAG168_01466	CDS	1416	xylP			Isoprimeverose transporter
+MAG168_01467	CDS	909				hypothetical protein
+MAG168_01468	CDS	399	yqjF		COG2259	Inner membrane protein YqjF
+MAG168_01469	CDS	1953	uup		COG0488	ABC transporter ATP-binding protein uup
+MAG168_01470	CDS	621	ligF			Protein LigF
+MAG168_01471	CDS	423				hypothetical protein
+MAG168_01472	CDS	1416	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+MAG168_01473	CDS	597	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+MAG168_01474	CDS	483				hypothetical protein
+MAG168_01475	CDS	1317	ampG_2		COG0477	Protein AmpG
+MAG168_01476	CDS	303				DNA base-flipping protein
+MAG168_01477	CDS	288	groS		COG0234	10 kDa chaperonin
+MAG168_01478	CDS	1656	groL		COG0459	60 kDa chaperonin
+MAG168_01479	CDS	225				hypothetical protein
+MAG168_01480	CDS	1161	acrC_2	1.3.1.95		Acryloyl-CoA reductase (NADH)
+MAG168_01481	CDS	714	caiD_2	4.2.1.149	COG1024	Carnitinyl-CoA dehydratase
+MAG168_01482	CDS	471				hypothetical protein
+MAG168_01483	CDS	1272	yhjX_2			putative MFS-type transporter YhjX
+MAG168_01484	CDS	363				hypothetical protein
+MAG168_01485	CDS	735				hypothetical protein
+MAG168_01486	CDS	711	ttgR			HTH-type transcriptional regulator TtgR
+MAG168_01487	CDS	810	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+MAG168_01488	CDS	1995	apc3	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+MAG168_01489	CDS	156	rpmG		COG0267	50S ribosomal protein L33
+MAG168_01490	CDS	237	rpmB		COG0227	50S ribosomal protein L28
+MAG168_01491	CDS	1227	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+MAG168_01492	CDS	441	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+MAG168_01493	CDS	900	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+MAG168_01494	CDS	630	slmA		COG1309	Nucleoid occlusion factor SlmA
+MAG168_01495	CDS	474	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+MAG168_01496	CDS	588				hypothetical protein
+MAG168_01497	CDS	906	folD			Bifunctional protein FolD protein
+MAG168_01498	CDS	594	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+MAG168_01499	CDS	975	oppF_2		COG4608	Oligopeptide transport ATP-binding protein OppF
+MAG168_01500	CDS	978	oppD_2		COG0444	Oligopeptide transport ATP-binding protein OppD
+MAG168_01501	CDS	828				hypothetical protein
+MAG168_01502	CDS	567	lemA		COG1704	Protein LemA
+MAG168_01503	CDS	582				hypothetical protein
+MAG168_01504	CDS	420	rbr		COG1592	Rubrerythrin
+MAG168_01505	CDS	843	dat	2.6.1.21		D-alanine aminotransferase
+MAG168_01506	CDS	822	crt_3	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+MAG168_01507	CDS	228				hypothetical protein
+MAG168_01508	CDS	1008			COG2141	putative protein
+MAG168_01509	CDS	1023	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+MAG168_01510	CDS	1635	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+MAG168_01511	CDS	603	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+MAG168_01512	CDS	588	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+MAG168_01513	CDS	408				hypothetical protein
+MAG168_01514	CDS	1632	pyrDB	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+MAG168_01515	CDS	591	ccmA	3.6.3.41	COG4133	Cytochrome c biogenesis ATP-binding export protein CcmA
+MAG168_01516	CDS	891	rdgC		COG2974	Recombination-associated protein RdgC
+MAG168_01517	CDS	1173	rfnT			Riboflavin transporter RfnT
+MAG168_01518	CDS	1167	mmgC_2	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+MAG168_01519	CDS	522	selU	2.9.1.-	COG2603	tRNA 2-selenouridine synthase
+MAG168_01520	CDS	1347	ddc	4.1.1.86	COG0076	L-2,4-diaminobutyrate decarboxylase
+MAG168_01521	CDS	762	actIII_1	1.3.1.-		Putative ketoacyl reductase
+MAG168_01522	CDS	891	sadH_2	1.-.-.-		Putative oxidoreductase SadH
+MAG168_01523	CDS	450				hypothetical protein
+MAG168_01524	CDS	831				putative protein
+MAG168_01525	CDS	765	fabG_9	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_01526	CDS	1425	rhlE	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+MAG168_01527	CDS	333				hypothetical protein
+MAG168_01528	CDS	2178	glcB	2.3.3.9	COG2225	Malate synthase G
+MAG168_01529	CDS	912	mcl1	4.1.3.24	COG2301	L-malyl-CoA/beta-methylmalyl-CoA lyase
+MAG168_01530	CDS	825	nei	3.2.2.-	COG0266	Endonuclease 8
+MAG168_01531	CDS	189				hypothetical protein
+MAG168_01532	CDS	948				hypothetical protein
+MAG168_01533	CDS	2007	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+MAG168_01534	CDS	1179				hypothetical protein
+MAG168_01535	CDS	1149			COG1228	putative protein
+MAG168_01536	CDS	831	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+MAG168_01537	CDS	126				hypothetical protein
+MAG168_01538	CDS	558	pdxH_2	1.4.3.5		Pyridoxine/pyridoxamine 5'-phosphate oxidase
+MAG168_01539	CDS	1107	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+MAG168_01540	CDS	441				hypothetical protein
+MAG168_01541	CDS	579	clpP_1	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+MAG168_01542	CDS	1020		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+MAG168_01543	CDS	717	prmA_2	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+MAG168_01544	CDS	1230	acrC_3	1.3.1.95		Acryloyl-CoA reductase (NADH)
+MAG168_01545	CDS	1362		3.4.11.10		Bacterial leucyl aminopeptidase
+MAG168_01546	CDS	642		1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+MAG168_01547	CDS	1023	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+MAG168_01548	CDS	870	aiiA	3.1.1.81		N-acyl homoserine lactonase
+MAG168_01549	CDS	180				hypothetical protein
+MAG168_01550	CDS	1044		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+MAG168_01551	CDS	1140	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+MAG168_01552	CDS	1011	yfdE_3	2.8.3.19	COG1804	Acetyl-CoA:oxalate CoA-transferase
+MAG168_01553	CDS	387				hypothetical protein
+MAG168_01554	CDS	792				hypothetical protein
+MAG168_01555	CDS	846	rpoH_2		COG0568	RNA polymerase sigma factor RpoH
+MAG168_01556	CDS	513	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+MAG168_01557	CDS	723				hypothetical protein
+MAG168_01558	CDS	732				hypothetical protein
+MAG168_01559	CDS	1932	btuB_1		COG4206	Vitamin B12 transporter BtuB
+MAG168_01560	CDS	843	crt_4	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+MAG168_01561	CDS	1308	steT		COG0531	Serine/threonine exchanger SteT
+MAG168_01562	CDS	957	yrbG		COG0530	Inner membrane protein YrbG
+MAG168_01563	CDS	2112	feoB		COG0370	Fe(2+) transporter FeoB
+MAG168_01564	CDS	231	feoA		COG1918	Fe(2+) transport protein A
+MAG168_01565	CDS	768	kduD_2	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+MAG168_01566	CDS	1413				hypothetical protein
+MAG168_01567	CDS	1272	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+MAG168_01568	CDS	759	mhpD	4.2.1.80		2-keto-4-pentenoate hydratase
+MAG168_01569	CDS	627				hypothetical protein
+MAG168_01570	CDS	411	nsaD_1	5.99.1.4		2-hydroxychromene-2-carboxylate isomerase
+MAG168_01571	CDS	600	lon_2	3.4.21.53	COG0466	Lon protease
+MAG168_01572	CDS	273	hupB		COG0776	DNA-binding protein HU-beta
+MAG168_01573	CDS	1893	ppiD	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase D
+MAG168_01574	CDS	1743	mltD	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase D
+MAG168_01575	CDS	768				hypothetical protein
+MAG168_01576	CDS	438	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+MAG168_01577	CDS	189				hypothetical protein
+MAG168_01578	CDS	147				hypothetical protein
+MAG168_01579	CDS	642	betI		COG1309	HTH-type transcriptional regulator BetI
+MAG168_01580	CDS	1617			COG1233	putative protein
+MAG168_01581	CDS	1236	kdpD	2.7.13.3	COG2205	Sensor protein KdpD
+MAG168_01582	CDS	513				hypothetical protein
+MAG168_01583	CDS	981	hlyU		COG0640	Transcriptional activator HlyU
+MAG168_01584	CDS	1362	ahcY	3.3.1.1		Adenosylhomocysteinase
+MAG168_01585	CDS	894	tesB_2	3.1.2.-	COG1946	Acyl-CoA thioesterase 2
+MAG168_01586	CDS	462				hypothetical protein
+MAG168_01587	CDS	366	prdB_1	1.21.4.1		D-proline reductase subunit gamma
+MAG168_01588	CDS	1368	hipO_2	3.5.1.32	COG1473	Hippurate hydrolase
+MAG168_01589	CDS	1248	hutI_1	3.5.2.7		Imidazolonepropionase
+MAG168_01590	CDS	1389	hutI_2	3.5.2.7		Imidazolonepropionase
+MAG168_01591	CDS	951	lon_3	3.4.21.53		Lon protease
+MAG168_01592	CDS	1461				hypothetical protein
+MAG168_01593	CDS	222				hypothetical protein
+MAG168_01594	CDS	1521	lnt	2.3.1.-	COG0815	Apolipoprotein N-acyltransferase
+MAG168_01595	CDS	846	corC		COG4535	Magnesium and cobalt efflux protein CorC
+MAG168_01596	CDS	513	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+MAG168_01597	CDS	996	ybeZ		COG1702	PhoH-like protein
+MAG168_01598	CDS	1416	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+MAG168_01599	CDS	333				hypothetical protein
+MAG168_01600	CDS	1533		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+MAG168_01601	CDS	486	sulD		COG0801	Bifunctional folate synthesis protein
+MAG168_01602	CDS	1086	flhA	1.1.1.284	COG1062	S-(hydroxymethyl)glutathione dehydrogenase
+MAG168_01603	CDS	225	yngHB		COG0511	Biotin/lipoyl attachment protein
+MAG168_01604	CDS	780		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+MAG168_01605	CDS	1053				hypothetical protein
+MAG168_01606	CDS	1845				hypothetical protein
+MAG168_01607	CDS	651				hypothetical protein
+MAG168_01608	CDS	423				hypothetical protein
+MAG168_01609	CDS	1146				hypothetical protein
+MAG168_01610	CDS	321	hip			High-potential iron-sulfur protein
+MAG168_01611	CDS	1491	fumD	3.1.1.87		Fumonisin B1 esterase
+MAG168_01612	CDS	852	tauD_4	1.14.11.17	COG2175	Alpha-ketoglutarate-dependent taurine dioxygenase
+MAG168_01613	CDS	1062				hypothetical protein
+MAG168_01614	CDS	105				hypothetical protein
+MAG168_01615	CDS	2121	hndC	1.12.1.3	COG1145	NADP-reducing hydrogenase subunit HndC
+MAG168_01616	CDS	525				hypothetical protein
+MAG168_01617	CDS	129	yccA		COG0670	Modulator of FtsH protease YccA
+MAG168_01618	CDS	393	dsrE	2.8.1.-	COG1553	Putative sulfurtransferase DsrE
+MAG168_01619	CDS	357	tusC		COG2923	Protein TusC
+MAG168_01620	CDS	264	tusB			Protein TusB
+MAG168_01621	CDS	306	tusE	2.8.1.-	COG2920	Sulfurtransferase TusE
+MAG168_01622	CDS	1164	cysG		COG0007	Siroheme synthase
+MAG168_01623	CDS	879	kce	2.3.1.247	COG3246	3-keto-5-aminohexanoate cleavage enzyme
+MAG168_01624	CDS	1032				hypothetical protein
+MAG168_01625	CDS	357				hypothetical protein
+MAG168_01626	CDS	732	gcvT_4	2.1.2.10	COG0404	Aminomethyltransferase
+MAG168_01627	CDS	2745	soxA_1	1.5.3.1		Sarcosine oxidase subunit alpha
+MAG168_01628	CDS	417				hypothetical protein
+MAG168_01629	CDS	891	dgcT	2.7.7.65		putative diguanylate cyclase DgcT
+MAG168_01630	CDS	1554	phrB	4.1.99.13	COG3046	(6-4) photolyase
+MAG168_01631	CDS	777	ectD	1.14.11.55		Ectoine dioxygenase
+MAG168_01632	CDS	420				hypothetical protein
+MAG168_01633	CDS	501				hypothetical protein
+MAG168_01634	CDS	351				hypothetical protein
+MAG168_01635	CDS	753				hypothetical protein
+MAG168_01636	CDS	696	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+MAG168_01637	CDS	1551	pccB_1	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+MAG168_01638	CDS	321				hypothetical protein
+MAG168_01639	CDS	147				hypothetical protein
+MAG168_01640	CDS	609		3.1.3.3	COG0560	Phosphoserine phosphatase
+MAG168_01641	CDS	888	prpB	4.1.3.30	COG2513	2-methylisocitrate lyase
+MAG168_01642	CDS	1125	prpC_2	2.3.3.5	COG0372	2-methylcitrate synthase
+MAG168_01643	CDS	492		4.1.3.17		Putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase
+MAG168_01644	CDS	1083	ftsK		COG1674	DNA translocase FtsK
+MAG168_01645	CDS	705	lolA		COG2834	Outer-membrane lipoprotein carrier protein
+MAG168_01646	CDS	1395	rarA		COG2256	Replication-associated recombination protein A
+MAG168_01647	CDS	378	crcB		COG0239	Putative fluoride ion transporter CrcB
+MAG168_01648	CDS	117				hypothetical protein
+MAG168_01649	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+MAG168_01650	CDS	663	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+MAG168_01651	CDS	1698	pafA	3.1.3.1		Alkaline phosphatase PafA
+MAG168_01652	CDS	846	tauD_5	1.14.11.17	COG2175	Alpha-ketoglutarate-dependent taurine dioxygenase
+MAG168_01653	CDS	1020				hypothetical protein
+MAG168_01654	CDS	960				hypothetical protein
+MAG168_01655	CDS	1251				hypothetical protein
+MAG168_01656	CDS	1380				hypothetical protein
+MAG168_01657	CDS	885	mmuM_2	2.1.1.10	COG2040	Homocysteine S-methyltransferase
+MAG168_01658	CDS	1299	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+MAG168_01659	CDS	888				hypothetical protein
+MAG168_01660	CDS	924	luxA	1.14.14.3	COG2141	Alkanal monooxygenase alpha chain
+MAG168_01661	CDS	1467				hypothetical protein
+MAG168_01662	CDS	882		3.5.1.-		Carbohydrate deacetylase
+MAG168_01663	CDS	765	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+MAG168_01664	CDS	1077			COG3317	putative protein
+MAG168_01665	CDS	882	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+MAG168_01666	CDS	1053			COG0628	Putative transport protein
+MAG168_01667	CDS	354	tusA_2		COG0425	Sulfur carrier protein TusA
+MAG168_01668	CDS	1857		3.6.3.-		Putative multidrug export ATP-binding/permease protein
+MAG168_01669	CDS	1881			COG1132	putative ABC transporter ATP-binding protein
+MAG168_01670	CDS	1584	ywrD	2.3.2.2	COG0405	Glutathione hydrolase-like YwrD proenzyme
+MAG168_01671	CDS	597	dctM		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+MAG168_01672	CDS	483				hypothetical protein
+MAG168_01673	CDS	894	epsC		COG3031	Type II secretion system protein C
+MAG168_01674	CDS	1890	xcpQ		COG1450	Type II secretion system protein D
+MAG168_01675	CDS	774	bacC_3	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+MAG168_01676	CDS	855				hypothetical protein
+MAG168_01677	CDS	492				Protein MG115 
+MAG168_01678	CDS	870				hypothetical protein
+MAG168_01679	CDS	921				hypothetical protein
+MAG168_01680	CDS	303	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+MAG168_01681	CDS	135	bcp_2	1.11.1.15	COG1225	Peroxiredoxin Bcp
+MAG168_01682	CDS	669	nbzA	1.7.1.16		Nitrobenzene nitroreductase
+MAG168_01683	CDS	1026				hypothetical protein
+MAG168_01684	CDS	615	dcmA	4.5.1.3		Dichloromethane dehalogenase
+MAG168_01685	CDS	813				hypothetical protein
+MAG168_01686	CDS	1023		2.7.1.-	COG3173	Putative aminoglycoside phosphotransferase
+MAG168_01687	CDS	1065	qorA	1.6.5.5	COG0604	Quinone oxidoreductase 1
+MAG168_01688	CDS	705	bbsF	2.8.3.15		Succinyl-CoA:(R)-benzylsuccinate CoA-transferase subunit BbsF
+MAG168_01689	CDS	1230				hypothetical protein
+MAG168_01690	CDS	729				hypothetical protein
+MAG168_01691	CDS	1266	ufaA1	2.1.1.-	COG2230	Tuberculostearic acid methyltransferase UfaA1
+MAG168_01692	CDS	1062	cfa	2.1.1.79	COG2230	Cyclopropane-fatty-acyl-phospholipid synthase
+MAG168_01693	CDS	909				hypothetical protein
+MAG168_01694	CDS	786				hypothetical protein
+MAG168_01695	CDS	237				hypothetical protein
+MAG168_01696	CDS	1254				hypothetical protein
+MAG168_01697	CDS	948	qmcA		COG0330	Protein QmcA
+MAG168_01698	CDS	909				hypothetical protein
+MAG168_01699	CDS	1404	pyk	2.7.1.40		Pyruvate kinase
+MAG168_01700	CDS	1119	dinB	2.7.7.7	COG0389	DNA polymerase IV
+MAG168_01701	CDS	378				hypothetical protein
+MAG168_01702	CDS	1284	gltP_2		COG1301	Proton/glutamate-aspartate symporter
+MAG168_01703	CDS	456				hypothetical protein
+MAG168_01704	CDS	1176	bauA_2	2.6.1.18	COG0161	Beta-alanine--pyruvate aminotransferase
+MAG168_01705	CDS	798	bacC_4	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+MAG168_01706	CDS	984		1.1.1.-	COG1028	Putative short-chain type dehydrogenase/reductase
+MAG168_01707	CDS	1236	fadA_2	2.3.1.-	COG0183	Putative acyltransferase
+MAG168_01708	CDS	1293	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+MAG168_01709	CDS	708				hypothetical protein
+MAG168_01710	CDS	903			COG0053	putative cation efflux system protein
+MAG168_01711	CDS	396				hypothetical protein
+MAG168_01712	CDS	588				hypothetical protein
+MAG168_01713	CDS	963		1.5.5.1	COG0644	Electron transfer flavoprotein-ubiquinone oxidoreductase
+MAG168_01714	CDS	1311	exuT_1			Hexuronate transporter
+MAG168_01715	CDS	954	xerD		COG4974	Tyrosine recombinase XerD
+MAG168_01716	CDS	774	dsbC		COG1651	Thiol:disulfide interchange protein DsbC
+MAG168_01717	CDS	1173	alaC	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaC
+MAG168_01718	CDS	2409	rapA_2	3.6.4.-	COG0553	RNA polymerase-associated protein RapA
+MAG168_01719	CDS	795				hypothetical protein
+MAG168_01720	CDS	108				hypothetical protein
+MAG168_01721	CDS	765				hypothetical protein
+MAG168_01722	CDS	420	yccU		COG1832	putative protein YccU
+MAG168_01723	CDS	429		2.8.1.-	COG0607	Sulfurtransferase
+MAG168_01724	CDS	867			COG2141	putative protein
+MAG168_01725	CDS	825				hypothetical protein
+MAG168_01726	CDS	1029	epd	1.2.1.72	COG0057	D-erythrose-4-phosphate dehydrogenase
+MAG168_01727	CDS	870	hexR		COG1737	HTH-type transcriptional regulator HexR
+MAG168_01728	CDS	696	pgl	3.1.1.31		6-phosphogluconolactonase
+MAG168_01729	CDS	1461	zwf	1.1.1.363	COG0364	Glucose-6-phosphate 1-dehydrogenase
+MAG168_01730	CDS	675	eda		COG0800	KHG/KDPG aldolase
+MAG168_01731	CDS	987	glk	2.7.1.2	COG0837	Glucokinase
+MAG168_01732	CDS	1107	edd	4.2.1.12	COG0129	Phosphogluconate dehydratase
+MAG168_01733	CDS	1023	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+MAG168_01734	CDS	366	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+MAG168_01735	CDS	210				hypothetical protein
+MAG168_01736	CDS	306				hypothetical protein
+MAG168_01737	CDS	528				hypothetical protein
+MAG168_01738	CDS	954	ephA_2	3.3.2.10		Epoxide hydrolase A
+MAG168_01739	CDS	387				hypothetical protein
+MAG168_01740	CDS	1383				hypothetical protein
+MAG168_01741	CDS	678	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+MAG168_01742	CDS	1500	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+MAG168_01743	CDS	999	prfB		COG1186	Peptide chain release factor RF2
+MAG168_01744	CDS	1614	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+MAG168_01745	CDS	903				hypothetical protein
+MAG168_01746	CDS	726		1.1.1.391	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+MAG168_01747	CDS	897		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+MAG168_01748	CDS	1023	gutB	1.1.1.14	COG1063	Sorbitol dehydrogenase
+MAG168_01749	tRNA	77				tRNA-Pro(cgg)
+MAG168_01750	CDS	969	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+MAG168_01751	CDS	315	rplU		COG0261	50S ribosomal protein L21
+MAG168_01752	CDS	261	rpmA		COG0211	50S ribosomal protein L27
+MAG168_01753	CDS	1188	obg	3.6.5.-		GTPase Obg
+MAG168_01754	CDS	1113	proB	2.7.2.11		Glutamate 5-kinase
+MAG168_01755	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+MAG168_01756	CDS	1563	murJ		COG0728	putative lipid II flippase MurJ
+MAG168_01757	CDS	933	ribF		COG0196	Riboflavin biosynthesis protein RibF
+MAG168_01758	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+MAG168_01759	CDS	465	fkpB	5.2.1.8	COG1047	FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase
+MAG168_01760	CDS	963	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+MAG168_01761	CDS	372	pilE		COG4969	Fimbrial protein
+MAG168_01762	CDS	567	pilE1		COG4969	Fimbrial protein
+MAG168_01763	CDS	483				hypothetical protein
+MAG168_01764	CDS	1002				hypothetical protein
+MAG168_01765	CDS	561				hypothetical protein
+MAG168_01766	CDS	1149	iolG_2	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+MAG168_01767	CDS	1077	xdh	1.1.1.179		D-xylose dehydrogenase
+MAG168_01768	CDS	1209	galK	2.7.1.6	COG0153	Galactokinase
+MAG168_01769	CDS	720	hddC	2.7.7.71		D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+MAG168_01770	CDS	915				hypothetical protein
+MAG168_01771	CDS	252				hypothetical protein
+MAG168_01772	CDS	1206	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+MAG168_01773	CDS	1293	linC_5	1.14.13.151		Linalool 8-monooxygenase
+MAG168_01774	CDS	1632	accD5	6.4.1.3	COG4799	putative propionyl-CoA carboxylase beta chain 5
+MAG168_01775	CDS	1995	accA1		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+MAG168_01776	CDS	777	caiD_3	4.2.1.149		Carnitinyl-CoA dehydratase
+MAG168_01777	CDS	1767				hypothetical protein
+MAG168_01778	CDS	780	fabG_10	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_01779	CDS	498				hypothetical protein
+MAG168_01780	CDS	702	actIII_2	1.3.1.-		Putative ketoacyl reductase
+MAG168_01781	CDS	177				hypothetical protein
+MAG168_01782	CDS	2016	ligA	6.5.1.2	COG0272	DNA ligase
+MAG168_01783	CDS	846	zipA		COG3115	Cell division protein ZipA
+MAG168_01784	CDS	2550	smc_1		COG1196	Chromosome partition protein Smc
+MAG168_01785	CDS	387	nfdA_4	3.5.1.91		N-substituted formamide deformylase
+MAG168_01786	CDS	843	yciC		COG0523	Putative metal chaperone YciC
+MAG168_01787	CDS	546				hypothetical protein
+MAG168_01788	CDS	516	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+MAG168_01789	CDS	483	msrC	1.8.4.14	COG1956	Free methionine-R-sulfoxide reductase
+MAG168_01790	CDS	3867	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+MAG168_01791	CDS	546	nudC_1	3.6.1.22	COG2816	NADH pyrophosphatase
+MAG168_01792	CDS	570	nudL_2	3.6.1.-		putative Nudix hydrolase NudL
+MAG168_01793	CDS	519	yrdA		COG0663	Protein YrdA
+MAG168_01794	CDS	543	nqrB_2	1.6.5.8	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+MAG168_01795	CDS	828	nqrC	1.6.5.8	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+MAG168_01796	CDS	660	nqrD	1.6.5.8	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+MAG168_01797	CDS	609	nqrE	1.6.5.8	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+MAG168_01798	CDS	1224	nqrF	1.6.5.8	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+MAG168_01799	CDS	777				hypothetical protein
+MAG168_01800	CDS	750				hypothetical protein
+MAG168_01801	CDS	1026				hypothetical protein
+MAG168_01802	CDS	756				hypothetical protein
+MAG168_01803	CDS	156				hypothetical protein
+MAG168_01804	CDS	102				hypothetical protein
+MAG168_01805	CDS	972				hypothetical protein
+MAG168_01806	CDS	2118	cyaA_2	4.6.1.1	COG2114	Adenylate cyclase 1
+MAG168_01807	CDS	336	bolA		COG0271	DNA-binding transcriptional regulator BolA
+MAG168_01808	CDS	285				hypothetical protein
+MAG168_01809	CDS	426	yhfA		COG1765	Protein YhfA
+MAG168_01810	CDS	822	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+MAG168_01811	CDS	1032	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+MAG168_01812	CDS	591	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+MAG168_01813	CDS	1173	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+MAG168_01814	CDS	186				hypothetical protein
+MAG168_01815	CDS	861				hypothetical protein
+MAG168_01816	CDS	873	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+MAG168_01817	CDS	354	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+MAG168_01818	CDS	1512	abgB	3.5.1.-	COG1473	p-aminobenzoyl-glutamate hydrolase subunit B
+MAG168_01819	CDS	1080	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+MAG168_01820	CDS	669	hda		COG0593	DnaA regulatory inactivator Hda
+MAG168_01821	CDS	1185			COG0628	Putative transport protein
+MAG168_01822	CDS	1125				hypothetical protein
+MAG168_01823	CDS	891				hypothetical protein
+MAG168_01824	CDS	567	dcd	3.5.4.13		dCTP deaminase
+MAG168_01825	CDS	834	apbC		COG0489	Iron-sulfur cluster carrier protein
+MAG168_01826	CDS	225				hypothetical protein
+MAG168_01827	CDS	678				hypothetical protein
+MAG168_01828	CDS	765	smc_2			Chromosome partition protein Smc
+MAG168_01829	CDS	618				hypothetical protein
+MAG168_01830	CDS	1728	gspA			Putative general secretion pathway protein A
+MAG168_01831	CDS	879	yihG	2.3.-.-	COG0204	putative acyltransferase YihG
+MAG168_01832	CDS	540	sdcS		COG0471	Sodium-dependent dicarboxylate transporter SdcS
+MAG168_01833	CDS	630	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+MAG168_01834	CDS	906	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+MAG168_01835	CDS	1230	mdeA	4.4.1.11		L-methionine gamma-lyase
+MAG168_01836	CDS	1344	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+MAG168_01837	CDS	1419	sbcB	3.1.11.1	COG2925	Exodeoxyribonuclease I
+MAG168_01838	CDS	2949				hypothetical protein
+MAG168_01839	CDS	603	eamB		COG1280	Cysteine/O-acetylserine efflux protein
+MAG168_01840	CDS	810	hapE	1.14.13.84		4-hydroxyacetophenone monooxygenase
+MAG168_01841	CDS	516	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+MAG168_01842	CDS	1425	aam_5	3.5.1.13	COG0154	Acylamidase
+MAG168_01843	CDS	1380	tolC		COG1538	Outer membrane protein TolC
+MAG168_01844	CDS	1032	degP_1	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+MAG168_01845	CDS	783				hypothetical protein
+MAG168_01846	CDS	726				hypothetical protein
+MAG168_01847	CDS	852	nudC_2	3.6.1.22	COG2816	NADH pyrophosphatase
+MAG168_01848	CDS	750				hypothetical protein
+MAG168_01849	CDS	687	modB		COG4149	Molybdenum transport system permease protein ModB
+MAG168_01850	CDS	1095	cysA	3.6.3.25	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+MAG168_01851	CDS	984	srkA	2.7.11.1	COG2334	Stress response kinase A
+MAG168_01852	CDS	1137				hypothetical protein
+MAG168_01853	CDS	501	bar	2.3.1.183	COG1247	Phosphinothricin N-acetyltransferase
+MAG168_01854	CDS	756	tauE			putative sulfite/organosulfonate exporter TauE
+MAG168_01855	CDS	783	fabG_11	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_01856	CDS	414				hypothetical protein
+MAG168_01857	CDS	564	syd			Protein Syd
+MAG168_01858	CDS	135				hypothetical protein
+MAG168_01859	CDS	519	styC	5.3.99.7		Styrene-oxide isomerase
+MAG168_01860	CDS	885				hypothetical protein
+MAG168_01861	CDS	1074	dap4	3.4.14.5		Dipeptidyl aminopeptidase 4
+MAG168_01862	CDS	879	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+MAG168_01863	CDS	849				hypothetical protein
+MAG168_01864	CDS	963	moaA	4.1.99.22	COG2896	GTP 3',8-cyclase
+MAG168_01865	CDS	153				hypothetical protein
+MAG168_01866	CDS	381	linC_6	1.14.13.151		Linalool 8-monooxygenase
+MAG168_01867	CDS	918		3.1.1.10		Tropinesterase
+MAG168_01868	CDS	1320	linC_7	1.14.13.151		Linalool 8-monooxygenase
+MAG168_01869	CDS	2202	infB		COG0532	Translation initiation factor IF-2
+MAG168_01870	CDS	381	rbfA		COG0858	Ribosome-binding factor A
+MAG168_01871	CDS	927	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+MAG168_01872	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+MAG168_01873	CDS	2271	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+MAG168_01874	CDS	690	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+MAG168_01875	CDS	1224				hypothetical protein
+MAG168_01876	CDS	1176	exuT_2			Hexuronate transporter
+MAG168_01877	CDS	573				hypothetical protein
+MAG168_01878	CDS	1386	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+MAG168_01879	CDS	348				hypothetical protein
+MAG168_01880	CDS	366				hypothetical protein
+MAG168_01881	CDS	438				hypothetical protein
+MAG168_01882	CDS	237	ycgL		COG3100	Protein YcgL
+MAG168_01883	CDS	1116	rnd	3.1.13.5	COG0349	Ribonuclease D
+MAG168_01884	CDS	513	recR		COG0353	Recombination protein RecR
+MAG168_01885	CDS	1059				hypothetical protein
+MAG168_01886	CDS	822		3.3.2.10		Soluble epoxide hydrolase
+MAG168_01887	CDS	237				hypothetical protein
+MAG168_01888	CDS	1032				hypothetical protein
+MAG168_01889	CDS	303				hypothetical protein
+MAG168_01890	CDS	639				hypothetical protein
+MAG168_01891	CDS	738				hypothetical protein
+MAG168_01892	CDS	345				hypothetical protein
+MAG168_01893	CDS	525				hypothetical protein
+MAG168_01894	CDS	378				hypothetical protein
+MAG168_01895	CDS	165				hypothetical protein
+MAG168_01896	CDS	351				hypothetical protein
+MAG168_01897	CDS	1530		1.1.3.47		5-(hydroxymethyl)furfural oxidase
+MAG168_01898	CDS	747		4.1.3.1	COG2224	Isocitrate lyase
+MAG168_01899	CDS	927		1.1.1.119	COG1028	Glucose 1-dehydrogenase
+MAG168_01900	tRNA	93				tRNA-SeC(tca)
+MAG168_01901	CDS	1194		1.14.-.-	COG2124	Putative cytochrome P450 126
+MAG168_01902	CDS	333	gltA	2.3.3.16	COG0372	Citrate synthase
+MAG168_01903	CDS	519	ppiB_2	5.2.1.8	COG0652	putative peptidyl-prolyl cis-trans isomerase
+MAG168_01904	CDS	993		1.-.-.-	COG1052	Putative 2-hydroxyacid dehydrogenase
+MAG168_01905	CDS	1443				hypothetical protein
+MAG168_01906	CDS	2127	hlyB		COG2274	Alpha-hemolysin translocation ATP-binding protein HlyB
+MAG168_01907	CDS	1308	hlyD			Hemolysin secretion protein D, chromosomal
+MAG168_01908	CDS	300	crt_5	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+MAG168_01909	CDS	837	ygfZ		COG0354	tRNA-modifying protein YgfZ
+MAG168_01910	CDS	255	sdhE		COG2938	FAD assembly factor SdhE
+MAG168_01911	CDS	420				hypothetical protein
+MAG168_01912	CDS	1614	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+MAG168_01913	CDS	576	rpoE_2		COG1595	ECF RNA polymerase sigma-E factor
+MAG168_01914	CDS	609				hypothetical protein
+MAG168_01915	CDS	1020	mucB		COG3026	Sigma factor AlgU regulatory protein MucB
+MAG168_01916	CDS	393				hypothetical protein
+MAG168_01917	CDS	1389	degP_2	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+MAG168_01918	CDS	216				hypothetical protein
+MAG168_01919	CDS	654	cobC	3.1.3.73	COG0406	Adenosylcobalamin/alpha-ribazole phosphatase
+MAG168_01920	CDS	1533	lcfB_6	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+MAG168_01921	CDS	1911		4.2.1.112		Acetylene hydratase
+MAG168_01922	CDS	552				hypothetical protein
+MAG168_01923	CDS	468	prdB_2	1.21.4.1		D-proline reductase subunit gamma
+MAG168_01924	CDS	747				hypothetical protein
+MAG168_01925	CDS	849	sdpA_2	1.14.11.43		(S)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+MAG168_01926	CDS	621				hypothetical protein
+MAG168_01927	CDS	405				hypothetical protein
+MAG168_01928	CDS	477	nudC_3	3.6.1.22		NADH pyrophosphatase
+MAG168_01929	CDS	771	gno_2	1.1.1.-		Gluconate 5-dehydrogenase
+MAG168_01930	CDS	495				hypothetical protein
+MAG168_01931	CDS	582	ydaF	2.3.1.-	COG1670	Putative ribosomal N-acetyltransferase YdaF
+MAG168_01932	CDS	1050	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+MAG168_01933	CDS	822		1.-.-.-		putative oxidoreductase
+MAG168_01934	CDS	3318	tolB_2		COG0823	Protein TolB
+MAG168_01935	CDS	1203	acrC_4	1.3.1.95		Acryloyl-CoA reductase (NADH)
+MAG168_01936	CDS	987	lip1	3.1.1.3		Lipase 1
+MAG168_01937	CDS	2076	bglA	3.2.1.73		Beta-glucanase
+MAG168_01938	CDS	1257	linC_8	1.14.13.151		Linalool 8-monooxygenase
+MAG168_01939	CDS	1584	guaA_2	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+MAG168_01940	CDS	399				hypothetical protein
+MAG168_01941	CDS	150				hypothetical protein
+MAG168_01942	CDS	1839	novN	2.1.3.12		Decarbamoylnovobiocin carbamoyltransferase
+MAG168_01943	CDS	195				hypothetical protein
+MAG168_01944	CDS	1176		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+MAG168_01945	CDS	1170	mggB_2	3.1.3.-	COG0737	Mannosylglucosyl-3-phosphoglycerate phosphatase
+MAG168_01946	CDS	999	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+MAG168_01947	CDS	1500				hypothetical protein
+MAG168_01948	CDS	489				hypothetical protein
+MAG168_01949	CDS	975				hypothetical protein
+MAG168_01950	CDS	1161	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+MAG168_01951	CDS	1215				hypothetical protein
+MAG168_01952	CDS	1995				hypothetical protein
+MAG168_01953	CDS	1230				hypothetical protein
+MAG168_01954	CDS	840	tsaC1	1.2.1.62		4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2
+MAG168_01955	CDS	750				hypothetical protein
+MAG168_01956	CDS	1224	cntA	1.14.13.-	COG4638	Carnitine monooxygenase oxygenase subunit
+MAG168_01957	CDS	798		3.5.1.29		2-(acetamidomethylene)succinate hydrolase
+MAG168_01958	CDS	822	tauD_6	1.14.11.17	COG2175	Alpha-ketoglutarate-dependent taurine dioxygenase
+MAG168_01959	CDS	1473		1.13.11.75		Apocarotenoid-15,15'-oxygenase
+MAG168_01960	CDS	615	yfcG_3	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YfcG
+MAG168_01961	CDS	1188		1.1.2.-	COG0277	L-gulono-1,4-lactone dehydrogenase
+MAG168_01962	CDS	720		3.1.3.3	COG0560	Phosphoserine phosphatase
+MAG168_01963	CDS	576	efp		COG0231	Elongation factor P
+MAG168_01964	CDS	921	epmA	6.3.1.-	COG2269	Elongation factor P--(R)-beta-lysine ligase
+MAG168_01965	CDS	906	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+MAG168_01966	CDS	546	orn	3.1.-.-	COG1949	Oligoribonuclease
+MAG168_01967	CDS	1101	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+MAG168_01968	CDS	975	ephA_3	3.3.2.10		Epoxide hydrolase A
+MAG168_01969	CDS	399				hypothetical protein
+MAG168_01970	CDS	2427	abo	1.5.3.19		4-methylaminobutanoate oxidase (formaldehyde-forming)
+MAG168_01971	CDS	288				hypothetical protein
+MAG168_01972	CDS	1773	yheI_2	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MAG168_01973	CDS	174				hypothetical protein
+MAG168_01974	CDS	3051	swrC		COG0841	Swarming motility protein SwrC
+MAG168_01975	CDS	834	mdtC_3			Multidrug resistance protein MdtC
+MAG168_01976	CDS	603	gstB_5	2.5.1.18	COG0625	Glutathione S-transferase GST-6.0
+MAG168_01977	CDS	846				hypothetical protein
+MAG168_01978	CDS	801		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+MAG168_01979	CDS	2367	mrcA		COG5009	Penicillin-binding protein 1A
+MAG168_01980	CDS	1074	ftsA			Cell division protein FtsA
+MAG168_01981	CDS	570				hypothetical protein
+MAG168_01982	CDS	642				hypothetical protein
+MAG168_01983	CDS	552				hypothetical protein
+MAG168_01984	CDS	2094	pilQ			Type IV pilus biogenesis and competence protein PilQ
+MAG168_01985	CDS	543	aroK_1	2.7.1.71	COG0703	Shikimate kinase 1
+MAG168_01986	CDS	1110	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+MAG168_01987	CDS	1440	gltB_1	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+MAG168_01988	CDS	4563	gltB_2	1.4.7.1		Ferredoxin-dependent glutamate synthase 1
+MAG168_01989	CDS	1122	gcvT_5	2.1.2.10	COG0404	Aminomethyltransferase
+MAG168_01990	CDS	312				hypothetical protein
+MAG168_01991	CDS	192				hypothetical protein
+MAG168_01992	CDS	240				hypothetical protein
+MAG168_01993	CDS	135				hypothetical protein
+MAG168_01994	tRNA	76				tRNA-Phe(gaa)
+MAG168_01995	CDS	1488	uvrB		COG0556	UvrABC system protein B
+MAG168_01996	CDS	201				hypothetical protein
+MAG168_01997	tRNA	77				tRNA-Val(gac)
+MAG168_01998	CDS	2052	ltaS1_2		COG1368	Lipoteichoic acid synthase 1
+MAG168_01999	CDS	699	baeR		COG0745	Transcriptional regulatory protein BaeR
+MAG168_02000	CDS	1221	fabB	2.3.1.41		3-oxoacyl-[acyl-carrier-protein] synthase 1
+MAG168_02001	CDS	528	fabA	4.2.1.59	COG0764	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+MAG168_02002	CDS	1452		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+MAG168_02003	CDS	1113	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+MAG168_02004	CDS	633				hypothetical protein
+MAG168_02005	CDS	711	ubiG_3	2.1.1.222	COG2227	Ubiquinone biosynthesis O-methyltransferase
+MAG168_02006	CDS	1317	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+MAG168_02007	CDS	579				hypothetical protein
+MAG168_02008	CDS	486	epsM		COG3149	Type II secretion system protein M
+MAG168_02009	CDS	1212	epsL		COG3297	Type II secretion system protein L
+MAG168_02010	CDS	480	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+MAG168_02011	CDS	369				hypothetical protein
+MAG168_02012	CDS	168				hypothetical protein
+MAG168_02013	CDS	594				hypothetical protein
+MAG168_02014	CDS	768				hypothetical protein
+MAG168_02015	CDS	1284				hypothetical protein
+MAG168_02016	CDS	1518				hypothetical protein
+MAG168_02017	CDS	438	uspA2		COG0589	Universal stress protein A 
+MAG168_02018	CDS	546				hypothetical protein
+MAG168_02019	CDS	2745	topA	5.99.1.2	COG0550	DNA topoisomerase 1
+MAG168_02020	CDS	597	lexA	3.4.21.88	COG1974	LexA repressor
+MAG168_02021	CDS	609				hypothetical protein
+MAG168_02022	CDS	1074	ynaI		COG0668	Low conductance mechanosensitive channel YnaI
+MAG168_02023	CDS	717				hypothetical protein
+MAG168_02024	CDS	744		2.4.2.44	COG0005	S-methyl-5'-thioinosine phosphorylase
+MAG168_02025	CDS	1053				hypothetical protein
+MAG168_02026	CDS	375	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+MAG168_02027	CDS	1848	pntE_3	1.14.13.170		Pentalenolactone D synthase
+MAG168_02028	CDS	702	motB_2		COG1360	Motility protein B
+MAG168_02029	CDS	381	pomA		COG1291	Chemotaxis protein PomA
+MAG168_02030	CDS	549				hypothetical protein
+MAG168_02031	CDS	636		1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+MAG168_02032	CDS	888				hypothetical protein
+MAG168_02033	CDS	273				hypothetical protein
+MAG168_02034	CDS	1731			COG3653	putative protein
+MAG168_02035	CDS	450				hypothetical protein
+MAG168_02036	CDS	816				hypothetical protein
+MAG168_02037	CDS	1566		3.1.6.1	COG3119	Arylsulfatase
+MAG168_02038	CDS	183				hypothetical protein
+MAG168_02039	CDS	522	ddn_2	1.-.-.-		Deazaflavin-dependent nitroreductase
+MAG168_02040	CDS	414				putative protein
+MAG168_02041	CDS	819				hypothetical protein
+MAG168_02042	CDS	843				hypothetical protein
+MAG168_02043	CDS	609	mtnB	4.2.1.109		Methylthioribulose-1-phosphate dehydratase
+MAG168_02044	CDS	585	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+MAG168_02045	CDS	255				hypothetical protein
+MAG168_02046	CDS	207				hypothetical protein
+MAG168_02047	CDS	996	thadh	4.3.1.16		L-threo-3-hydroxyaspartate ammonia-lyase
+MAG168_02048	CDS	1668	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+MAG168_02049	CDS	753	yfcA		COG0730	putative membrane transporter protein YfcA
+MAG168_02050	CDS	963				hypothetical protein
+MAG168_02051	CDS	2013	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+MAG168_02052	CDS	888				hypothetical protein
+MAG168_02053	CDS	372				hypothetical protein
+MAG168_02054	CDS	1401	yeaW_3	1.14.13.-	COG4638	Carnitine monooxygenase oxygenase subunit
+MAG168_02055	CDS	306				hypothetical protein
+MAG168_02056	CDS	756				hypothetical protein
+MAG168_02057	CDS	537				hypothetical protein
+MAG168_02058	CDS	1185				hypothetical protein
+MAG168_02059	CDS	1011				hypothetical protein
+MAG168_02060	CDS	1062	aroG	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+MAG168_02061	CDS	396				hypothetical protein
+MAG168_02062	CDS	555	pyrR_2	2.4.2.9		Bifunctional protein PyrR
+MAG168_02063	CDS	1224				hypothetical protein
+MAG168_02064	CDS	1287	guaD	3.5.4.3	COG0402	Guanine deaminase
+MAG168_02065	CDS	333	hiuH	3.5.2.17	COG2351	5-hydroxyisourate hydrolase
+MAG168_02066	CDS	501				hypothetical protein
+MAG168_02067	CDS	828				hypothetical protein
+MAG168_02068	CDS	2001	xdhA_2	1.17.1.4	COG1529	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+MAG168_02069	CDS	279				hypothetical protein
+MAG168_02070	CDS	312				hypothetical protein
+MAG168_02071	CDS	1539	mtgB	2.1.1.-	COG5598	Glycine betaine methyltransferase
+MAG168_02072	CDS	702	metH_2	2.1.1.13	COG0646	Methionine synthase
+MAG168_02073	CDS	594				hypothetical protein
+MAG168_02074	CDS	330				hypothetical protein
+MAG168_02075	CDS	903	acsE	2.1.1.258	COG1410	5-methyltetrahydrofolate:corrinoid/iron-sulfur protein co-methyltransferase
+MAG168_02076	CDS	2097				hypothetical protein
+MAG168_02077	CDS	651	soxG	1.5.3.1		Sarcosine oxidase subunit gamma
+MAG168_02078	CDS	2775	soxA_2	1.5.3.1		Sarcosine oxidase subunit alpha
+MAG168_02079	CDS	93				hypothetical protein
+MAG168_02080	CDS	1143	yjiB_3	1.14.-.-	COG2124	Putative cytochrome P450 YjiB
+MAG168_02081	CDS	846	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+MAG168_02082	CDS	510				hypothetical protein
+MAG168_02083	CDS	546	ampD	3.5.1.28	COG3023	1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD
+MAG168_02084	CDS	825				hypothetical protein
+MAG168_02085	CDS	834	btuF		COG0614	Vitamin B12-binding protein
+MAG168_02086	CDS	2673	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+MAG168_02087	CDS	570				hypothetical protein
+MAG168_02088	CDS	978				hypothetical protein
+MAG168_02089	CDS	1344	ndoB	1.14.12.12		Naphthalene 1,2-dioxygenase system, large oxygenase component
+MAG168_02090	CDS	966	dhmA1_2	3.8.1.5		Haloalkane dehalogenase 1
+MAG168_02091	CDS	1185	prpF	5.3.3.-	COG2828	2-methyl-aconitate isomerase
+MAG168_02092	CDS	1026	acnD	4.2.1.117	COG1048	2-methylcitrate dehydratase (2-methyl-trans-aconitate forming)
+MAG168_02093	CDS	1299	bbsG	1.3.8.3		(R)-benzylsuccinyl-CoA dehydrogenase
+MAG168_02094	CDS	1263			COG1680	putative protein
+MAG168_02095	CDS	1491	pepD	3.4.-.-	COG4690	Dipeptidase
+MAG168_02096	CDS	1209	argJ			Arginine biosynthesis bifunctional protein ArgJ
+MAG168_02097	CDS	2724	secA		COG0653	Protein translocase subunit SecA
+MAG168_02098	CDS	960	mepM_3	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+MAG168_02099	CDS	438				hypothetical protein
+MAG168_02100	CDS	933	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+MAG168_02101	CDS	1011	ftsZ		COG0206	Cell division protein FtsZ
+MAG168_02102	CDS	393	coaE_2	2.7.1.24	COG0237	Dephospho-CoA kinase
+MAG168_02103	CDS	786				hypothetical protein
+MAG168_02104	CDS	420				hypothetical protein
+MAG168_02105	tRNA	75				tRNA-Arg(cct)
+MAG168_02106	CDS	1242	oxlT			Oxalate:formate antiporter
+MAG168_02107	CDS	738				hypothetical protein
+MAG168_02108	CDS	420				hypothetical protein
+MAG168_02109	CDS	2598				hypothetical protein
+MAG168_02110	CDS	972	soxB_2	1.5.3.1		Sarcosine oxidase subunit beta
+MAG168_02111	CDS	288	soxD_2	1.5.3.1		Sarcosine oxidase subunit delta
+MAG168_02112	CDS	2703	glnD_2		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+MAG168_02113	CDS	441	map_2	3.4.11.18	COG0024	Methionine aminopeptidase
+MAG168_02114	CDS	351				hypothetical protein
+MAG168_02115	CDS	1113		1.-.-.-		NADH oxidase
+MAG168_02116	CDS	744				hypothetical protein
+MAG168_02117	CDS	1452	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+MAG168_02118	CDS	1461	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+MAG168_02119	CDS	294	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+MAG168_02120	CDS	1038	mreB		COG1077	Rod shape-determining protein MreB
+MAG168_02121	CDS	873	mreC		COG1792	Cell shape-determining protein MreC
+MAG168_02122	CDS	495	mreD		COG2891	Rod shape-determining protein MreD
+MAG168_02123	CDS	564	yhdE		COG0424	Maf-like protein YhdE
+MAG168_02124	CDS	579				hypothetical protein
+MAG168_02125	CDS	816	cysQ	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+MAG168_02126	CDS	666	yrfG	3.1.3.5	COG1011	GMP/IMP nucleotidase YrfG
+MAG168_02127	CDS	375	hslR		COG1188	Heat shock protein 15
+MAG168_02128	CDS	1578	gshA	6.3.2.2	COG2918	Glutamate--cysteine ligase
+MAG168_02129	CDS	642	acpH	3.1.4.14	COG3124	Acyl carrier protein phosphodiesterase
+MAG168_02130	CDS	501	dsbB		COG1495	Disulfide bond formation protein B
+MAG168_02131	CDS	1176		1.14.13.114		6-hydroxynicotinate 3-monooxygenase
+MAG168_02132	CDS	1110		1.3.99.-		Acyl-CoA dehydrogenase FadE27
+MAG168_02133	CDS	1248		1.3.99.-		Acyl-CoA dehydrogenase FadE34
+MAG168_02134	CDS	372				hypothetical protein
+MAG168_02135	CDS	1191		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+MAG168_02136	CDS	159				hypothetical protein
+MAG168_02137	CDS	213	cspA_3		COG1278	Major cold shock protein CspA
+MAG168_02138	CDS	2619	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+MAG168_02139	CDS	498				hypothetical protein
+MAG168_02140	CDS	921	echA8_4	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+MAG168_02141	CDS	750				hypothetical protein
+MAG168_02142	CDS	354				hypothetical protein
+MAG168_02143	CDS	375				hypothetical protein
+MAG168_02144	CDS	1644			COG1292	Glycine betaine/proline/choline transporter
+MAG168_02145	CDS	603	nsaD_2	5.99.1.4		2-hydroxychromene-2-carboxylate isomerase
+MAG168_02146	CDS	867	crt_6	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+MAG168_02147	CDS	372	limA	3.3.2.8		Limonene-1,2-epoxide hydrolase
+MAG168_02148	CDS	297				hypothetical protein
+MAG168_02149	CDS	816	truA_2	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+MAG168_02150	CDS	540	paaG_2	5.3.3.18	COG1024	1,2-epoxyphenylacetyl-CoA isomerase
+MAG168_02151	CDS	1278	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+MAG168_02152	CDS	453	arsC	1.20.4.4	COG0394	Arsenate reductase
+MAG168_02153	CDS	474				hypothetical protein
+MAG168_02154	CDS	1902	parE	5.99.1.3	COG0187	DNA topoisomerase 4 subunit B
+MAG168_02155	CDS	90				hypothetical protein
+MAG168_02156	CDS	423				hypothetical protein
+MAG168_02157	CDS	441				hypothetical protein
+MAG168_02158	CDS	633				hypothetical protein
+MAG168_02159	CDS	594				hypothetical protein
+MAG168_02160	CDS	2229		3.4.21.26		Prolyl endopeptidase
+MAG168_02161	CDS	960				hypothetical protein
+MAG168_02162	CDS	444	mepM_4	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+MAG168_02163	CDS	1416	der		COG1160	GTPase Der
+MAG168_02164	CDS	1203	bamB		COG1520	Outer membrane protein assembly factor BamB
+MAG168_02165	CDS	768				hypothetical protein
+MAG168_02166	CDS	1257	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+MAG168_02167	CDS	1122	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+MAG168_02168	CDS	732	rodZ		COG1426	Cytoskeleton protein RodZ
+MAG168_02169	CDS	1257	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+MAG168_02170	CDS	1173	hisZ		COG3705	ATP phosphoribosyltransferase regulatory subunit
+MAG168_02171	CDS	192				hypothetical protein
+MAG168_02172	CDS	876	hflC		COG0330	Modulator of FtsH protease HflC
+MAG168_02173	CDS	1137	hflK		COG0330	Modulator of FtsH protease HflK
+MAG168_02174	CDS	1281	hflX		COG2262	GTPase HflX
+MAG168_02175	CDS	243	hfq		COG1923	RNA-binding protein Hfq
+MAG168_02176	CDS	927	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+MAG168_02177	CDS	1815	mutL		COG0323	DNA mismatch repair protein MutL
+MAG168_02178	CDS	1377	amiC	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase AmiC
+MAG168_02179	CDS	456	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+MAG168_02180	CDS	402	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+MAG168_02181	CDS	483	iorA_1	1.3.99.16		Isoquinoline 1-oxidoreductase subunit alpha
+MAG168_02182	CDS	312				hypothetical protein
+MAG168_02183	CDS	309				hypothetical protein
+MAG168_02184	CDS	1422	yagG_5		COG2211	Putative glycoside/cation symporter YagG
+MAG168_02185	CDS	801				hypothetical protein
+MAG168_02186	CDS	477	iorA_2	1.3.99.16		Isoquinoline 1-oxidoreductase subunit alpha
+MAG168_02187	CDS	741	fabG_12	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_02188	CDS	753	fabG2	1.-.-.-		putative oxidoreductase
+MAG168_02189	CDS	1263	lepA	3.6.5.-	COG0481	Elongation factor 4
+MAG168_02190	CDS	780	lepB_2	3.4.21.89	COG0681	Signal peptidase I
+MAG168_02191	CDS	384				hypothetical protein
+MAG168_02192	CDS	696	rnc	3.1.26.3	COG0571	Ribonuclease 3
+MAG168_02193	CDS	900	era		COG1159	GTPase Era
+MAG168_02194	CDS	717	recO		COG1381	DNA repair protein RecO
+MAG168_02195	CDS	402	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+MAG168_02196	CDS	888				hypothetical protein
+MAG168_02197	CDS	858	cysM	2.5.1.47	COG0031	Cysteine synthase B
+MAG168_02198	CDS	1305	rlmD	2.1.1.190	COG2265	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+MAG168_02199	CDS	2217	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+MAG168_02200	CDS	651	adk	2.7.4.3		Adenylate kinase
+MAG168_02201	CDS	507				hypothetical protein
+MAG168_02202	CDS	504	mobA	2.7.7.77	COG0746	Molybdenum cofactor guanylyltransferase
+MAG168_02203	CDS	738	clcD_2	3.1.1.45		Carboxymethylenebutenolidase
+MAG168_02204	CDS	1326	cpg2	3.4.17.11		Carboxypeptidase G2
+MAG168_02205	CDS	864	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+MAG168_02206	CDS	843	fadB	4.2.1.17	COG1024	putative enoyl-CoA hydratase
+MAG168_02207	CDS	864	hsaD	3.7.1.17		4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase
+MAG168_02208	CDS	1413	panP	4.1.1.11	COG0076	Aspartate 1-decarboxylase
+MAG168_02209	CDS	732				hypothetical protein
+MAG168_02210	CDS	1536		3.1.4.-		Multifunctional alkaline phosphatase superfamily protein
+MAG168_02211	CDS	1308				hypothetical protein
+MAG168_02212	CDS	336				hypothetical protein
+MAG168_02213	CDS	618				putative HTH-type transcriptional regulator
+MAG168_02214	CDS	1116				hypothetical protein
+MAG168_02215	CDS	381				hypothetical protein
+MAG168_02216	CDS	1170	dapE_2	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+MAG168_02217	CDS	1017	dapD	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+MAG168_02218	CDS	1038	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+MAG168_02219	CDS	195		1.-.-.-		putative oxidoreductase
+MAG168_02220	CDS	1092	adhD	1.1.1.1	COG1062	Putative alcohol dehydrogenase D
+MAG168_02221	CDS	627				hypothetical protein
+MAG168_02222	CDS	717				hypothetical protein
+MAG168_02223	CDS	504				hypothetical protein
+MAG168_02224	CDS	906		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+MAG168_02225	CDS	462				hypothetical protein
+MAG168_02226	CDS	1005	mch	4.2.1.148	COG2030	Beta-methylmalyl-CoA dehydratase
+MAG168_02227	CDS	477	dhaa	4.1.3.41	COG3616	3-hydroxy-D-aspartate aldolase
+MAG168_02228	CDS	876	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+MAG168_02229	CDS	1170	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+MAG168_02230	CDS	1437	lpd_2	1.8.1.4		Dihydrolipoyl dehydrogenase
+MAG168_02231	CDS	1248	sucB	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+MAG168_02232	CDS	2874	sucA	1.2.4.2	COG0567	2-oxoglutarate dehydrogenase E1 component
+MAG168_02233	CDS	705	sdhB	1.3.5.1	COG0479	Succinate dehydrogenase iron-sulfur subunit
+MAG168_02234	CDS	1776	sdhA	1.3.5.1		Succinate dehydrogenase flavoprotein subunit
+MAG168_02235	CDS	369	sdhD		COG2142	Succinate dehydrogenase hydrophobic membrane anchor subunit
+MAG168_02236	CDS	387	sdhC		COG2009	Succinate dehydrogenase cytochrome b556 subunit
+MAG168_02237	CDS	1395	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+MAG168_02238	CDS	615	hflD		COG2915	High frequency lysogenization protein HflD
+MAG168_02239	CDS	1104	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+MAG168_02240	CDS	441	nudJ	3.6.1.-		Phosphatase NudJ
+MAG168_02241	CDS	420				hypothetical protein
+MAG168_02242	CDS	771	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+MAG168_02243	CDS	771	panC	6.3.2.1	COG0414	Pantothenate synthetase
+MAG168_02244	CDS	792	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+MAG168_02245	tRNA	77				tRNA-Met(cat)
+MAG168_02246	CDS	222				hypothetical protein
+MAG168_02247	CDS	951	metAS	2.3.1.46		Homoserine O-succinyltransferase
+MAG168_02248	CDS	264				hypothetical protein
+MAG168_02249	CDS	1320	exuT_3			Hexuronate transporter
+MAG168_02250	CDS	1002	yfmJ_3	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+MAG168_02251	CDS	465				hypothetical protein
+MAG168_02252	CDS	231				hypothetical protein
+MAG168_02253	CDS	927	dhmA_2	3.8.1.5	COG0596	Haloalkane dehalogenase
+MAG168_02254	CDS	1104	pheA		COG0077	P-protein
+MAG168_02255	CDS	1176	gyrA	5.99.1.3	COG0188	DNA gyrase subunit A
+MAG168_02256	CDS	738	rplB		COG0090	50S ribosomal protein L2
+MAG168_02257	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+MAG168_02258	CDS	333	rplV		COG0091	50S ribosomal protein L22
+MAG168_02259	CDS	678	rpsC		COG0092	30S ribosomal protein S3
+MAG168_02260	CDS	414	rplP		COG0197	50S ribosomal protein L16
+MAG168_02261	CDS	195	rpmC		COG0255	50S ribosomal protein L29
+MAG168_02262	CDS	267	rpsQ		COG0186	30S ribosomal protein S17
+MAG168_02263	CDS	369	rplN		COG0093	50S ribosomal protein L14
+MAG168_02264	CDS	318	rplX		COG0198	50S ribosomal protein L24
+MAG168_02265	CDS	543	rplE		COG0094	50S ribosomal protein L5
+MAG168_02266	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+MAG168_02267	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+MAG168_02268	CDS	534	rplF		COG0097	50S ribosomal protein L6
+MAG168_02269	CDS	351	rplR			50S ribosomal protein L18
+MAG168_02270	CDS	507	rpsE		COG0098	30S ribosomal protein S5
+MAG168_02271	CDS	192	rpmD		COG1841	50S ribosomal protein L30
+MAG168_02272	CDS	435	rplO		COG0200	50S ribosomal protein L15
+MAG168_02273	CDS	1326	secY		COG0201	Protein translocase subunit SecY
+MAG168_02274	CDS	357	rpsM		COG0099	30S ribosomal protein S13
+MAG168_02275	CDS	402	rpsK		COG0100	30S ribosomal protein S11
+MAG168_02276	CDS	621	rpsD		COG0522	30S ribosomal protein S4
+MAG168_02277	CDS	1002	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+MAG168_02278	CDS	399	rplQ		COG0203	50S ribosomal protein L17
+MAG168_02279	CDS	162				hypothetical protein
+MAG168_02280	CDS	1617	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+MAG168_02281	CDS	585	comM		COG0606	Competence protein ComM
+MAG168_02282	CDS	408			COG3245	Cytochrome c5
+MAG168_02283	CDS	1530	guaB	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+MAG168_02284	CDS	1551	lcfB_7	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+MAG168_02285	CDS	639	dsbA_2		COG0526	Thiol:disulfide interchange protein DsbA
+MAG168_02286	CDS	387	cycA		COG2863	Cytochrome c4
+MAG168_02287	CDS	213				hypothetical protein
+MAG168_02288	CDS	1014	potA	3.6.3.31	COG3842	Spermidine/putrescine import ATP-binding protein PotA
+MAG168_02289	CDS	780	ydcV			Inner membrane ABC transporter permease protein YdcV
+MAG168_02290	CDS	822	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+MAG168_02291	CDS	492				hypothetical protein
+MAG168_02292	CDS	363				hypothetical protein
+MAG168_02293	CDS	1272	uhpC_2		COG2271	Membrane sensor protein UhpC
+MAG168_02294	CDS	471				hypothetical protein
+MAG168_02295	CDS	1263	czcA			Cobalt-zinc-cadmium resistance protein CzcA
+MAG168_02296	CDS	1023				hypothetical protein
+MAG168_02297	CDS	291				hypothetical protein
+MAG168_02298	CDS	255				hypothetical protein
+MAG168_02299	CDS	567	yeiP		COG0231	Elongation factor P-like protein
+MAG168_02300	CDS	1659		6.2.1.42		3-oxocholest-4-en-26-oate--CoA ligase
+MAG168_02301	CDS	609				hypothetical protein
+MAG168_02302	CDS	2574	acnB	4.2.1.3	COG1049	Aconitate hydratase B
+MAG168_02303	CDS	1086	tgpA	2.3.2.13	COG1305	Protein-glutamine gamma-glutamyltransferase
+MAG168_02304	CDS	726				hypothetical protein
+MAG168_02305	CDS	1356	garB	1.8.1.16		Glutathione amide reductase
+MAG168_02306	CDS	528				hypothetical protein
+MAG168_02307	CDS	1203				hypothetical protein
+MAG168_02308	CDS	996	dan	3.5.1.81		D-aminoacylase
+MAG168_02309	CDS	300				hypothetical protein
+MAG168_02310	CDS	237				hypothetical protein
+MAG168_02311	CDS	1566	bicA		COG0659	Bicarbonate transporter BicA
+MAG168_02312	CDS	537	yaeQ		COG4681	putative protein YaeQ
+MAG168_02313	CDS	129				hypothetical protein
+MAG168_02314	CDS	267				hypothetical protein
+MAG168_02315	CDS	990				hypothetical protein
+MAG168_02316	CDS	1389	bkdB_2	2.3.1.168	COG0508	Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex
+MAG168_02317	CDS	975	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+MAG168_02318	CDS	687	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+MAG168_02319	CDS	756	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+MAG168_02320	CDS	210				hypothetical protein
+MAG168_02321	CDS	2868	msbA	3.6.3.-	COG1132	Lipid A export ATP-binding/permease protein MsbA
+MAG168_02322	CDS	423	exbD_2		COG0848	Biopolymer transport protein ExbD
+MAG168_02323	CDS	375	tolQ_2		COG0811	Protein TolQ
+MAG168_02324	CDS	1173		1.14.-.-	COG2124	Putative cytochrome P450 136
+MAG168_02325	CDS	531	bphC2	1.13.11.39		Biphenyl-2,3-diol 1,2-dioxygenase 2
+MAG168_02326	CDS	1395		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+MAG168_02327	CDS	1410				hypothetical protein
+MAG168_02328	CDS	1092	uctC_6	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+MAG168_02329	CDS	159				hypothetical protein
+MAG168_02330	CDS	1200				hypothetical protein
+MAG168_02331	CDS	318				hypothetical protein
+MAG168_02332	CDS	1086	mltC	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase C
+MAG168_02333	CDS	1227			COG2081	putative protein
+MAG168_02334	CDS	396				hypothetical protein
+MAG168_02335	CDS	1773	atsA_4	3.1.6.1	COG3119	Arylsulfatase
+MAG168_02336	CDS	1374	yicJ_3		COG2211	Inner membrane symporter YicJ
+MAG168_02337	CDS	1644		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+MAG168_02338	CDS	321	bnzC		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+MAG168_02339	CDS	861	tesB_3	3.1.2.-	COG1946	Acyl-CoA thioesterase 2
+MAG168_02340	CDS	174				hypothetical protein
+MAG168_02341	CDS	915		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+MAG168_02342	CDS	912			COG2141	putative protein
+MAG168_02343	CDS	837	Dml	4.1.3.32		2,3-dimethylmalate lyase
+MAG168_02344	CDS	3477	recB	3.1.11.5	COG1074	RecBCD enzyme subunit RecB
+MAG168_02345	CDS	2178				hypothetical protein
+MAG168_02346	CDS	1485	rebH	1.14.19.9		Flavin-dependent tryptophan halogenase RebH
+MAG168_02347	CDS	318				hypothetical protein
+MAG168_02348	CDS	279				hypothetical protein
+MAG168_02349	CDS	282				hypothetical protein
+MAG168_02350	CDS	318				hypothetical protein
+MAG168_02351	CDS	690	resA_2		COG0526	Thiol-disulfide oxidoreductase ResA
+MAG168_02352	CDS	219				hypothetical protein
+MAG168_02353	CDS	1152				hypothetical protein
+MAG168_02354	CDS	930	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+MAG168_02355	CDS	891				hypothetical protein
+MAG168_02356	CDS	174	csrA		COG1551	Carbon storage regulator
+MAG168_02357	CDS	903		2.7.2.4	COG0527	Aspartate kinase
+MAG168_02358	CDS	1266	srmB	3.6.4.13	COG0513	ATP-dependent RNA helicase SrmB
+MAG168_02359	CDS	747	arnA		COG0223	Bifunctional polymyxin resistance protein ArnA
+MAG168_02360	CDS	543				hypothetical protein
+MAG168_02361	CDS	990	yfmJ_4	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+MAG168_02362	CDS	1179			COG1680	putative protein
+MAG168_02363	CDS	1041		2.7.1.-	COG3173	Putative aminoglycoside phosphotransferase
+MAG168_02364	CDS	1329				hypothetical protein
+MAG168_02365	CDS	1035				hypothetical protein
+MAG168_02366	CDS	111				hypothetical protein
+MAG168_02367	CDS	381	dgkA	2.7.1.107	COG0818	Diacylglycerol kinase
+MAG168_02368	CDS	930	yijE			putative cystine transporter YijE
+MAG168_02369	CDS	1071				hypothetical protein
+MAG168_02370	CDS	2187				hypothetical protein
+MAG168_02371	CDS	1155				hypothetical protein
+MAG168_02372	CDS	519				hypothetical protein
+MAG168_02373	CDS	1188	rsbP	3.1.3.3	COG2208	Phosphoserine phosphatase RsbP
+MAG168_02374	CDS	990				hypothetical protein
+MAG168_02375	CDS	2847	uvrA_2		COG0178	UvrABC system protein A
+MAG168_02376	CDS	1173	yajR		COG0477	Inner membrane transport protein YajR
+MAG168_02377	CDS	495	ssb		COG0629	Single-stranded DNA-binding protein
+MAG168_02378	CDS	627	lon2	3.4.21.53	COG0466	Lon protease 2
+MAG168_02379	CDS	1266	proA	1.2.1.41		Gamma-glutamyl phosphate reductase
+MAG168_02380	CDS	648	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+MAG168_02381	CDS	354	rsfS			Ribosomal silencing factor RsfS
+MAG168_02382	CDS	468	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+MAG168_02383	CDS	1908	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+MAG168_02384	CDS	1143	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+MAG168_02385	CDS	1005	mltB	4.2.2.-	COG2951	Membrane-bound lytic murein transglycosylase B
+MAG168_02386	CDS	999	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+MAG168_02387	CDS	264				hypothetical protein
+MAG168_02388	CDS	2853	btuB_2		COG4206	Vitamin B12 transporter BtuB
+MAG168_02389	CDS	399	yghU	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YghU
+MAG168_02390	CDS	543	aroK_2	2.7.1.71		Shikimate kinase
+MAG168_02391	CDS	468	ribH2	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase 2
+MAG168_02392	CDS	363	dksA_2		COG1734	RNA polymerase-binding transcription factor DksA
+MAG168_02393	CDS	2031	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+MAG168_02394	CDS	1764				hypothetical protein
+MAG168_02395	CDS	609				hypothetical protein
+MAG168_02396	CDS	552				hypothetical protein
+MAG168_02397	CDS	1176				hypothetical protein
+MAG168_02398	CDS	147				hypothetical protein
+MAG168_02399	CDS	243				hypothetical protein
+MAG168_02400	CDS	135				hypothetical protein
+MAG168_02401	CDS	1125	tdh_2	1.1.1.103		L-threonine 3-dehydrogenase
+MAG168_02402	CDS	444				hypothetical protein
+MAG168_02403	CDS	1218	ytrF		COG0577	ABC transporter permease YtrF
+MAG168_02404	CDS	894				hypothetical protein
+MAG168_02405	CDS	747	acuR			Transcriptional regulator AcuR
+MAG168_02406	CDS	510				hypothetical protein
+MAG168_02407	CDS	1704	araC	4.2.1.25		L-arabonate dehydratase
+MAG168_02408	CDS	906	Hgd_2	1.1.1.291		2-(hydroxymethyl)glutarate dehydrogenase
+MAG168_02409	CDS	273				hypothetical protein
+MAG168_02410	CDS	1548	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+MAG168_02411	CDS	744	speE_2	2.5.1.104	COG0421	Polyamine aminopropyltransferase
+MAG168_02412	CDS	1257				hypothetical protein
+MAG168_02413	CDS	741		1.-.-.-		putative oxidoreductase
+MAG168_02414	CDS	858			COG2141	putative protein
+MAG168_02415	CDS	672	ilvX	2.2.1.6	COG0028	Putative acetolactate synthase large subunit IlvX
+MAG168_02416	CDS	1059	fgd2_3	1.1.98.-	COG2141	F420-dependent hydroxymycolic acid dehydrogenase
+MAG168_02417	CDS	411	hmrR			HTH-type transcriptional regulator HmrR
+MAG168_02418	CDS	468				hypothetical protein
+MAG168_02419	CDS	390				hypothetical protein
+MAG168_02420	CDS	1494				hypothetical protein
+MAG168_02421	CDS	1740	cusB			Cation efflux system protein CusB
+MAG168_02422	CDS	135				hypothetical protein
+MAG168_02423	CDS	1422	rseP	3.4.24.-	COG0750	Regulator of sigma-E protease RseP
+MAG168_02424	CDS	756		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+MAG168_02425	CDS	1128		1.3.99.-	COG1960	putative acyl-CoA dehydrogenase fadE25
+MAG168_02426	CDS	831	fabG_13	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MAG168_02427	CDS	297				hypothetical protein
+MAG168_02428	CDS	837		1.3.99.-	COG1960	putative acyl-CoA dehydrogenase fadE25
+MAG168_02429	tRNA	85				tRNA-Leu(tag)
+MAG168_02430	CDS	1401	tig	5.2.1.8	COG0544	Trigger factor
+MAG168_02431	CDS	651	clpP_2	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+MAG168_02432	CDS	1281	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+MAG168_02433	CDS	1653	ftsI	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI
+MAG168_02434	CDS	1461	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+MAG168_02435	CDS	1347	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+MAG168_02436	CDS	1182	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+MAG168_02437	CDS	1401	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+MAG168_02438	CDS	747	ftsQ		COG1589	Cell division protein FtsQ
+MAG168_02439	CDS	252				hypothetical protein
+MAG168_02440	CDS	5958	pilY1			Type IV pilus biogenesis factor PilY1
+MAG168_02441	CDS	384				hypothetical protein
+MAG168_02442	CDS	198				hypothetical protein
+MAG168_02443	CDS	1782		3.4.11.10		Bacterial leucyl aminopeptidase
+MAG168_02444	CDS	228	yfmJ_5	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+MAG168_02445	CDS	618	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+MAG168_02446	CDS	489	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+MAG168_02447	CDS	909	truD	5.4.99.27	COG0585	tRNA pseudouridine synthase D
+MAG168_02448	CDS	666	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+MAG168_02449	CDS	945				hypothetical protein
+MAG168_02450	CDS	768	nlpD			Murein hydrolase activator NlpD
+MAG168_02451	CDS	324	fdxA		COG1146	Ferredoxin-1
+MAG168_02452	CDS	2586	mutS		COG0249	DNA mismatch repair protein MutS
+MAG168_02453	CDS	300				hypothetical protein
+MAG168_02454	CDS	1056	recA		COG0468	Protein RecA
+MAG168_02455	CDS	795	recX		COG2137	Regulatory protein RecX
+MAG168_02456	CDS	2601	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+MAG168_02457	CDS	1557	pccB_2	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+MAG168_02458	CDS	1143	pntAA	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+MAG168_02459	CDS	285	pntA	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha
+MAG168_02460	CDS	1371	pntB	1.6.1.2	COG1282	NAD(P) transhydrogenase subunit beta
+MAG168_02461	CDS	165				hypothetical protein
+MAG168_02462	CDS	1170	ampC_3	3.5.2.6	COG1680	Beta-lactamase
+MAG168_02463	CDS	348				hypothetical protein
+MAG168_02464	CDS	1245	hutI_3	3.5.2.7	COG1228	Imidazolonepropionase
+MAG168_02465	CDS	423				hypothetical protein
+MAG168_02466	CDS	471	iorA_3	1.3.99.16		Isoquinoline 1-oxidoreductase subunit alpha
+MAG168_02467	CDS	1212			COG1167	Putative aminotransferase/MSMEI_6121
+MAG168_02468	CDS	957	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+MAG168_02469	CDS	1239				hypothetical protein
+MAG168_02470	CDS	570				hypothetical protein
+MAG168_02471	CDS	648	estB_2	3.1.1.1	COG0400	Carboxylesterase 2
+MAG168_02472	CDS	855			COG5285	putative protein
+MAG168_02473	CDS	375	yjgH		COG0251	RutC family protein YjgH
+MAG168_02474	CDS	1017		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+MAG168_02475	CDS	1056				hypothetical protein
+MAG168_02476	CDS	456				hypothetical protein
+MAG168_02477	CDS	396				hypothetical protein
