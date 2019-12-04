@@ -1,4 +1,6 @@
-# Directories
+# MICB405 - Project 1 - Team 10
+
+## Directories
 * `Code`
   * Python scripts and executables provided by MICB405 instructors
 * `HQMQ_groups`
@@ -29,7 +31,7 @@
 * `txt`
   * all generated `txt` files
 
-# Files
+## Files
 * `Evaluation.md`
   * evaluation rubric for `Project2` assessment
 * `Project2.md`
