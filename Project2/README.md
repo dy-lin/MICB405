@@ -1,4 +1,4 @@
-# MICB405 - Project 1 - Team 10
+# MICB405 - Project 2 - Team 10
 
 ## Directories
 * `Code`
