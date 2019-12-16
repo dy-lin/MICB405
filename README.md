@@ -14,3 +14,6 @@
   
 ## `tutorials`
 * holds the bash scripts used in Friday tutorials
+
+## `review`
+* holds the review material for the MICB405 final exam
