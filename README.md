@@ -1,4 +1,8 @@
-# MICB405
+# MICB405: Bioinformatics
+
+Computational methods to analyze genome and protein sequences to derive structural and functional information. Related topics in functional genomics.
+
+Winter 2019, Term 1, UBC Academic Calendar: http://www.calendar.ubc.ca/archive/vancouver/1920/coursesfe17.html?page=code&code=MICB
 
 ## `R_module`
 * holds the Rscripts that were used during the EDUCE-UBC R modules
